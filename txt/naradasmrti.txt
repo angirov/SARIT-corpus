@@ -1,0 +1,4410 @@
+
+ 
+ 
+ 
+ The Nāradasmṛti - SARIT transcript 
+ 
+ Compilation, data entry, proof correction by  Yasuke Ikari, Kyoto
+                        University  Editing and conversion to TEI markup by
+                         Richard Mahoney, Indica et Buddhica 
+ 
+ 
+ 
+ SARIT: Search and Retrieval of
+                            Indic Texts 
+ 
+ 
+ 2009 
+ 
+ 
+ 
+ Financial support by The British Association for South Asian
+                        Studies 
+ 
+ 
+ 
+ 
+ 
+ 
+                Part 1
+		Mātṛkā  (Prolegomena) 
+ L tr. 1-22 , cf.  J tr. 4-15 
+ 
+                    Chapter 1
+		    Vyavahāraḥ  (Legal Procedure) 
+ L tr. 1-19 , cf.  J tr. 4-11 
+ 
+ 
+ Mātṛkā 01.001a  dharma.ekatānāḥ puruṣā yadāsan satyavādinaḥ | 
+ Mātṛkā 01.001c  tadā na vyavahāro 'bhūn na dveṣo nāpi matsaraḥ || 1 || 
+ 
+ 
+ Mātṛkā 01.002a  naṣṭe dharme manuṣyeṣu vyavahāraḥ pravartate | 
+ Mātṛkā 01.002c  draṣṭā ca vyavahārāṇāṃ rājā daṇḍadharaḥ kṛtaḥ || 2 || 
+ 
+ 
+ 
+ Mātṛkā 01.003a  likhitaṃ sākṣiṇaś cātra dvau vidhī samprakīrtitau | 
+ Mātṛkā 01.003c  sandigdhārthaviśuddhyarthaṃ dvayor vivadamānayoḥ || 3 || 
+ 
+ 
+ Mātṛkā 01.004a  sottaro 'nuttaraś caiva sa vijñeyo dvilakṣaṇaḥ | 
+ Mātṛkā 01.004c  sottaro 'bhyadhiko yatra vilekhāpūrvakaḥ paṇaḥ || 4 || 
+ 
+ 
+ 
+ Mātṛkā 01.005a  vivāde sottarapaṇe dvayor yas tatra hīyate | 
+ Mātṛkā 01.005c  sa paṇaṃ svakṛtaṃ dāpyo vinayaṃ ca parājaye || 5 || 
+ 
+ 
+ 
+ Mātṛkā 01.006a  sāras tu vyavahārāṇāṃ pratijñā samudāhṛtā | 
+ Mātṛkā 01.006c  taddhānau hīyate vādī taraṃs tām uttaro bhavet || 6 || 
+ 
+ 
+ 
+ Mātṛkā 01.007a  kulāni śreṇayaś caiva gaṇāś cādhikṛto nṛpaḥ | 
+ Mātṛkā 01.007c  pratiṣṭhā vyavahārāṇāṃ gurvebhyas tūttarottaram || 7 || 
+ 
+ 
+ Mātṛkā 01.008a  sa catuṣpāc catuḥsthānaś catuḥsādhana eva ca | 
+ Mātṛkā 01.008c  caturhitaś caturvyāpī catuṣkārī ca kīrtyate || 8 || 
+ 
+ 
+ 
+ Mātṛkā 01.009a  aṣṭāṅgo 'ṣṭādaśapadaḥ śataśākhas tathā-eva ca | 
+ Mātṛkā 01.009c  triyonir dvyabhiyogaś ca dvidvāro dvigatis tathā || 9 || 
+ 
+ 
+ Mātṛkā 01.010a  dharmaś ca vyavahāraś ca caritraṃ rājaśāsanam | 
+ Mātṛkā 01.010c  catuṣpād vyavahāro 'yam uttaraḥ pūrvabādhakaḥ || 10 || 
+ 
+ 
+ Mātṛkā 01.011a  tatra satye sthito dharmo vyavahāras tu sākṣiṣu | 
+ Mātṛkā 01.011c  caritraṃ pustakaraṇe rājājñāyāṃ tu śāsanam || 11 || 
+ 
+ 
+ 
+ Mātṛkā 01.012a  sāmādyupāyasādhyatvāc catuḥsādhana ucyate | 
+ Mātṛkā 01.012c  caturṇām āśramāṇāṃ ca rakṣaṇāt sa caturhitaḥ || 12 || 
+ 
+ 
+ Mātṛkā 01.013a  kartṝn atho sākṣiṇaś ca sabhyān rājānam eva ca | 
+ Mātṛkā 01.013c  vyāpnoti pādaśo yasmāc caturvyāpī tataḥ smṛtaḥ || 13 || 
+ 
+ 
+ Mātṛkā 01.014a  dharmasyārthasya yaśaso lokapaktes tathā-eva ca | 
+ Mātṛkā 01.014c  caturṇāṃ karaṇād eṣāṃ catuṣkārī prakīrtitaḥ || 14 || 
+ 
+ 
+ Mātṛkā 01.015a  rājā sapuruṣaḥ sabhyāḥ śāstraṃ gaṇakalekhakau | 
+ Mātṛkā 01.015c  hiraṇyam agnir udakam aṣṭāṅgaḥ sa udāhṛtaḥ || 15 || 
+ 
+ 
+ 
+ Mātṛkā 01.016a  ṛṇādānaṃ hy upanidhiḥ sambhūya-utthānam eva ca | 
+ Mātṛkā 01.016c  dattasya punar ādānam aśuśrūṣābhyupetya ca || 16 || 
+ 
+ 
+ Mātṛkā 01.017a  vetanasyānapākarma tathā-eva-asvāmivikrayaḥ | 
+ Mātṛkā 01.017c  vikrīya-asampradānaṃ ca krītvānuśaya eva ca || 17 || 
+ 
+ 
+ Mātṛkā 01.018a  samayasyānapākarma vivādaḥ kṣetrajas tathā | 
+ Mātṛkā 01.018c  strīpuṃsayoś ca sambandho dāyabhāgo 'tha sāhasam || 18 || 
+ 
+ 
+ Mātṛkā 01.019a  vākpāruṣyaṃ tathā-eva-uktaṃ daṇḍapāruṣyam eva ca | 
+ Mātṛkā 01.019c  dyūtaṃ prakīrṇakaṃ caiva-ity aṣṭādaśapadaḥ smṛtaḥ || 19 || 
+ 
+ 
+ Mātṛkā 01.020a  eṣām eva prabhedo 'nyaḥ śatam aṣṭa.uttaraṃ smṛtam | 
+ Mātṛkā 01.020c  kriyābhedān manuṣyāṇāṃ śataśākho nigadyate || 20 || 
+ 
+ 
+ 
+ Mātṛkā 01.021a  kāmāt krodhāc ca lobhāc ca tribhyo yasmāt pravartate | 
+ Mātṛkā 01.021c  triyoniḥ kīrtyate tena trayam etad vivādakṛt || 21 || 
+ 
+ 
+ Mātṛkā 01.022a  dvyabhiyogas tu vijñeyaḥ śaṅkātattvābhiyogataḥ | 
+ Mātṛkā 01.022c  śaṅkāsatāṃ tu saṃsargāt tattvaṃ ha-ūḍhādidarśanāt || 22 || 
+ 
+ 
+ 
+ Mātṛkā 01.023a  pakṣadvayābhisambandhād dvidvāraḥ samudāhṛtaḥ | 
+ Mātṛkā 01.023c  pūrvavādas tayoḥ pakṣaḥ pratipakṣas taduttaram || 23 || 
+ 
+ 
+ Mātṛkā 01.024a  bhūtacchalānusāritvād dvigatiḥ sa udāhṛtaḥ | 
+ Mātṛkā 01.024c  bhūtaṃ tattvārthasaṃyuktaṃ pramādābhihitaṃ chalam || 24 || 
+ 
+ 
+ 
+ Mātṛkā 01.025a  tatra śiṣṭaṃ chalaṃ rājā marṣayed dharmasādhanaḥ | 
+ Mātṛkā 01.025c  bhūtam eva prapadyeta dharmamūlā yataḥ śriyaḥ || 25 || 
+ 
+ 
+ Mātṛkā 01.026a  dharmeṇa-uddharato rājño vyavahārān kṛtātmanaḥ | 
+ Mātṛkā 01.026c  sambhavanti guṇāḥ sapta sapta vahner ivārciṣaḥ || 26 || 
+ 
+ 
+ 
+ Mātṛkā 01.027a  dharmaś cārthaś ca kīrtiś ca lokapaktir upagrahaḥ | 
+ Mātṛkā 01.027c  prajābhyo bahumānaś ca svarge sthānaṃ ca śāśvatam || 27 || 
+ 
+ 
+ Mātṛkā 01.028a  tasmād dharmāsanaṃ prāpya rājā vigatamatsaraḥ | 
+ Mātṛkā 01.028c  samaḥ syāt sarvabhūteṣu bibhrad vaivasvataṃ vratam || 28
+                            || 
+ 
+ 
+ Mātṛkā 01.029a  dharmaśāstraṃ puraskṛtya prāḍvivākamate sthitaḥ | 
+ Mātṛkā 01.029c  samāhitamatiḥ paśyed vyavahārān anukramāt || 29 || 
+ 
+ 
+ Mātṛkā 01.030a  āgamaḥ prathamaṃ kāryo vyavahārapadaṃ tataḥ | 
+ Mātṛkā 01.030c  vivitsā nirṇayaś caiva darśanaṃ syāc caturvidham || 30 || 
+ 
+ 
+ 
+ Mātṛkā 01.031a  dharmaśāstrārthaśāstrābhyām avirodhena mārgataḥ | 
+ Mātṛkā 01.031c  samīkṣamāṇo nipuṇaṃ vyavahāragatiṃ nayet || 31 || 
+ 
+ 
+ Mātṛkā 01.032a  yathā mṛgasya viddhasya vyādho mṛgapadaṃ nayet | 
+ Mātṛkā 01.032c  kakṣe śoṇitaleśena tathā dharmapadaṃ nayet || 32 || 
+ 
+ 
+ Mātṛkā 01.033a  yatra vipratipattiḥ syād dharmaśāstrārthaśāstrayoḥ | 
+ Mātṛkā 01.033c  arthaśāstra.uktam utsṛjya dharmaśāstra.uktam ācāret || 33
+                            || 
+ 
+ 
+ 
+ Mātṛkā 01.034a  dharmaśāstravirodhe tu yuktiyukto 'pi dharmataḥ | 
+ Mātṛkā 01.034c  vyavahāro hi balavān dharmas tenāvahīyate || 34 || 
+ 
+ 
+ Mātṛkā 01.035a  sūkṣmo hi bhagavān dharmaḥ parokṣo durvicāraṇaḥ | 
+ Mātṛkā 01.035c  ataḥ pratyakṣamārgeṇa vyavahāragatiṃ nayet || 35 || 
+ 
+ 
+ 
+ Mātṛkā 01.036a  yāty acauro 'pi cauratvaṃ cauraś cāyāty acauratām | 
+ Mātṛkā 01.036c  acauraś cauratāṃ prāpto māṇḍavyo vyavahārataḥ || 36 || 
+ 
+ 
+ Mātṛkā 01.037a  strīṣu rātrau bahir grāmād antarveśmany arātiṣu | 
+ Mātṛkā 01.037c  vyavahāraḥ kṛto 'py eṣu punaḥ kartavyatām iyāt || 37 || 
+ 
+ 
+ Mātṛkā 01.038a  gahanatvād vivādānām asāmarthyāt smṛter api | 
+ Mātṛkā 01.038c  ṛṇādiṣu haret kālaṃ kāmaṃ tattvabubhutsayā || 38 || 
+ 
+ 
+ Mātṛkā 01.039a  gobhūhiraṇyastrīsteyapāruṣyātyayikeṣu ca | 
+ Mātṛkā 01.039c  sāhaseṣv abhiśāpe ca sadya eva vivādayet || 39 || 
+ 
+ 
+ 
+ Mātṛkā 01.040a  anāvedya tu yo rājñe sandigdhe 'rthe pravartate | 
+ Mātṛkā 01.040c  prasahya sa vineyaḥ syāt sa cāsyārtho na sidhyati || 40 || 
+ 
+ 
+ Mātṛkā 01.041a  vaktavye 'rthe na tiṣṭhantam utkrāmantaṃ ca tadvacaḥ | 
+ Mātṛkā 01.041c  āsedhayed vivādārthī yāvad āhvānadarśanam || 41 || 
+ 
+ 
+ Mātṛkā 01.042a  sthānāsedhaḥ kālakṛtaḥ pravāsāt karmaṇas tathā | 
+ Mātṛkā 01.042c  caturvidhaḥ syād āsedho nāsiddhas taṃ vilaṅghayet || 42 || 
+ 
+ 
+ Mātṛkā 01.043a  nadīsantārakāntāradurdeśa.upaplavādiṣu | 
+ Mātṛkā 01.043c  āsiddhas taṃ parāsedham utkrāman nāparādhnuyāt || 43 || 
+ 
+ 
+ 
+ Mātṛkā 01.044a  āsedhakāla āsiddha āsedham yo vyatikramet | 
+ Mātṛkā 01.044c  sa vineyo 'nyathā kurvann āseddhā daṇḍabhāg bhavet || 44
+                            || 
+ 
+ 
+ Mātṛkā 01.045a  nirveṣṭukāmo rogārto yiyakṣur vyasane sthitaḥ | 
+ Mātṛkā 01.045c  abhiyuktas tathānyena rājakārya.udyatas tathā || 45 || 
+ 
+ 
+ Mātṛkā 01.046a  gavāṃ pracāre gopālāḥ sasyabandhe kṛṣīvalāḥ | 
+ Mātṛkā 01.046c  śilpinaḥ cāpi tatkālam āyudhīyāś ca vigrahe || 46 || 
+ 
+ 
+ Mātṛkā 01.047a  aprāptavyavahāraś ca dūto dāna.unmukho vratī | 
+ Mātṛkā 01.047c  viṣamasthaś ca nāsedhyo na ca-enān āhvayen nṛpaḥ || 47 || 
+ 
+ 
+ 
+ Mātṛkā 01.048a  nābhiyukto 'bhiyuñjīta tam atīrtvārtham anyataḥ | 
+ Mātṛkā 01.048c  na cābhiyuktam anyena na viddhaṃ veddhum arhati || 48 || 
+ 
+ 
+ Mātṛkā 01.049a  yam artham abhiyuñjīta na taṃ viprakṛtiṃ nayet | 
+ Mātṛkā 01.049c  nānyat pakṣāntaraṃ gacched gacchan pūrvāt sa hīyate || 49
+                            || 
+ 
+ 
+ Mātṛkā 01.050a  na ca mithyābhiyuñjīta doṣo mithyābhiyoginaḥ | 
+ Mātṛkā 01.050c  yas tatra vinayaḥ proktaḥ so 'bhiyoktāram āvrajet || 50 || 
+ 
+ 
+ 
+ Mātṛkā 01.051a  sāpadeśaṃ haran kālam abruvaṃś cāpi saṃsadi | 
+ Mātṛkā 01.051c  uktvā vaco vibruvaṃś ca hīyamānasya lakṣaṇam || 51 || 
+ 
+ 
+ Mātṛkā 01.052a  palāyate ya āhūtaḥ prāptaś ca vivaden na yaḥ | 
+ Mātṛkā 01.052c  vineyaḥ sa bhaved rājñā hīna eva sa vādataḥ || 52 || 
+ 
+ 
+ 
+ Mātṛkā 01.053a  nirṇiktavyavahāreṣu pramāṇam aphalaṃ bhavet | 
+ Mātṛkā 01.053c  likhitaṃ sākṣiṇo vāpi pūrvam āveditaṃ na cet || 53 || 
+ 
+ 
+ Mātṛkā 01.054a  yathā pakveṣu dhānyeṣu niṣphalāḥ prāvṛṣo guṇāḥ | 
+ Mātṛkā 01.054c  nirṇiktavyavahārāṇāṃ pramāṇam aphalaṃ tathā || 54 || 
+ 
+ 
+ 
+ Mātṛkā 01.055a  abhūtam apy abhihitaṃ prāptakālaṃ parīkṣyate | 
+ Mātṛkā 01.055c  yat tu pramādān na-ucyeta tad bhūtam api hīyate || 55 || 
+ 
+ 
+ Mātṛkā 01.056a  tīritaṃ cānuśiṣṭaṃ ca yo manyeta vidharmataḥ | 
+ Mātṛkā 01.056c  dviguṇaṃ daṇḍam āsthāya tat kāryaṃ punar uddharet || 56 || 
+ 
+ 
+ 
+ Mātṛkā 01.057a  durdṛṣṭe vyavahāre tu sabhyās taṃ daṇḍam āpnuyuḥ | 
+ Mātṛkā 01.057c  na hi jātu vinā daṇḍaṃ kaścin mārge 'vatiṣṭhate || 57 || 
+ 
+ 
+ Mātṛkā 01.058a  rāgād ajñānato vāpi lobhād vā yo 'nyathā vadet | 
+ Mātṛkā 01.058c  sabhyo 'sabhyaḥ sa vijñeyas taṃ rājā vinayed bhṛśam || 58
+                            || 
+ 
+ 
+ 
+ Mātṛkā 01.059a  kintu rājñā viśeṣeṇa svadharmam anurakṣatā | 
+ Mātṛkā 01.059c  manuṣyacittavaicitryāt parīkṣyā sādhvasādhutā || 59 || 
+ 
+ 
+ 
+ Mātṛkā 01.060a  puruṣāḥ santi ye lobhāt prabrūyuḥ sākṣyam anyathā | 
+ Mātṛkā 01.060c  santi cānye durātmānaḥ kūṭalekhyakṛto janāḥ || 60 || 
+ 
+ 
+ Mātṛkā 01.061a  ataḥ parīkṣyam ubhayam etad rājñā viśeṣataḥ | 
+ Mātṛkā 01.061c  lekhyācāreṇa likhitaṃ sākṣyācāreṇa sākṣiṇaḥ || 61 || 
+ 
+ 
+ Mātṛkā 01.062a  asatyāḥ satyasaṅkāśāḥ satyāś cāsatyadarśanāḥ | 
+ Mātṛkā 01.062c  dṛśyante vividhā bhāvās tasmād yuktaṃ parīkṣaṇam || 62 || 
+ 
+ 
+ Mātṛkā 01.063a  talavad dṛśyate vyoma khadyoto havyavāḍ iva | 
+ Mātṛkā 01.063c  na talaṃ vidyate vyomni na khadyote hutāśanaḥ || 63 || 
+ 
+ 
+ Mātṛkā 01.064a  tasmāt pratyakṣadṛṣṭo 'pi yuktam arthaḥ parīkṣitum | 
+ Mātṛkā 01.064c  parīkṣya jñāpayan arthān na dharmāt parihīyate || 64 || 
+ 
+ 
+ 
+ Mātṛkā 01.065a  evaṃ paśyan sadā rājā vyavahārān samāhitaḥ | 
+ Mātṛkā 01.065c  vitatya-iha yaśo dīptaṃ bradhnasyāpnoti viṣṭapam || 65 || 
+ 
+ 
+ 
+ 
+                    Chapter 2
+Bhāṣā  (The Plaint) 
+ L tr. 229-238 , J tr. n/a 
+ 
+ Mātṛkā 02.001a  suniścitabalādhānas tv arthī svārthapracoditaḥ | 
+ Mātṛkā 02.001c  lekhayet pūrvapakṣaṃ tu kṛtakāryaviniścayaḥ ||  J edn Mā 2.1 
+                            || 
+ 
+ 
+ Mātṛkā 02.002a  pūrvapakṣaśrutārthas tu pratyarthī tadanantaram | 
+ Mātṛkā 02.002c  pūrvapakṣārthasambandhaṃ pratipakṣaṃ niveśayet ||  J edn Mā 2.2 
+                            || 
+ 
+ 
+ Mātṛkā 02.003a  śvo lekhanaṃ vā sa labhet tryahaṃ saptāham eva vā | 
+ Mātṛkā 02.003c  arthī tṛtīyapāde tu yuktaṃ sadyo dhruvaṃ jayī ||  J edn Mā 2.3 
+                            || 
+ 
+ 
+ 
+ Mātṛkā 02.004a  mithyā sampratipattir vā pratyavaskandam eva vā | 
+ Mātṛkā 02.004c  prāṅnyāyavidhisādhyaṃ vā uttaraṃ syāc caturvidham ||  J edn Mā
+                            2.4 || 
+ 
+ 
+ Mātṛkā 02.005a  mithyaitan nābhijānāmi tadā tatra na sannidhiḥ | 
+ Mātṛkā 02.005c  ajātaś cāsmi tatkāla evaṃ mithyā caturvidhā ||  J edn Mā 2.5 
+                            || 
+ 
+ 
+ Mātṛkā 02.006a  mithyā ca viparītaṃ ca punaḥ śabdasamāgamam | 
+ Mātṛkā 02.006c  pūrvapakṣārthasambandham uttaraṃ syāc caturvidham ||  J edn Mā 2.6 || 
+ 
+ 
+ Mātṛkā 02.007a  bhāṣāyā uttaraṃ yāvat pratyarthī na niveśayet | 
+ Mātṛkā 02.007c  arthī tu lekhayet tāvad yāvad vastu vivakṣitam ||  J edn Mā 2.7 
+                            || 
+ 
+ 
+ 
+ Mātṛkā 02.008a  anyārtham arthahīnaṃ ca pramāṇāgamavarjitam | 
+ Mātṛkā 02.008c  lekhyaṃ hīnādhikaṃ bhraṣṭaṃ bhāṣādoṣās tūdāhṛtāḥ ||  J edn Mā 2.8 || 
+ 
+ 
+ Mātṛkā 02.009a  labdhavyaṃ yena yad yasmāt sa tat tasmād avāpnuyāt | 
+ Mātṛkā 02.009c  na tv anyo 'nyad athānyasmād ity anyārtham idaṃ tridhā || J
+                            edn Mā 2.9 || 
+ 
+ 
+ Mātṛkā 02.010a  manasāham api dhyātas tvanmitreṇeha śatruvat | 
+ Mātṛkā 02.010c  ato 'nyathā mahākṣāntyā tvam ihāvedito mayā ||  J edn Mā 2.10 
+                            || 
+ 
+ 
+ Mātṛkā 02.011a  dravyapramāṇahīnaṃ yat phalopāśrayavarjitam | 
+ Mātṛkā 02.011c  pramāṇavarjitaṃ nāma lekhyadoṣaṃ tad utsṛjet ||  J edn Mā 2.11 
+                            || 
+ 
+ 
+ Mātṛkā 02.012a  āgamavarjitaṃ doṣaṃ pūrvapāde vivarjayet | 
+ Mātṛkā 02.012c  ekasya bahubhiḥ sārdhaṃ purarāṣṭravirodhakam ||  J edn Mā 2.12 
+                            || 
+ 
+ 
+ Mātṛkā 02.013a  bindumātrāpadavarṇeṣv ekāvidhiṣṭayā (?) | 
+ Mātṛkā 02.013c  hīnādhikā bhaved vyarthā tāṃ yatnena vivarjayet ||  J edn Mā 2.13 || 
+ 
+ 
+ Mātṛkā 02.014a  bhraṣṭaṃ tu duḥsthitaṃ yat syāj jalatailādibhir hatam | 
+ Mātṛkā 02.014c  bhāṣāyāṃ tad api spaṣṭaṃ vispaṣṭārthaṃ vivarjayet ||  J edn Mā 2.14 || 
+ 
+ 
+ Mātṛkā 02.015a  satyā bhāṣā na bhavati yady api syāt pratiṣṭhitā | 
+ Mātṛkā 02.015c  bahiś ced bhraśyate dharmān niyatād vyavahārikāt ||  J edn Mā 2.15, Manu 8.164 || 
+ 
+ 
+ 
+ Mātṛkā 02.016a  gandhamādanasaṃsthasya mayāsyāsīt tad arpitam | 
+ Mātṛkā 02.016c  vyavahārikadharmasya bāhyam etan na sidhyati ||  J edn Mā 2.16 
+                            || 
+ 
+ 
+ Mātṛkā 02.017a  anyākṣaraniveśena anyārthagamanena ca | 
+ Mātṛkā 02.017c  ākulaṃ ca kriyādānaṃ kriyā caivākulā bhavet ||  J edn Mā 2.17 
+                            || 
+ 
+ 
+ Mātṛkā 02.018a  rāgādīnāṃ yad ekena kopitaḥ karaṇe vadet | 
+ Mātṛkā 02.018c  tad ādau tu likhet sarvaṃ vādinaḥ phalakādiṣu ||  J edn Mā 2.18 
+                            || 
+ 
+ 
+ Mātṛkā 02.019a  nirākulāvabodhāya dharmasthaiḥ suvicāritam | 
+ Mātṛkā 02.019c  tasmād anyad vyapohyaṃ syād vādinaḥ phalakādiṣu ||  J edn Mā 2.19 || 
+ 
+ 
+ Mātṛkā 02.020a  vādibhyām abhyanujñātaṃ śeṣaṃ ca phalake sthitam | 
+ Mātṛkā 02.020c  sasākṣikaṃ likheyus te pratipattiṃ ca vādinoḥ ||  J edn Mā 2.20 
+                            || 
+ 
+ 
+ 
+ Mātṛkā 02.021a  vādibhyāṃ likhitāc cheṣaṃ yat punar vādinā smṛtam | 
+ Mātṛkā 02.021c  tat pratyākalitaṃ nāma svapāde tasya likhyate ||  J edn Mā 2.21 
+                            || 
+ 
+ 
+ Mātṛkā 02.022a  arthinā sanniyukto vā pratyarthiprahito 'pi vā | 
+ Mātṛkā 02.022c  yo yasyārthe vivadate tayor jayaparājayau ||  J edn Mā 2.22 
+                            || 
+ 
+ 
+ Mātṛkā 02.023a  yo na bhrātā na ca pitā na putro na niyogakṛt | 
+ Mātṛkā 02.023c  parārthavādī daṇḍyaḥ syād vyavahāre 'pi vibruvan ||  J edn Mā 2.23 || 
+ 
+ 
+ Mātṛkā 02.024a  pūrvavādaṃ parityajya yo 'nyam ālambate punaḥ | 
+ Mātṛkā 02.024c  vādasaṅkramaṇāj jñeyo hīnavādī sa vai naraḥ ||  J edn Mā 2.24 
+                            || 
+ 
+ 
+ 
+ Mātṛkā 02.025a  sarveṣv api vivādeṣu vākchale nāpahīyate | 
+ Mātṛkā 02.025c  paśustrībhūmyṛṇādāne śāsyo 'py arthān na hīyate ||  J edn Mā 2.25 || 
+ 
+ 
+ Mātṛkā 02.026a  abhiyukto 'bhiyogasya yadi kuryād apahnavam | 
+ Mātṛkā 02.026c  abhiyoktā diśed deśyaṃ pratyavaskandito na cet ||  J edn Mā 2.26 || 
+ 
+ 
+ Mātṛkā 02.027a  pūrvapāde hi likhitaṃ yathākṣaram aśeṣataḥ | 
+ Mātṛkā 02.027c  arthī tṛtīyapāde tu kriyayā pratipādayet ||  J edn Mā 2.27 
+                            || 
+ 
+ 
+ Mātṛkā 02.028a  kriyāpi dvividhā proktā mānuṣī daivikī tathā | 
+ Mātṛkā 02.028c  mānuṣī lekhyasākṣibhyāṃ dhaṭādir daivikī smṛtā ||  J edn Mā 2.28 || 
+ 
+ 
+ 
+ Mātṛkā 02.029a  divā kṛte kāryavidhau grāmeṣu nagareṣu vā | 
+ Mātṛkā 02.029c  sambhave sākṣiṇāṃ caiva divyā na bhavati kriyā ||  J edn Mā 2.29 || 
+ 
+ 
+ Mātṛkā 02.030a  araṇye nirjane rātrāv antarveśmani sāhase | 
+ Mātṛkā 02.030c  nyāsasyāpahnave caiva divyā sambhavati kriyā ||  J edn Mā 2.30 
+                            || 
+ 
+ 
+ Mātṛkā 02.031a  kāraṇapratipattyā ca pūrvapakṣe virodhite | 
+ Mātṛkā 02.031c  abhiyuktena vai bhāvyaṃ vijñeyaṃ pūrvapakṣavat ||  J edn Mā 2.31 || 
+ 
+ 
+ Mātṛkā 02.032a  palāyate ya āhūto maunī sākṣiparājitaḥ | 
+ Mātṛkā 02.032c  svayam abhyupapannaś ca avasannaś caturvidhaḥ ||  J edn Mā 2.32 
+                            || 
+ 
+ 
+ 
+ Mātṛkā 02.033a  anyavādī kriyādveṣī na-upasthātā niruttaraḥ | 
+ Mātṛkā 02.033c  āhūtaprapalāyī ca hīnaḥ pañcavidhaḥ smṛtaḥ ||  J edn Mā 2.33 
+                            || 
+ 
+ 
+ Mātṛkā 02.034a  maṇayaḥ padmarāgādyā dīnārādi hiraṇmayam | 
+ Mātṛkā 02.034c  muktāvidrumaśaṅkhādyāḥ praduṣṭāḥ svāmigāminaḥ ||  J edn Mā 2.34 
+                            || 
+ 
+ 
+ Mātṛkā 02.035a  gandhamālyam adattaṃ tu bhūṣaṇaṃ vāsa eva vā | 
+ Mātṛkā 02.035c  pādukā-iti rājā-uktaṃ tad ākrāman vadham arhati ||  J edn Mā 2.35 || 
+ 
+ 
+ 
+ Mātṛkā 02.036a  paṇyamūlyaṃ bhṛtir nyāso daṇḍo yac cāvahārakam | 
+ Mātṛkā 02.036c  vṛthādānākṣikapaṇā vardhante nāvivakṣitāḥ ||  J edn Mā 2.36 
+                            || 
+ 
+ 
+ Mātṛkā 02.037a  mithyābhiyogino ye syur dvijānāṃ śūdrayonayaḥ | 
+ Mātṛkā 02.037c  teṣāṃ jihvāṃ samutkṛtya rājā śūle vidhāpayet ||  J edn Mā 2.37 
+                            || 
+ 
+ 
+ Mātṛkā 02.038a  ājñā lekhaḥ paṭṭakaḥ śāsanaṃ vā   ādhiḥ pattraṃ vikrayo vā
+                            krayo vā | 
+ Mātṛkā 02.038c  rājñe kuryāt pūrvam āvedanaṃ yas   tasya jñeyaḥ
+                            pūrvapakṣaḥ vidhijñaiḥ ||  J edn Mā 2.38 || 
+ 
+ 
+ 
+ Mātṛkā 02.039a  sākṣikadūṣaṇe kāryaṃ pūrvasākṣiviśodhanam | 
+ Mātṛkā 02.039c  śuddheṣu sākṣiṣu tataḥ paścāt sākṣyaṃ viśodhayet ||  J edn Mā 2.39 || 
+ 
+ 
+ Mātṛkā 02.040a  sākṣisabhyāvasannānāṃ dūṣaṇe darśanaṃ punaḥ | 
+ Mātṛkā 02.040c  svacaryāvasitānāṃ tu nāsti paunarbhavo vidhiḥ ||  J edn Mā 2.40 
+                            || 
+ 
+ 
+ Mātṛkā 02.041a  svayam abhyupapanno 'pi svacaryāvasito 'pi san | 
+ Mātṛkā 02.041c  kriyāvasanno 'py arheta paraṃ sabhyāvadhāraṇam ||  J edn Mā 2.41 || 
+ 
+ 
+ 
+ Mātṛkā 02.042a  pakṣān utsārya kāryas tu sabhyaiḥ kāryaviniścayaḥ | 
+ Mātṛkā 02.042c  anutsāritanirṇikte virodhaḥ pretya ceha ca ||  J edn Mā 02.042 
+                            || 
+ 
+ 
+ Mātṛkā 02.043a  sabhair eva jitaḥ paścād rājñā śāsyaḥ svaśāstrataḥ | 
+ Mātṛkā 02.043c  jayine cāpi deyaṃ syād yathāvaj jayapatrakam ||  J edn Mā 2.43 
+                            || 
+ 
+ 
+ Mātṛkā 02.044a  vyavahāramukhaṃ caitat pūrvam uktaṃ svayambhuvā | 
+ Mātṛkā 02.044c  mukhaśuddhau hi śuddhiḥ syād vyavahārasya nānyathā ||  J edn Mā 2.44 || 
+ 
+ 
+ 
+ 
+                    Chapter 3
+Sabhā  (The Court) 
+ L tr. 20-22 , cf.  J tr. 12-15 
+ 
+ Mātṛkā 03.001a  nāniyuktena vaktavyaṃ vyavahāre kathañcana | 
+ Mātṛkā 03.001c  niyuktena tu vaktavyam apakṣapatitaṃ vacaḥ || 1 || 
+ 
+ 
+ 
+ Mātṛkā 03.002a  yuktarūpaṃ bruvan sabhyo nāpnuyād dveṣakilbiṣe | 
+ Mātṛkā 03.002c  bruvāṇas tv anyathā sabhyas tad eva-ubhayam āpnuyāt || 2
+                            || 
+ 
+ 
+ Mātṛkā 03.003a  rājā tu dhārmikān sabhyān niyuñjyāt suparīkṣitān | 
+ Mātṛkā 03.003c  vyavahāradhuraṃ voḍhuṃ ye śaktāḥ sadgavā iva || 3 || 
+ 
+ 
+ 
+ Mātṛkā 03.004a  dharmaśāstrārthakuśalāḥ kulīnāḥ satyavādinaḥ | 
+ Mātṛkā 03.004c  samāḥ śatrau ca mitre ca nṛpateḥ syuḥ sabhāsadaḥ || 4 || 
+ 
+ 
+ Mātṛkā 03.005a  tatpratiṣṭhaḥ smṛto dharmo dharmamūlaś ca pārthivaḥ | 
+ Mātṛkā 03.005c  saha sadbhir ato rājā vyavahārān viśodhayet || 5 || 
+ 
+ 
+ Mātṛkā 03.006a  śuddheṣu vyavahāreṣu śuddhiṃ yānti sabhāsadaḥ | 
+ Mātṛkā 03.006c  śuddhiś ca teṣāṃ dharmād dhi dharmam eva vadet tataḥ || 6
+                            || 
+ 
+ 
+ 
+ Mātṛkā 03.007a  yatra dharmo hy adharmeṇa satyaṃ yatrānṛtena ca | 
+ Mātṛkā 03.007c  hanyate prekṣamāṇānāṃ hatās tatra sabhāsadaḥ || 7 || 
+ 
+ 
+ Mātṛkā 03.008a  viddho dharmo hy adharmeṇa sabhāṃ yatra-upatiṣṭhate | 
+ Mātṛkā 03.008c  na ced viśalyaḥ kriyate viddhās tatra sabhāsadaḥ || 8 || 
+ 
+ 
+ Mātṛkā 03.009a  sabhā vā na praveṣṭavyā vaktavyaṃ vā samañjasam | 
+ Mātṛkā 03.009c  abruvan vibruvan vāpi naro bhavati kilbiṣī || 9 || 
+ 
+ 
+ 
+ Mātṛkā 03.010a  ye tu sabhyāḥ sabhāṃ gatvā tūṣṇīṃ dhyāyanta āsate | 
+ Mātṛkā 03.010c  yathāprāptaṃ na bruvate sarve te 'nṛtavādinaḥ || 10 || 
+ 
+ 
+ Mātṛkā 03.011a  pādo 'dharmasya kartāraṃ pādaḥ sākṣiṇam ṛcchati | 
+ Mātṛkā 03.011c  pādaḥ sabhāsadaḥ sarvān pādo rājānam ṛcchati || 11 || 
+ 
+ 
+ Mātṛkā 03.012a  rājā bhavaty anenās tu mucyante ca sabhāsadaḥ | 
+ Mātṛkā 03.012c  eno gacchati kartāraṃ nindārho yatra nindyate || 12 || 
+ 
+ 
+ 
+ Mātṛkā 03.013a  andho matsyān ivāśnāti nirapekṣaḥ sakaṇṭakān | 
+ Mātṛkā 03.013c  parokṣam arthavaikalyād bhāṣate yaḥ sabhāṃ gataḥ || 13 || 
+ 
+ 
+ Mātṛkā 03.014a  tasmāt sabhyaḥ sabhāṃ prāpya rāgadveṣavivarjitaḥ | 
+ Mātṛkā 03.014c  vacas tathāvidhaṃ brūyād yathā na narakaṃ patet || 14 || 
+ 
+ 
+ Mātṛkā 03.015a  yathā śalyaṃ bhiṣag vidvān uddhared yantrayuktitaḥ | 
+ Mātṛkā 03.015c  prāḍvivākas tathā śalyam uddhared vyavahārataḥ || 15 || 
+ 
+ 
+ Mātṛkā 03.016a  yatra sabhyo janaḥ sarvaḥ sādhv etad iti manyate | 
+ Mātṛkā 03.016c  sa niḥśalyo vivādaḥ syāt saśalyaḥ syād ato 'nyathā || 16
+                            || 
+ 
+ 
+ 
+ Mātṛkā 03.017a  na sā sabhā yatra na santi vṛddhā   vṛddhā na te ye na
+                            vadanti dharmam | 
+ Mātṛkā 03.017c  nāsau dharmo yatra na satyam asti   na tat satyaṃ yac
+                            chalenānuviddham || 17 || 
+ 
+ 
+ 
+ 
+ 
+                Part 2
+Vyavahārapadāni  (Titles of Law) 
+ L tr. 23-203 , cf.  J tr. 15-45, 55-116 
+ 
+                    Chapter 1
+Ṛṇādānam  (Nonpayment of Debts) 
+ L tr. 23-48 , cf.  J tr. 15-23 
+ 
+ 01.001a  ṛṇaṃ deyam adeyaṃ ca yena yatra yathā ca yat | 
+ 01.001c  dānagrahaṇadharmāc ca ṛṇādānam iti smṛtam || 1 || 
+ 
+ 
+ 
+ 01.002a  pitary uparate putrā ṛṇaṃ dadyur yathāṃśataḥ | 
+ 01.002c  vibhaktā hy avibhaktā vā yas tām udvahate dhuram || 2 || 
+ 
+ 
+ 01.003a  pitṛvyeṇāvibhaktena bhrātrā vā yad ṛṇaṃ kṛtam | 
+ 01.003c  mātrā vā yat kuṭumbārthe dadyus tad rikthino 'khilam || 3
+                            || 
+ 
+ 
+ 01.004a  kramād avyāhataṃ prāptaṃ putrair yan narṇam uddhṛtam | 
+ 01.004c  dadyuḥ paitāmahaṃ pautrās tac caturthān nivartate || 4 || 
+ 
+ 
+ 
+ 01.005a  icchanti pitaraḥ putrān svārthahetor yatas tataḥ | 
+ 01.005c  uttamarṇādhamarṇebhyo mām ayaṃ mocayiṣyati || 5 || 
+ 
+ 
+ 
+ 01.006a  ataḥ putreṇa jātena svārtham utsṛjya yatnataḥ | 
+ 01.006c  pitā mokṣitavya ṛṇād yathā na narakaṃ patet || 6 || 
+ 
+ 
+ 01.007a  tapasvī cāgnihotrī ca ṛṇavān mriyate yadi | 
+ 01.007c  tapaś caivāgnihotraṃ ca sarvaṃ tad dhanināṃ dhanam || 7 || 
+ 
+ 
+ 01.008a  na putrarṇaṃ pitā dadyād dadyāt putras tu paitṛkam | 
+ 01.008c  kāmakrodhasurādyūtaprātibhāvyakṛtaṃ vinā || 8 || 
+ 
+ 
+ 
+ 01.009a  pitur eva niyogād yat kuṭumbabharaṇāya ca | 
+ 01.009c  kṛtaṃ vā yad ṛṇaṃ kṛcchre dadyāt putrasya tat pitā || 9 || 
+ 
+ 
+ 01.010a  śiṣyāntevāsidāsastrīvaiyāvṛttyakaraiś ca yat | 
+ 01.010c  kuṭumbahetor utkṣiptaṃ voḍhavyaṃ tat kuṭumbinā || 10 || 
+ 
+ 
+ 
+ 01.011a  nārvāg viṃśatimād varṣāt pitari proṣite sutaḥ | 
+ 01.011c  ṛṇaṃ dadyāt pitṛvye vā jyeṣṭhe bhrātary athāpi vā || 11 || 
+ 
+ 
+ 01.012a  dāpyaḥ pararṇam eko 'pi jīvatsv adhikṛtaiḥ kṛtam | 
+ 01.012c  preteṣu tu na tatputraḥ pararṇaṃ dātum arhati || 12 || 
+ 
+ 
+ 
+ 01.013a  na strī patikṛtaṃ dadyād ṛṇaṃ putrakṛtaṃ tathā | 
+ 01.013c  abhyupetād ṛte yadvā saha patyā kṛtaṃ bhavet || 13 || 
+ 
+ 
+ 01.014a  dadyād aputrā vidhavā niyuktā yā mumūrṣuṇā | 
+ 01.014c  yo vā tadriktham ādadyād yato riktham ṛṇaṃ tataḥ || 14 || 
+ 
+ 
+ 01.015a  na ca bhāryākṛtam ṛṇaṃ kathañcit patyur ābhavet | 
+ 01.015c  āpatkṛtād ṛte puṃsāṃ kuṭumbārtho hi vistaraḥ || 15 || 
+ 
+ 
+ 
+ 01.016a  anyatra rajakavyādhagopaśauṇḍikayoṣitām | 
+ 01.016c  teṣāṃ tatpratyayā vṛttiḥ kuṭumbaṃ ca tadāśrayam || 16 || 
+ 
+ 
+ 01.017a  putriṇī tu samutsṛjya putraṃ strī yānyam āśrayet | 
+ 01.017c  ṛkthaṃ tasyā haret sarvaṃ niḥsvāyāḥ putra eva tu || 17 || 
+ 
+ 
+ 
+ 01.018a  yā tu sapradhanaiva strī sāpatyā cānyam āśrayet | 
+ 01.018c  so 'syā dadyād ṛṇaṃ bhartur utsṛjed vā tathaiva tām || 18
+                            || 
+ 
+ 
+ 01.019a  adhanasya hy aputrasya mṛtasyopaiti yaḥ striyam | 
+ 01.019c  ṛṇaṃ voḍhuḥ sa bhajate tad evāsya dhanaṃ smṛtam || 19 || 
+ 
+ 
+ 01.020a  dhanastrīhāriputrāṇām ṛṇabhāg yo dhanaṃ haret | 
+ 01.020c  putro 'satoḥ strīdhaninoḥ strīhārī dhaniputrayoḥ || 20 || 
+ 
+ 
+ 
+ 01.021a  uttamā svairiṇī yā syād uttamā ca punarbhuvām | 
+ 01.021c  ṛṇaṃ tayoḥ patikṛtaṃ dadyād yas tām upāśnute || 21 || 
+ 
+ 
+ 
+ 01.022a  strīkṛtāny apramāṇāni kāryāṇy āhur anāpadi | 
+ 01.022c  viśeṣato gṛhakṣetradānādhamanavikrayāḥ || 22 || 
+ 
+ 
+ 01.023a  etāny api pramāṇāni bhartā yady anumanyate | 
+ 01.023c  putraḥ patyur abhāve vā rājā vā patiputrayoḥ || 23 || 
+ 
+ 
+ 01.024a  bhartrā prītena yad dattaṃ striyai tasmin mṛte 'pi tat | 
+ 01.024c  sā yathākāmam aśnīyād dadyād vā sthāvarād ṛte || 24 || 
+ 
+ 
+ 
+ 01.025a  tathā dāsakṛtaṃ kāryam akṛtaṃ paricakṣate | 
+ 01.025c  anyatra svāmisandeśān na dāsaḥ prabhur ātmanaḥ || 25 || 
+ 
+ 
+ 01.026a  putreṇa ca kṛtaṃ kāryaṃ yat syāt pitur anicchataḥ | 
+ 01.026c  tad apy akṛtam evāhur dāsaḥ putraś ca tau samau || 26 || 
+ 
+ 
+ 01.027a  aprāptavyavahāraś cet svatantro 'pi hi na rṇabhāk | 
+ 01.027c  svātantryaṃ tu smṛtaṃ jyeṣṭhe jyaiṣṭhyaṃ guṇavayaḥkṛtam || 27
+                            || 
+ 
+ 
+ 
+ 01.028a  trayaḥ svatantrā loke 'smin rājācāryas tathaiva ca | 
+ 01.028c  prati prati ca varṇānāṃ sarveṣāṃ svagṛhe gṛhī || 28 || 
+ 
+ 
+ 01.029a  asvatantrāḥ prajāḥ sarvāḥ svatantraḥ pṛthivīpatiḥ | 
+ 01.029c  asvatantraḥ smṛtaḥ śiṣya ācārye tu svatantratā || 29 || 
+ 
+ 
+ 01.030a  asvatantrāḥ striyaḥ putrā dāsāś ca saparigrahāḥ | 
+ 01.030c  svatantras tatra tu gṛhī yasya yat syāt kramāgatam || 30 || 
+ 
+ 
+ 01.031a  garbhasthaiḥ sadṛśo jñeya ā varṣād aṣṭamāc chiṣuḥ | 
+ 01.031c  bāla ā ṣoḍaśāj jñeyaḥ pogaṇḍaś cāpi śabdyate || 31 || 
+ 
+ 
+ 
+ 01.032a  parato vyavahārajñaḥ svatantraḥ pitarau vinā | 
+ 01.032c  jīvator asvatantraḥ syāj jarayāpi samanvitaḥ || 32 || 
+ 
+ 
+ 01.033a  tayor api pitā śreyān bījaprādhānyadarśanāt | 
+ 01.033c  abhāve bījino mātā tadabhāve tu pūrvajaḥ || 33 || 
+ 
+ 
+ 01.034a  svatantrāḥ sarva evaite paratantreṣu sarvadā | 
+ 01.034c  anuśiṣṭau visarge ca vikraye ceśvarā matāḥ || 34 || 
+ 
+ 
+ 
+ 01.035a  yad bālaḥ kurute kāryam asvatantras tathaiva ca | 
+ 01.035c  akṛtaṃ tad iti prāhuḥ śāstre śāstravido janāḥ || 35 || 
+ 
+ 
+ 01.036a  svatantro 'pi hi yat kāryaṃ kuryād aprakṛtiṃ gataḥ | 
+ 01.036c  tad apy akṛtam evāhur asvatantraḥ sa hetutaḥ || 36 || 
+ 
+ 
+ 01.037a  kāmakrodhābhiyuktārtabhayavyasanapīḍitāḥ | 
+ 01.037c  rāgadveṣaparītāś ca jñeyās tv aprakṛtiṃ gatāḥ || 37 || 
+ 
+ 
+ 
+ 01.038a  kule jyeṣṭhas tathā śreṣṭhaḥ prakṛtisthaś ca yo bhavet | 
+ 01.038c  tatkṛtaṃ syāt kṛtaṃ kāryaṃ nāsvatantrakṛtaṃ kṛtam || 38 || 
+ 
+ 
+ 01.039a  dhanamūlāḥ kriyāḥ sarvā yatnas tatsādhane mataḥ | 
+ 01.039c  rakṣaṇaṃ vardhanaṃ bhoga iti tasya vidhiḥ kramāt || 39 || 
+ 
+ 
+ 01.040a  tat punas trividhaṃ jñeyaṃ śuklaṃ śabalam eva ca | 
+ 01.040c  kṛṣṇaṃ ca tasya vijñeyaḥ prabhedaḥ saptadhā pṛthak || 40 || 
+ 
+ 
+ 
+ 01.041a  śrutaśauryatapaḥkanyāśiṣyayājyānvayāgatam | 
+ 01.041c  dhanaṃ saptavidhaṃ śuklam udayo 'py asya tadvidhaḥ || 41 || 
+ 
+ 
+ 01.042a  kusīdakṛṣivāṇijyaśulkaśilpānuvṛttibhiḥ | 
+ 01.042c  kṛtopakārād āptaṃ ca śabalaṃ samudāhṛtam || 42 || 
+ 
+ 
+ 01.043a  pārśvikadyūtadautyārtipratirūpakasāhasaiḥ/ 
+ 01.043c  vyājenopārjitaṃ yac ca tat kṛṣṇaṃ samudāhṛtam || 43 || 
+ 
+ 
+ 
+ 01.044a  tena krayo vikrayaś ca dānaṃ grahaṇam eva ca | 
+ 01.044c  vividhāś ca pravartante kriyāḥ sambhoga eva ca || 44 || 
+ 
+ 
+ 01.045a  yathāvidhena dravyeṇa yatkiñcit kurute naraḥ | 
+ 01.045c  tathāvidham avāpnoti sa phalaṃ pretya ceha ca || 45 || 
+ 
+ 
+ 01.046a  tat punar dvādaśavidhaṃ prativarṇāśrayāt smṛtam | 
+ 01.046c  sādhāraṇaṃ syāt trividhaṃ śeṣaṃ navavidhaṃ smṛtam || 46 || 
+ 
+ 
+ 01.047a  kramāgataṃ prītidāyaḥ prāptaṃ ca saha bhāryayā | 
+ 01.047c  aviśeṣeṇa varṇānāṃ sarveṣāṃ trividhaṃ dhanam || 47 || 
+ 
+ 
+ 
+ 01.048a  vaiśeṣikaṃ dhanaṃ jñeyaṃ brāhmaṇasya trilakṣaṇam | 
+ 01.048c  pratigraheṇa yallabdhaṃ yājyataḥ śiṣyatas tathā || 48 || 
+ 
+ 
+ 01.049a  trividhaṃ kṣatriyasyāpi prāhur vaiśeṣikaṃ dhanam | 
+ 01.049c  yuddhopalabdhaṃ kāraś ca daṇḍaś ca vyavahārataḥ || 49 || 
+ 
+ 
+ 01.050a  vaiśeṣikaṃ dhanaṃ jñeyaṃ vaiśyasyāpi trilakṣaṇam | 
+ 01.050c  kṛṣigorakṣavāṇijyaiḥ śūdrasyaibhyas tv anugrahāt || 50 || 
+ 
+ 
+ 01.051a  sarveṣām eva varṇānām eṣa dharmyo dhanāgamaḥ | 
+ 01.051c  viparyayād adharmyaḥ syān na ced āpad garīyasī || 51 || 
+ 
+ 
+ 01.052a  āpatsv anantarā vṛttir brāhmaṇasya vidhīyate | 
+ 01.052c  vaiśyavṛttis tataś coktā na jaghanyā kathañcana || 52 || 
+ 
+ 
+ 
+ 01.053a  na kathañcana kurvīta brāhmaṇaḥ karma vārṣalam | 
+ 01.053c  vṛṣalaḥ karma na brāhmaṃ patanīye hi te tayoḥ || 53 || 
+ 
+ 
+ 01.054a  utkṛṣṭaṃ cāpakṛṣṭaṃ ca tayoḥ karma na vidyate | 
+ 01.054c  madhyame karmaṇī hitvā sarvasādhāraṇe hi te || 54 || 
+ 
+ 
+ 01.055a  āpadaṃ brāhmaṇas tīrtvā kṣatravṛttyā hṛtair dhanaiḥ | 
+ 01.055c  utsṛjet kṣatravṛttiṃ tāṃ kṛtvā pāvanam ātmanaḥ || 55 || 
+ 
+ 
+ 
+ 01.056a  tasyām eva tu yo vṛttau brāhmaṇo ramate rasāt | 
+ 01.056c  kāṇḍapṛṣṭhaś cyuto mārgāt so 'pāṅkteyaḥ prakīrtitaḥ || 56
+                            || 
+ 
+ 
+ 01.057a  vaiśyavṛttāv avikreyaṃ brāhmaṇasya payo dadhi | 
+ 01.057c  ghṛtaṃ madhu madhūcchiṣṭaṃ lākṣākṣārarasāsavāḥ || 57 || 
+ 
+ 
+ 01.058a  māṃsaudanatilakṣaumasomapuṣpaphalapalāḥ | 
+ 01.058c  manuṣyaviṣaśastrāmbulavaṇāpūpavīrudhaḥ || 58 || 
+ 
+ 
+ 01.059a  nīlīkauṣeyacarmāsthikutapaikaśaphā mṛdaḥ | 
+ 01.059c  udaśvitkeśapiṇyākaśākādyauṣadhayas tathā || 59 || 
+ 
+ 
+ 
+ 01.060a  brāhmaṇasya tu vikreyaṃ śuṣkaṃ dāru tṛṇāni ca | 
+ 01.060c  gandhadravyairakāvetratūlamūlatuśād ṛte || 60 || 
+ 
+ 
+ 01.061a  svayaṃ śīrṇaṃ ca vidalaṃ phalānāṃ badareṅgude | 
+ 01.061c  rajjuḥ kārpāsikaṃ sūtraṃ tac ced avikṛtaṃ bhavet || 61 || 
+ 
+ 
+ 01.062a  aśaktau bheṣajasyārthe yajñahetos tathaiva ca | 
+ 01.062c  yady avaśyaṃ tu vikreyās tilā dhānyena tatsāmāḥ || 62 || 
+ 
+ 
+ 01.063a  avikreyāṇi vikrīṇan brāhmaṇaḥ pracyutaḥ pathaḥ | 
+ 01.063c  mārge punar avasthāpya rājñā daṇḍena bhūyasā || 63 || 
+ 
+ 
+ cf.  J tr. 23 , Chapter iv. On Evidence by Writing 
+ L tr. 48-73 , cf.  J tr. 23-32 
+ 
+ 01.064a  pramāṇāni pramāṇasthaiḥ paripālyāni yatnataḥ | 
+ 01.064c  sīdanti hi pramāṇāni pramāṇair avyavasthitaiḥ || 64 || 
+ 
+ 
+ 01.065a  likhitaṃ sākṣiṇo bhuktiḥ pramāṇaṃ trividhaṃ smṛtaṃ | 
+ 01.065c  dhanasvīkaraṇe yena dhanī dhanam upāśnute || 65 || 
+ 
+ 
+ 
+ 01.066a  likhitaṃ balavan nityaṃ jīvantas tv eva sākṣiṇaḥ | 
+ 01.066c  kālātiharaṇād bhuktir iti śāstreṣu niścayaḥ || 66 || 
+ 
+ 
+ 
+ 01.067a  trividhasyāsya dṛṣṭasya pramāṇasya yathākramam | 
+ 01.067c  pūrvaṃ pūrvaṃ guru jñeyaṃ bhuktir ebhyo garīyasī || 67 || 
+ 
+ 
+ 01.068a  vidyamāne 'pi likhite jīvatsv api hi sākṣiṣu | 
+ 01.068c  viśeṣataḥ sthāvarāṇāṃ yan na bhuktaṃ na tat sthiram || 68
+                            || 
+ 
+ 
+ 
+ 01.069a  bhujyamānān parair arthān yaḥ svān maurkhyād upekṣate | 
+ 01.069c  samakṣaṃ jīvato 'py asya tān bhuktiḥ kurute vaśe || 69 || 
+ 
+ 
+ 01.070a  yatkiñcid daśa varṣāṇi sannidhau prekṣate dhanī | 
+ 01.070c  bhujyamānaṃ parais tūṣṇīṃ na sa tal labdhum arhati || 70 || 
+ 
+ 
+ 01.071a  upekṣāṃ kurvatas tasya tūṣṇīṃ bhūtasya tiṣṭhataḥ | 
+ 01.071c  kāle 'tipanne pūrvokte vyavahāro na sidhyati || 71 || 
+ 
+ 
+ 
+ 01.072a  ajaḍaś ced apogaṇḍo viṣaye cāsya bhujyate | 
+ 01.072c  bhuktaṃ tad vyavahāreṇa bhoktā tad dhanam arhati || 72 || 
+ 
+ 
+ 01.073a  ādhiḥ sīmā bāladhanaṃ nikṣepopanidhī striyaḥ | 
+ 01.073c  rājasvaṃ śrotriyasvaṃ ca nopabhogena jīryate || 73 || 
+ 
+ 
+ 01.074a  pratyakṣaparibhogāc ca svāmino dvidaśāḥ samāḥ | 
+ 01.074c  ādhyādīny api jīryante strīnarendradhanād ṛte || 74 || 
+ 
+ 
+ 
+ 01.075a  strīdhanaṃ ca narendrāṇāṃ na kadācana jīryate | 
+ 01.075c  anāgamaṃ bhujyamānaṃ vatsarāṇāṃ śatair api || 75 || 
+ 
+ 
+ 01.076a  nirbhogo yatra dṛśyeta na dṛśyetāgamaḥ kvacit | 
+ 01.076c  āgamaḥ kāraṇaṃ tatra na bhogas tatra kāraṇam || 76 || 
+ 
+ 
+ 01.077a  anāgamaṃ bhujyate yan na tad bhogo 'tivartate | 
+ 01.077c  prete tu bhoktari dhanaṃ yāti tadvaṃśyabhogyatām || 77 || 
+ 
+ 
+ 
+ 01.078a  āhartaivābhiyuktaḥ sann arthānām uddharet padam | 
+ 01.078c  bhuktir eva viśuddhiḥ syāt prāptānāṃ pitṛtaḥ kramāt || 78
+                            || 
+ 
+ 
+ 01.079a  anvāhitaṃ hṛtaṃ nyastaṃ balāvaṣṭabdhaṃ yācitam | 
+ 01.079c  apratyakṣaṃ ca yad bhuktaṃ ṣaḍ etāny āgamaṃ vinā || 79 || 
+ 
+ 
+ 
+ 01.080a  tathārūḍhavivādasya pretasya vyavahāriṇaḥ | 
+ 01.080c  putreṇa so 'rthaḥ saṃśodhyo na taṃ bhogo 'tivartate || 80
+                            || 
+ 
+ 
+ 01.081a  yad vināgamam apy ūrdhvaṃ bhuktaṃ pūrvais tribhir bhavet | 
+ 01.081c  na tac chakyam apākartuṃ kramāt tripuruṣāgatam || 81 || 
+ 
+ 
+ 01.082a  santo 'pi na pramāṇaṃ syur mṛte dhanini sākṣiṇaḥ | 
+ 01.082c  anyatra śrāvitaṃ yat syāt svayam āsannamṛtyunā || 82 || 
+ 
+ 
+ 
+ 01.083a  na hi pratyarthini prete pramāṇaṃ sākṣiṇāṃ vacaḥ | 
+ 01.083c  sākṣimat karaṇaṃ tatra pramāṇaṃ syād viniścaye || 83 || 
+ 
+ 
+ 01.084a  śrāvitas tv ātureṇāpi yas tv artho dharmasaṃhitaḥ | 
+ 01.084c  mṛte 'pi tatra sākṣī syāt ṣaṭsu cānvāhitādiṣu || 84 || 
+ 
+ 
+ 01.085a  kriya rṇādiṣu sarveṣu balavaty uttarottarā | 
+ 01.085c  pratigrahādhikrīteṣu pūrvā pūrvā garīyasī || 85 || 
+ 
+ 
+ 
+ 01.086a  sthānalābhanimittaṃ hi dānagrahaṇam iṣyate | 
+ 01.086c  tat kusīdam iti proktaṃ tena vṛttiḥ kusīdinām || 86 || 
+ 
+ 
+ 
+ 01.087a  kāyikā kālikā caiva kāritā ca tathā smṛtā | 
+ 01.087c  cakravṛddhiś ca śāstreṣu tasya vṛddhiś caturvidhā || 87 || 
+ 
+ 
+ 01.088a  kāyāvirodhinī śaśvat paṇapādyā tu kāyikā | 
+ 01.088c  pratimāsaṃ sravati yā vṛddhiḥ sā kālikā smṛtā || 88 || 
+ 
+ 
+ 01.089a  vṛddhiḥ sā kāritā nāma ya rṇikena svayaṅkṛtā | 
+ 01.089c  vṛddher api punar vṛddhiś cakravṛddhir udāhṛtā || 89 || 
+ 
+ 
+ 
+ 01.090a  ṛṇānāṃ sārvabhaumo 'yaṃ vidhir vṛddhikaraḥ smṛtaḥ | 
+ 01.090c  deśācāravidhis tv anyo yatra rṇam avatiṣṭhati || 90 || 
+ 
+ 
+ 01.091a  dviguṇaṃ triguṇaṃ caiva tathānyasmiṃś caturguṇam | 
+ 01.091c  tathāṣṭaguṇam anyasmin deśe deśe 'vatiṣṭhate || 91 || 
+ 
+ 
+ 01.092a  hiraṇyadhānyavastrāṇāṃ vṛddhir dvitricaturguṇā | 
+ 01.092c  ghṛtasyāṣṭaguṇā vṛddhiḥ strīpaśūnāṃ ca santatiḥ || 92 || 
+ 
+ 
+ 
+ 01.093a  sūtrakarpāsakiṇvānāṃ trapuṣaḥ sīsakasya ca | 
+ 01.093c  āyudhānāṃ ca sarveṣāṃ carmaṇas tāmralohayoḥ || 93 || 
+ 
+ 
+ 01.094a  anyeṣāṃ caiva sarveṣām iṣṭakānāṃ tathaiva ca | 
+ 01.094c  akṣayyā vṛddhir eteṣāṃ manur āha prajāpatiḥ || 94 || 
+ 
+ 
+ 01.095a  tailānāṃ caiva sarveṣāṃ madyānāṃ madhusarpiṣām | 
+ 01.095c  vṛddhir aṣṭaguṇā jñeyā guḍasya lavaṇasya ca || 95 || 
+ 
+ 
+ 01.096a  na vṛddhiḥ prītidattānāṃ syād anākāritā kvacit | 
+ 01.096c  anākāritam apy ūrdhvaṃ vatsarārdhād vivardhate || 96 || 
+ 
+ 
+ 01.097a  eṣa vṛddhividhiḥ proktaḥ prativṛddhasya dharmataḥ | 
+ 01.097c  vṛddhis tu yoktā dhānyānāṃ vārdhuṣyaṃ tad udāhṛtam || 97 || 
+ 
+ 
+ 
+ 01.098a  āpadaṃ nistared vaiśyaḥ kāmaṃ vārdhuṣakarmaṇā | 
+ 01.098c  āpatsv api hi kaṣṭāsu brāhmaṇasya na vārdhuṣam || 98 || 
+ 
+ 
+ 01.099a  brāhmaṇasya tu yad deyaṃ sānvayasya na cāsti saḥ | 
+ 01.099c  svakulyasyāsya nivapet tadabhāve 'sya bandhuṣu || 99 || 
+ 
+ 
+ 01.100a  yadā tu na svakulyāḥ syur na ca sambandhibāndhavāḥ | 
+ 01.100c  tadā dadyāt svajātibhyas teṣv asatsv apsu nikṣipet || 100
+                            || 
+ 
+ 
+ 
+ 01.101a  gṛhītvopagataṃ dadyād ṛṇikāyodayaṃ dhanī | 
+ 01.101c  adadad yācyamānas tu śeṣahānim avāpnuyāt || 101 || 
+ 
+ 
+ 01.102a  lekhyaṃ dadyād ṛṇe śuddhe tadabhāve pratiśravam | 
+ 01.102c  dhanikarṇikayor evaṃ viśuddhiḥ syāt parasparam || 102 || 
+ 
+ 
+ 
+ 01.103a  viśrambhahetū dvāv atra pratibhūr ādhir eva ca | 
+ 01.103c  likhitaṃ sākṣiṇaś ca dve pramāṇe vyaktikārake || 103 || 
+ 
+ 
+ 01.104a  upasthānāya dānāya pratyayāya tathaiva ca | 
+ 01.104c  trividhaḥ pratibhūr dṛṣṭas triṣv evārtheṣu sūribhiḥ || 104
+                            || 
+ 
+ 
+ 
+ 01.105a  ṛṇiṣv apratikurvatsu pratyaye vā vivādite | 
+ 01.105c  pratibhūs tad ṛṇaṃ dadyād anupasthāpayaṃs tathā || 105 || 
+ 
+ 
+ 
+ 01.106a  bahavaś cet pratibhuvo dadyus te 'rthaṃ yathākṛtam | 
+ 01.106c  arthe 'viśeṣite hy eṣu dhaninaś chandataḥ kriyā || 106 || 
+ 
+ 
+ 
+ 01.107a  yaṃ cārthaṃ pratibhūr dadyād dhanikenopapīḍitaḥ | 
+ 01.107c  ṛṇikas taṃ pratibhuve dviguṇaṃ pratipādayet || 107 || 
+ 
+ 
+ 
+ 01.108a  adhikriyata ity ādhiḥ sa vijñeyo dvilakṣaṇaḥ | 
+ 01.108c  kṛtakālopaneyaś ca yāvaddeyodyatas tathā || 108 || 
+ 
+ 
+ 
+ 01.109a  sa punar dvividhaḥ prokto gopyo bhogyas tathaiva ca | 
+ 01.109c  pratidānaṃ tathaivāsya lābhahānir viparyaye || 109 || 
+ 
+ 
+ 01.110a  pramādād dhaninas tadvad ādhau vikṛtim āgate | 
+ 01.110c  vinaṣṭe mūlanāśaḥ syād daivarājakṛtād ṛte || 110 || 
+ 
+ 
+ 
+ 01.111a  rakṣyamāṇo 'pi yatrādhiḥ kāleneyād asāratām | 
+ 01.111c  ādhir anyo 'dhikartavyo deyaṃ vā dhanine dhanam || 111 || 
+ 
+ 
+ 01.112a  atha śaktivihīnaḥ syād ṛṇī kālaviparyayāt | 
+ 01.112c  śakyaprekṣam ṛṇaṃ dāpyaḥ kāle kāle yathodayam || 112 || 
+ 
+ 
+ 
+ 01.113a  śakto vā yadi daurātmyān na dadyād dhanine dhanam | 
+ 01.113c  rājñā dāpayitavyaḥ syād gṛhītvāṃśaṃ tu viṃśakam || 113 || 
+ 
+ 
+ 01.114a  naśyed ṛṇaparīmāṇaṃ kāleneha rṇikasya cet | 
+ 01.114c  jātisañjñādhivāsānām āgamo lekhyataḥ smṛtaḥ || 114 || 
+ 
+ 
+ 
+ 01.115a  lekhyaṃ tu dvividhaṃ jñeyaṃ svahastānyakṛtaṃ tathā | 
+ 01.115c  asākṣimat sākṣimac ca siddhir deśasthites tayoḥ || 115 || 
+ 
+ 
+ 01.116a  deśācārāviruddhaṃ yad vyaktādhikṛtalakṣaṇam | 
+ 01.116c  tat pramāṇaṃ smṛtaṃ lekhyam aviluptakramākṣaram || 116 || 
+ 
+ 
+ 01.117a  mattābhiyuktastrībālabalātkārakṛtaṃ ca yat | 
+ 01.117c  tad apramāṇakaraṇaṃ bhītopadhikṛtaṃ tathā || 117 || 
+ 
+ 
+ 
+ 01.118a  mṛtāḥ syuḥ sākṣiṇo yatra dhanikarṇikalekhakāḥ | 
+ 01.118c  tad apy apārthaṃ likhitam ṛte tv ādheḥ sthirāśrayāt || 118
+                            || 
+ 
+ 
+ 01.119a  ādhir yo dvividhaḥ prokto jaṅgamaḥ sthāvaras tathā | 
+ 01.119c  siddhir atrobhayasyāsya bhogo yady asti nānyathā || 119 || 
+ 
+ 
+ 01.120a  darśitaṃ pratikālaṃ yac chrāvitaṃ śrāvitaṃ ca yat | 
+ 01.120c  lekhyaṃ sidhyati sarvatra mṛteṣv api hi sākṣiṣu || 120 || 
+ 
+ 
+ 
+ 01.121a  aśrutārtham adṛṣṭārthaṃ vyavahārārtham eva ca | 
+ 01.121c  na lekhyaṃ siddhim āpnoti jīvatsv api hi sākṣiṣu || 121 || 
+ 
+ 
+ 01.122a  lekhye deśāntaranyaste dagdhe durlikhite hṛte | 
+ 01.122c  satas tatkālakaraṇam asato dṛṣṭadarśanam || 122 || 
+ 
+ 
+ 
+ 01.123a  yasmin syāt saṃśayo lekhye bhūtābhūtakṛte kvacit | 
+ 01.123c  tatsvahastakriyācihnaprāptiyuktibhir uddharet || 123 || 
+ 
+ 
+ 
+ 01.124a  lekhyaṃ yac cānyanāmāṅkaṃ hetvantarakṛtaṃ bhavet | 
+ 01.124c  vipratyaye parīkṣyaṃ tat sambandhāgamahetubhiḥ || 124 || 
+ 
+ 
+ 
+ 01.124-1a  lekhyaṃ yac cānyanāmāṅkaṃ hetvantarakṛtaṃ bhavet | 
+ 01.124-1c  vipratyaye parīkṣyaṃ tat sambandhāgamahetubhiḥ || 124-1
+                            || 
+ 
+ 
+ 
+ 01.125a  likhitaṃ likhitenaiva sākṣimat sākṣibhir haret | 
+ 01.125c  sākṣibhyo likhitaṃ śreyo likhitena tu sākṣiṇaḥ || 125 || 
+ 
+ 
+ 
+ 01.126a  chinnabhinnahṛtonmṛṣṭanaṣṭadurlikhiteṣu ca | 
+ 01.126c  kartavyam anyal lekhyaṃ syād eṣa lekhyavidhiḥ smṛtaḥ || 126
+                            || 
+ 
+ 
+ cf.  J tr. 32 , Chapter v. On Evidence by Witnesses
+                        ... 
+ L tr. 73-95 , cf.  J tr. 32-45 
+ 
+ 01.127a  sandigdheṣu tu kāryeṣu dvayor vivadamānayoḥ | 
+ 01.127c  dṛṣṭaśrutānubhūtatvāt sākṣibhyo vyaktidarśanam || 127 || 
+ 
+ 
+ 01.128a  samakṣadarśanāt sākṣī vijñeyaḥ śrotracakṣuṣoḥ | 
+ 01.128c  śrotrasya yat paro brūte cakṣuṣaḥ kāyakarma yat || 128 || 
+ 
+ 
+ 
+ 01.129a  ekādaśavidhaḥ sākṣī sa tu dṛṣṭo manīṣibhiḥ | 
+ 01.129c  kṛtaḥ pañcavidhas teṣāṃ ṣaḍvidho 'kṛta ucyate || 129 || 
+ 
+ 
+ 01.130a  likhitaḥ smāritaś caiva yadṛcchābhijña eva ca | 
+ 01.130c  gūḍhaś cottarasākṣī ca sākṣī pañcavidhaḥ smṛtaḥ || 130 || 
+ 
+ 
+ 01.131a  akṛtaḥ ṣaḍvidhaś cāpi sūribhiḥ parikīrtitaḥ | 
+ 01.131c  grāmaś ca prāḍvivākaś ca rājā ca vyavahāriṇām || 131 || 
+ 
+ 
+ 01.132a  kāryeṣv abhyantaro yaḥ syād arthinā prahitaś ca yaḥ | 
+ 01.132c  kulaṃ kulavivādeṣu bhaveyus te 'pi sākṣiṇaḥ || 132 || 
+ 
+ 
+ 
+ 01.133a  kulīnā ṛjavaḥ śuddhā janmataḥ karmato 'rthataḥ | 
+ 01.133c  tryavarāḥ sākṣiṇo 'nindyāḥ śucayaḥ syuḥ subuddhayaḥ || 133
+                            || 
+ 
+ 
+ 01.134a  brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrā ye cāpy aninditāḥ | 
+ 01.134c  prativarṇaṃ bhaveyus te sarve sarveṣu vā punaḥ || 134 || 
+ 
+ 
+ 01.135a  śreṇīṣu śreṇipuruṣāḥ sveṣu vargeṣu vargiṇaḥ | 
+ 01.135c  bahirvāsiṣu bāhyāś ca striyaḥ striṣu ca sākṣiṇaḥ || 135 || 
+ 
+ 
+ 
+ 01.136a  śreṇyādiṣu tu vargeṣu kaścic ced dveṣyatām iyāt | 
+ 01.136c  tebhya eva na sākṣī syād dveṣṭāraḥ sarva eva te || 136 || 
+ 
+ 
+ 01.137a  asākṣy api hi śāstreṣu dṛṣṭaḥ pañcavidho budhaiḥ | 
+ 01.137c  vacanād doṣato bhedāt svayamukter mṛtāntaraḥ || 137 || 
+ 
+ 
+ 01.138a  śrotriyādyā vacanataḥ stenādyā doṣadarśanāt | 
+ 01.138c  bhedād vipratipattiḥ syād vivāde yatra sākṣiṇaḥ || 138 || 
+ 
+ 
+ 01.139a  svayamukter anirdiṣṭaḥ svayam evaitya yo vadet | 
+ 01.139c  mṛtāntaro 'rthini prete mumūrṣuśrāvitād ṛte || 139 || 
+ 
+ 
+ 01.140a  śrotriyās tāpasā vṛddhā ye ca pravrajitā narāḥ | 
+ 01.140c  asākṣiṇas te vacanān nātra hetur udāhṛtaḥ || 140 || 
+ 
+ 
+ 01.141a  stenāḥ sāhasikāś caṇḍāḥ kitavā vadhakās tathā | 
+ 01.141c  asākṣiṇas te duṣṭatvāt teṣu satyaṃ na vidyate || 141 || 
+ 
+ 
+ 
+ 01.142a  rājñā parigṛhīteṣu sākṣiṣv ekārthaniścaye | 
+ 01.142c  vacanaṃ yatra bhidyate te syur bhedād asākṣiṇaḥ || 142 || 
+ 
+ 
+ 01.143a  anirdiṣṭas tu sākṣitve svayam evaitya yo vadet | 
+ 01.143c  sūcīty uktaḥ sa śāstreṣu na sa sākṣitvam arhati || 143 || 
+ 
+ 
+ 01.144a  yo 'rthaḥ śrāvayitavyaḥ syāt tasminn asati cārthini | 
+ 01.144c  kva tad vadatu sākṣitvam ity asākṣī mṛtāntaraḥ || 144 || 
+ 
+ 
+ 01.144-1a  yo 'rthaḥ śrāvayitavyaḥ syāt tasminn asati cārthini | 
+ 01.144-1c  kva tad vadatu sākṣitvam ity asākṣī mṛtāntaraḥ || 144-1
+                            || 
+ 
+ 
+ 
+ 01.145a  dvayor vivadator arthe dvayoḥ satsu ca sākṣiṣu | 
+ 01.145c  pūrvapakṣo bhaved yasya bhaveyus tasya sākṣiṇaḥ || 145 || 
+ 
+ 
+ 
+ 01.146a  ādharyaṃ pūrvapakṣasya yasminn arthe vaśād bhavet | 
+ 01.146c  praṣṭavyāḥ sākṣiṇas tatra vivāde prativādinaḥ || 146 || 
+ 
+ 
+ 01.147a  na pareṇa samuddiṣṭam upeyāt sākṣiṇaṃ rahaḥ | 
+ 01.147c  bhedayet taṃ na cānyena hīyetaivaṃ samācaran || 147 || 
+ 
+ 
+ 
+ 01.148a  sākṣy uddiṣṭo yadi preyād gacched vāpi digantaram | 
+ 01.148c  tacchrotāraḥ pramāṇaṃ syuḥ pramāṇaṃ hy uttarakriyā || 148
+                            || 
+ 
+ 
+ 01.149a  sudīrgheṇāpi kālena likhitaṃ siddhim āpnuyāt | 
+ 01.149c  jānatā cātmanā lekhyaṃ ajānānas tu lekhayet || 149 || 
+ 
+ 
+ 01.150a  siddhir uktāṣṭamād varṣāt smāritasyeha sākṣiṇaḥ | 
+ 01.150c  ā pañcamāt tathā siddhir yadṛcchopagatasya tu || 150 || 
+ 
+ 
+ 
+ 01.151a  ā tṛtīyāt tathā varṣāt siddhir gūḍhasya sākṣiṇaḥ | 
+ 01.151c  ā vai saṃvatsarāt siddhiṃ vadanty uttarasākṣiṇaḥ || 151 || 
+ 
+ 
+ 01.152a  athavā kālaniyamo na dṛṣṭaḥ sākṣiṇaṃ prati | 
+ 01.152c  smṛtyapekṣaṃ hi sākṣitvam āhuḥ śāstravido janāḥ || 152 || 
+ 
+ 
+ 01.153a  yasya nopahatā puṃsaḥ smṛtiḥ śrotraṃ ca nityaśaḥ | 
+ 01.153c  sudīrgheṇāpi kālena sa sākṣī sākṣyam arhati || 153 || 
+ 
+ 
+ 01.154a  asākṣipratyayās tv anye ṣaḍvivādāḥ prakīrtitāḥ | 
+ 01.154c  lakṣaṇāny eva sākṣitvaṃ eṣām āhur manīṣiṇaḥ || 154 || 
+ 
+ 
+ 
+ 01.155a  ulkāhasto 'gnido jñeyaḥ śastrapāṇis tu ghātakaḥ | 
+ 01.155c  keśākeśigṛhītaś ca yugapat pāradārikaḥ || 155 || 
+ 
+ 
+ 01.156a  kuddālapāṇir vijñeyaḥ setubhettā samīpagaḥ | 
+ 01.156c  tathā kuṭhārapāṇiś ca vanachettā prakīrtitaḥ || 156 || 
+ 
+ 
+ 01.157a  abhyagracihno vijñeyo daṇḍapāruṣyakṛn naraḥ | 
+ 01.157c  asākṣipratyayā hy ete pāruṣye tu parīkṣaṇam || 157 || 
+ 
+ 
+ 01.158a  kaścit kṛtvātmanaś cihnaṃ dveṣāt param upadravet | 
+ 01.158c  hetvarthagatisāmarthyais tatra yuktaṃ parīkṣaṇam || 158 || 
+ 
+ 
+ 01.159a  nārthasambandhino nāptā na sahāyā na vairiṇaḥ | 
+ 01.159c  na dṛṣṭadoṣāḥ praṣṭavyāś na vyādhyārtā na dūṣitāḥ || 159 || 
+ 
+ 
+ 
+ 01.160a  dāsanaikṛtikāśraddhavṛddhastrībālacākrikāḥ | 
+ 01.160c  mattonmattapramattārtakitavagrāmayājakāḥ || 160 || 
+ 
+ 
+ 01.161a  mahāpathikasāmudravaṇikpravrajitāturāḥ | 
+ 01.161c  lubdhakaśrotriyācārahīnaklībakuśīlavāḥ || 161 || 
+ 
+ 
+ 01.162a  nāstikavrātyadārāgnityāgino 'yājyayājakāḥ | 
+ 01.162c  ekasthālīsahāyāricarajñātisanābhayaḥ || 162 || 
+ 
+ 
+ 
+ 01.163a  prāgdṛṣṭadoṣaśailūṣaviṣajīvyahituṇḍikāḥ | 
+ 01.163c  garadāgnidakīnāśaśūdrāputropapātikāḥ || a 163 || 
+ 
+ 
+ 01.164a  klāntasāhasikaśrāntanirdhanāntyāvasāyinaḥ | 
+ 01.164c  bhinnavṛttāsamāvṛttajaḍatailikamūlikāḥ || 164 || 
+ 
+ 
+ 01.165a  bhūtāviṣṭanṛpadviṣṭavarṣanakṣatrasūcakāḥ | 
+ 01.165c  aghaśaṃsyātmavikretṛhīnāṅgabhagavṛttayaḥ || 165 || 
+ 
+ 
+ 
+ 01.166a  kunakhī śyāvadan śvitrimitradhrukśaṭhaśauṇḍikāḥ | 
+ 01.166c  aindrajālikalubdhograśreṇīgaṇavirodhinaḥ || 166 || 
+ 
+ 
+ 01.167a  vadhakṛccitrakṛnmaṅkhaḥ patitaḥ kūṭakārakaḥ | 
+ 01.167c  kuhakaḥ pratyavasitas taskaro rājapūruṣaḥ | 167 
+ 
+ 
+ 01.168a  manuṣyaviṣaśastrāmbulavaṇāpūpavīrudhām | 
+ 01.168c  vikretā brāhmaṇaś caiva dvijo vārdhuṣikaś ca yaḥ || 168 || 
+ 
+ 
+ 01.169a  cyutaḥ svadharmāt kulikaḥ stāvako hīnasevakaḥ | 
+ 01.169c  pitrā vivadamānaś ca bhedakṛc cety asākṣiṇaḥ || 169 || 
+ 
+ 
+ 01.170a  asākṣiṇo ye nirdiṣṭā dāsanaikṛtikādayaḥ | 
+ 01.170c  kāryagauravam āsādya bhaveyus te 'pi sākṣiṇaḥ || 170 || 
+ 
+ 
+ 
+ 01.171a  sāhaseṣu ca sarveṣu steyasaṅgrahaṇeṣu ca | 
+ 01.171c  pāruṣyayoś cāpy ubhayor na parīkṣeta sākṣiṇaḥ || 171 || 
+ 
+ 
+ 01.172a  teṣām api na bālaḥ syān naiko na strī na kūṭakṛt | 
+ 01.172c  na bāndhavo na cārātir brūyus te sākṣyam anyathā || 172 || 
+ 
+ 
+ 01.173a  bālo 'jñānād asatyāt strī pāpābhyāsāc ca kūṭakṛt | 
+ 01.173c  vibrūyād bāndhavaḥ snehād vairaniryātanād ariḥ || 173 || 
+ 
+ 
+ 01.174a  athavānumato yaḥ syād dvayor vivadamānayoḥ | 
+ 01.174c  asākṣy eko 'pi sākṣitve praṣṭavyaḥ syāt sa saṃsadi || 174
+                            || 
+ 
+ 
+ 01.175a  yas tv ātmadoṣabhinnatvād asvastha iva lakṣyate | 
+ 01.175c  sthānāt sthānāntaraṃ gacched ekaikaṃ copadhāvati || 175 || 
+ 
+ 
+ 01.176a  kāsate 'nibhṛto 'kasmād abhīkṣṇaṃ niśvasaty api | 
+ 01.176c  bhūmiṃ likhati pādābhyāṃ bāhu vāso dhunoti ca || 176 || 
+ 
+ 
+ 
+ 01.177a  bhidyate mukhavarṇo 'sya lalāṭaṃ svidyate tathā | 
+ 01.177c  śoṣam āgacchataś coṣṭhāv ūrdhvaṃ tiryak ca vīkṣate || 177
+                            || 
+ 
+ 
+ 01.178a  tvaramāṇa ivābaddham apṛṣṭo bahu bhāṣate | 
+ 01.178c  kūṭasākṣī sa vijñeyas taṃ pāpaṃ vinayen nṛpaḥ || 178 || 
+ 
+ 
+ 01.179a  śrāvayitvā ca yo 'nyebhyaḥ sākṣitvaṃ tad vinihnute | 
+ 01.179c  sa vineyo bhṛśataraṃ kūṭasākṣyadhiko hi saḥ || 179 || 
+ 
+ 
+ 01.180a  āhūya sākṣiṇaḥ pṛcchen niyamya śapathair bhṛśam | 
+ 01.180c  samastān viditācārān vijñātārthān pṛthak pṛthak || 180 || 
+ 
+ 
+ 
+ 01.181a  satyena śāpayed vipraṃ kṣatriyaṃ vāhanāyudhaiḥ | 
+ 01.181c  gobījakāñcanair vaiśyaṃ śūdraṃ sarvais tu pātakaiḥ || 181
+                            || 
+ 
+ 
+ 01.182a  purāṇair dharmavacanaiḥ satyamāhātmyakīrtanaiḥ | 
+ 01.182c  anṛtasyāpavādaiś ca bhṛśam uttrāsya sākṣiṇaḥ || 182 || 
+ 
+ 
+ 01.183a  nagno muṇḍaḥ kapālena bhikṣārthī kṣutpipāsitaḥ | 
+ 01.183c  dīnaḥ śatrugṛhaṃ gacched yaḥ sākṣyam anṛtaṃ vadet || 183 || 
+ 
+ 
+ 01.184a  nagare pratiruddhaḥ san bahirdvāre bubhukṣitaḥ | 
+ 01.184c  amitrān bhūyaśaḥ paśyed yaḥ sākṣyam anṛtaṃ vadet || 184 || 
+ 
+ 
+ 
+ 01.185a  yāṃ rātrim adhivinnā strī yāṃ caivākṣaparājitaḥ | 
+ 01.185c  yāṃ ca bhārābhitaptāṅgo durvivaktā sa tāṃ vaset || 185 || 
+ 
+ 
+ 01.186a  sākṣī sākṣyasamuddeśe gokarṇaśithilaṃ caran | 
+ 01.186c  sahasraṃ vāruṇān pāśān ātmani pratimuñcati || 186 || 
+ 
+ 
+ 01.187a  tasya varṣaśate pūrṇe pāśam ekaṃ pramucyate | 
+ 01.187c  evaṃ sa bandhanāt tasmān mucyate niyutāḥ samāḥ || 187 || 
+ 
+ 
+ 01.188a  yāvato bāndhavāṃs yasmin hanti sākṣye 'nṛtaṃ vadan | 
+ 01.188c  tāvataḥ saṅkhyayā tasmin śṛṇu saumyānupūrvaśaḥ || 188 || 
+ 
+ 
+ 01.189a  pañca paśvanṛte hanti daśa hanti gavānṛte | 
+ 01.189c  śatam aśvānṛte hanti sahasraṃ puruṣānṛte || 189 || 
+ 
+ 
+ 01.190a  hanti jātān ajātāṃś ca hiraṇyārthe 'nṛtaṃ vadan | 
+ 01.190c  sarvaṃ bhūmyanṛte hanti mā sma bhūmyanṛtaṃ vadīḥ || 190 || 
+ 
+ 
+ 
+ 01.191a  ekam evādvitīyaṃ tat prāhuḥ pāvanam ātmanaḥ | 
+ 01.191c  satyaṃ svargasya sopānaṃ pārāvārasya naur iva || 191 || 
+ 
+ 
+ 01.192a  aśvamedhasahasraṃ ca satyaṃ ca tulayā dhṛtam | 
+ 01.192c  aśvamedhasahasrād dhi satyam eva viśiṣyate || 192 || 
+ 
+ 
+ 01.193a  varaṃ kūpaśatād vāpi varaṃ vāpīśatāt kratuḥ | 
+ 01.193c  varaṃ kratuśatāt putraḥ satyaṃ putraśatād varam || 193 || 
+ 
+ 
+ 01.194a  bhūr dhārayati satyena satyenodeti bhāskaraḥ | 
+ 01.194c  satyena vāyuḥ pavate satyenāpaḥ sravanti ca || 194 || 
+ 
+ 
+ 01.195a  satyam eva paraṃ dānaṃ satyam eva paraṃ tapaḥ | 
+ 01.195c  satyam eva paro dharmo lokānām iti naḥ śrutam || 195 || 
+ 
+ 
+ 01.196a  satyaṃ devāḥ samāsena manuṣyās tv anṛtaṃ smṛtam | 
+ 01.196c  ihaiva tasya devatvaṃ yasya satye sthitā matiḥ || 196 || 
+ 
+ 
+ 01.197a  satyaṃ brūhy anṛtaṃ tyaktvā satyena svargam eṣyasi | 
+ 01.197c  uktvānṛtaṃ mahāghoraṃ narakaṃ pratipatsyate || 197 || 
+ 
+ 
+ 01.198a  nirayeṣu ca te śaśvaj jihvām utkṛtya dāruṇāḥ | 
+ 01.198c  asibhiḥ śātayiṣyanti balino yamakiṅkarāḥ || 198 || 
+ 
+ 
+ 
+ 01.199a  śūlair bhetsyanti cākruddhāḥ krośantam aparāyaṇam | 
+ 01.199c  avākśirasam utkṣipya kṣepsyanty agnihradeṣu ca || 199 || 
+ 
+ 
+ 01.200a  anubhūya ca duḥkhās tāś ciraṃ narakavedanāḥ | 
+ 01.200c  iha yāsyasy abhavyāsu gṛdhrakākādiyoniṣu || 200 || 
+ 
+ 
+ 01.201a  jñātvaitān anṛte doṣāñ jñātvā satye ca sadguṇān | 
+ 01.201c  satyaṃ vadoddharātmānaṃ mātmānaṃ pātayiṣyasi || 201 || 
+ 
+ 
+ 01.202a  na bāndhavā na suhṛdo na dhanāni mahānty api | 
+ 01.202c  alaṃ tārayituṃ śaktās tamasy ugre nimajjataḥ || 202 || 
+ 
+ 
+ 01.203a  pitaras tv avalambante tvayi sākṣitvam āgate | 
+ 01.203c  tārayiṣyati kiṃvāsmān ātmānaṃ pātayiṣyati || 203 || 
+ 
+ 
+ 01.204a  satyam ātmā manuṣyasya satye sarvaṃ pratiṣṭhitam | 
+ 01.204c  sarvathaivātmanātmānaṃ śreyasā yojayiṣyasi || 204 || 
+ 
+ 
+ 
+ 01.205a  yāṃ ca rātrim ajaniṣṭhā yāṃ rātriṃ ca mariṣyasi | 
+ 01.205c  vṛthā tadantaraṃ te syāt kuryāś cet satyam anyathā || 205
+                            || 
+ 
+ 
+ 01.206a  nāsti satyāt paro dharmo nānṛtāt pātakaṃ param | 
+ 01.206c  sākṣidharme viśeṣeṇa satyam eva vadet tataḥ || 206 || 
+ 
+ 
+ 01.207a  yaḥ parārthe praharati svāṃ vācaṃ puruṣādhamaḥ | 
+ 01.207c  ātmārthe kiṃ na kuryāt sa pāpo narakanirbhayaḥ || 207 || 
+ 
+ 
+ 01.208a  arthā vai vāci niyatā vāṅmūlā vāgviniḥsṛtāḥ | 
+ 01.208c  yo hy etāṃ stenayed vācaṃ sa sarvasteyakṛn naraḥ || 208 || 
+ 
+ 
+ 
+ 01.209a  sākṣivipratipattau tu pramāṇaṃ bahavo yataḥ | 
+ 01.209c  tatsāmye śucayo grāhyās tatsāmye smṛtimattarāḥ || 209 || 
+ 
+ 
+ 01.210a  smṛtimatsākṣisāmyaṃ tu vivāde yatra dṛśyate | 
+ 01.210c  sūkṣmatvāt sākṣidharmasya sākṣyaṃ vyāvartate punaḥ || 210
+                            || 
+ 
+ 
+ 01.211a  nirdiṣṭeṣv arthajāteṣu sākṣī cet sākṣyam āgataḥ | 
+ 01.211c  na brūyād akṣarasamaṃ na tan nigaditaṃ bhavet || 211 || 
+ 
+ 
+ 01.212a  deśakālavayodravyapramāṇākṛtijātiṣu | 
+ 01.212c  yatra vipratipattiḥ syāt sākṣyaṃ tad asad ucyate || 212 || 
+ 
+ 
+ 
+ 01.213a  ūnam abhyadhikaṃ cārthaṃ prabrūyur yatra sākṣiṇaḥ | 
+ 01.213c  tad apy anuktaṃ vijñeyam eṣa sākṣyavidhiḥ smṛtaḥ || 213 || 
+ 
+ 
+ 
+ 01.214a  pramādād dhanino yatra na syāl lekhyaṃ na sākṣiṇaḥ | 
+ 01.214c  arthaṃ cāpahnuyād vādī tatroktas trividho vidhiḥ || 214 || 
+ 
+ 
+ 01.215a  codanā pratikālaṃ ca yuktileśas tathaiva ca | 
+ 01.215c  tṛtīyaḥ śapathaś coktas tair evaṃ sādhayet kramāt || 215 || 
+ 
+ 
+ 01.216a  abhīkṣṇaṃ codyamāno yaḥ pratihanyān na tadvacaḥ | 
+ 01.216c  tricatuḥpañcakṛtvo vā parato 'rthaṃ tam āvahet || 216 || 
+ 
+ 
+ 01.217a  codanāpratighāte tu yuktileśais tam anviyāt | 
+ 01.217c  deśakālārthasambandhaparimāṇakriyādibhiḥ || 217 || 
+ 
+ 
+ 
+ 01.218a  yuktiṣv apy asamarthāsu śapathair enam ardayet | 
+ 01.218c  arthakālabalāpekṣam agnyambusukṛtādibhiḥ || 218 || 
+ 
+ 
+ 01.219a  dīptāgnir yaṃ na dahati yam antardhārayanty āpaḥ | 
+ 01.219c  sa taraty abhiśāpaṃ taṃ kilbiṣī syād viparyaye || 219 || 
+ 
+ 
+ 
+ 01.220a  strīṇāṃ śīlābhiyogeṣu steyasāhasayor api | 
+ 01.220c  eṣa eva vidhir dṛṣṭaḥ sarvārthāpahnaveṣu ca || 220 || 
+ 
+ 
+ 01.221a  śapathā hy api devānām ṛṣīṇām api ca smṛtāḥ | 
+ 01.221c  vasiṣṭhaḥ śapathaṃ śepe yātudhāne tu śaṅkitaḥ || 221 || 
+ 
+ 
+ 01.222a  saptarṣayas tathendrāya puṣkarārthe samāgatāḥ | 
+ 01.222c  śepuḥ śapatham avyagrāḥ parasparaviśuddhaye || 222 || 
+ 
+ 
+ 
+ 01.223a  ayuktaṃ sāhasaṃ kṛtvā pratyāpattiṃ bhajeta yaḥ | 
+ 01.223c  brūyāt svayaṃ vā sadasi tasyārdhavinayaḥ smṛtaḥ || 223 || 
+ 
+ 
+ 01.224a  gūhamānas tu daurātmyād yadi pāpaṃ sa jīyate | 
+ 01.224c  sabhyāś cātra na tuṣyanti tīvro daṇḍaś ca pātyate || 224 || 
+ 
+ 
+ 
+ 
+                    Chapter 2
+Nikṣipaḥ  (Deposits) 
+ L tr. 96-99 , cf.  J tr. 55-56 
+ 
+ 02.001a  svadravyaṃ yatra viśrambhān nikṣipaty aviśaṅkitaḥ | 
+ 02.001c  nikṣepo nāma tat proktaṃ vyavahārapadaṃ budhaiḥ || 1 || 
+ 
+ 
+ 
+ 02.002a  anyadravyavyavahitaṃ dravyam avyākṛtaṃ ca yat | 
+ 02.002c  nikṣipyate paragṛhe tad aupanidhikaṃ smṛtam || 2 || 
+ 
+ 
+ 02.003a  sa punar dvividhaḥ proktaḥ sākṣimān itaras tathā | 
+ 02.003c  pratidānaṃ tathaivāsya pratyayaḥ syād viparyaye || 3 || 
+ 
+ 
+ 02.004a  yācyamānas tu yo dātrā nikṣepaṃ na prayacchati | 
+ 02.004c  daṇḍyaḥ sa rājñā dāpyaś ca naṣṭe dāpyaś ca tatsamam || 4 || 
+ 
+ 
+ 
+ 02.005a  yaś cārthaṃ sādhayet tena nikṣeptur ananujñayā | 
+ 02.005c  tatrāpi daṇḍyaḥ sa bhavet tac ca sodayam āvahet || 5 || 
+ 
+ 
+ 02.006a  grahītuḥ saha yo 'rthena naṣṭo naṣṭaḥ sa dāyinaḥ | 
+ 02.006c  daivarājakṛte tadvan na cet taj jihmakāritam || 6 || 
+ 
+ 
+ 
+ 02.007a  eṣa eva vidhir dṛṣṭo yācitānvāhitādiṣu | 
+ 02.007c  śilpiṣūpanidhau nyāse pratinyāse tathaiva ca || 7 || 
+ 
+ 
+ 
+ 02.008a  pratigṛhṇāti pogaṇḍaṃ yaś ca sapradhanaṃ naraḥ | 
+ 02.008c  tasyāpy eṣa bhaved dharmaḥ ṣaḍ ete vidhayaḥ samāḥ || 8 || 
+ 
+ 
+ 
+ 
+                    Chapter 3
+Sambhūyasamutthānam  (Breach of Contract for Service) 
+ L tr. 100-103 , cf.  J tr. 57-59 
+ 
+ 03.001a  vaṇikprabhṛtayo yatra karma sambhūya kurvate | 
+ 03.001c  tat sambhūyasamutthānaṃ vyavahārapadaṃ smṛtam || 1 || 
+ 
+ 
+ 03.002a  phalahetor upāyena karma sambhūya kurvatām | 
+ 03.002c  ādhārabhūtaḥ prakṣepas tenottiṣṭheyur aṃśataḥ || 2 || 
+ 
+ 
+ 03.003a  samo 'tirikto hīno vā yatrāṃśo yasya yādṛśaḥ | 
+ 03.003c  kṣayavyayau tathā vṛddhis tasya tatra tathāvidhāḥ || 3 || 
+ 
+ 
+ 03.004a  bhāṇḍapiṇḍavyayoddhārabhārasārānvavekṣaṇam | 
+ 03.004c  kuryus te 'vyabhicāreṇa samaye sve vyavasthitāḥ || 4 || 
+ 
+ 
+ 
+ 03.005a  pramādān nāśitaṃ dāpyaḥ pratiṣiddhakṛtaṃ ca yat | 
+ 03.005c  asandiṣṭaś ca yat kuryāt sarvaiḥ sambhūyakāribhiḥ || 5 || 
+ 
+ 
+ 03.006a  daivataskararājotthe vyasane samupasthite | 
+ 03.006c  yas tat svaśaktyā saṃrakṣet tasyāṃśo daśamaḥ smṛtaḥ || 6 || 
+ 
+ 
+ 03.007a  ekasya cet syād vyasanaṃ dāyādo 'sya tad āpnuyāt | 
+ 03.007c  anyo vāsati dāyāde śaktāś cet sarva eva vā || 7 || 
+ 
+ 
+ 03.008a  ṛtvijāṃ vyasane 'py evam anyas tat karma nistaret | 
+ 03.008c  labheta dakṣiṇābhāgaṃ sa tasmāt samprakalpitam || 8 || 
+ 
+ 
+ 
+ 03.009a  ṛtvig yājyam aduṣṭaṃ yas tyajed anapakāriṇam | 
+ 03.009c  aduṣṭaṃ va rtvijaṃ yājyo vineyau tāv ubhāv api || 9 || 
+ 
+ 
+ 03.010a  ṛtvik tu trividho dṛṣṭaḥ pūrvajuṣṭaḥ svayaṅkṛtaḥ | 
+ 03.010c  yadṛcchayā ca yaḥ kuryād ārtvijyaṃ prītipūrvakam || 10 || 
+ 
+ 
+ 03.011a  kramāgateṣv eṣa dharmo vṛteṣv ṛtvikṣu ca svayam | 
+ 03.011c  yādṛcchike tu saṃyājye tattyāge nāsti kilbiṣam || 11 || 
+ 
+ 
+ 
+ 03.012a  śulkasthānaṃ vaṇik prāptaḥ śulkaṃ dadyād yathopagam | 
+ 03.012c  na tad vyatihared rājñāṃ balir eṣa prakalpitaḥ || 12 || 
+ 
+ 
+ 03.013a  śulkasthānaṃ pariharan na kāle krayavikrayī | 
+ 03.013c  mithyoktvā ca parīmāṇaṃ dāpyo 'ṣṭaguṇam atyayam || 13 || 
+ 
+ 
+ 03.014a  kaścic cet sañcaran deśāt preyād abhyāgato vaṇik | 
+ 03.014c  rājāsya bhāṇḍaṃ tad rakṣet yāvad dāyādadarśanam || 14 || 
+ 
+ 
+ 03.015a  dāyāde 'sati bandhubhyo jñātibhyo vā tad arpayet | 
+ 03.015c  tadabhāve suguptaṃ tad dhārayed daśatīḥ samāḥ || 15 || 
+ 
+ 
+ 
+ 03.016a  asvāmikam adāyādaṃ daśavarṣasthitaṃ tataḥ | 
+ 03.016c  rājā tad ātmasāt kuryād evaṃ dharmo na hīyate || 16 || 
+ 
+ 
+ 
+ 
+                    Chapter 4
+Dattāpradānikam  (Resumption of Gifts) 
+ L tr. 104-106 , cf.  J tr. 59-60 
+ 
+ 04.001a  dattvā dravyam asamyag yaḥ punar ādātum icchati | 
+ 04.001c  dattāpradānikaṃ nāma tad vivādapadaṃ smṛtam || 1 || 
+ 
+ 
+ 04.002a  adeyam atha deyaṃ ca dattaṃ cādattam eva ca | 
+ 04.002c  vyavahāreṣu vijñeyo dānamārgaś caturvidhaḥ || 2 || 
+ 
+ 
+ 04.003a  tatra hyaṣṭāv adeyāni deyam ekavidhaṃ smṛtam | 
+ 04.003c  dattaṃ saptavidhaṃ vidyād adattaṃ ṣoḍaśātmakam || 3 || 
+ 
+ 
+ 04.004a  anvāhitaṃ yācitakam ādhiḥ sādhāraṇaṃ ca yat | 
+ 04.004c  nikṣepaḥ putradāraṃ ca sarvasvaṃ cānvaye sati || 4 || 
+ 
+ 
+ 
+ 04.005a  āpatsv api hi kaṣṭāsu vartamānena dehinā | 
+ 04.005c  adeyāny āhur ācāryā yac cānyasmai pratiśrutam || 5 || 
+ 
+ 
+ 04.006a  kuṭumbabharaṇād dravyaṃ yatkiñcid atiricyate | 
+ 04.006c  tad deyam upahṛtyānyad dadad doṣam avāpnuyāt || 6 || 
+ 
+ 
+ 04.007a  paṇyamūlyaṃ bhṛtis tuṣṭyā snehāt pratyupakārataḥ | 
+ 04.007c  strīśulkānugrahārthaṃ ca dattaṃ dānavido viduḥ || 7 || 
+ 
+ 
+ 
+ 04.008a  adattaṃ tu bhayakrodhaśokavegarujānvitaiḥ | 
+ 04.008c  tathotkocaparīhāsavyatyāsacchalayogataḥ || 8 || 
+ 
+ 
+ 04.009a  bālamūḍhāsvatantrārtamattonmattāpavarjitam | 
+ 04.009c  kartā mamāyaṃ karmeti pratilābhecchayā ca yat || 9 || 
+ 
+ 
+ 04.010a  apātre pātram ity ukte kārye cādharmasaṃhite | 
+ 04.010c  yad dattaṃ syād avijñānād adattaṃ tad api smṛtam || 10 || 
+ 
+ 
+ 
+ 04.011a  gṛhṇāty adattaṃ yo lobhād yaś cādeyaṃ prayacchati | 
+ 04.011c  adattādāyako daṇḍyas tathādeyasya dāyakaḥ || 11 || 
+ 
+ 
+ 
+ 
+                    Chapter 5
+Abhyupetyāśuśrūṣā  (Breach of Contract for Service) 
+ L tr. 107-115 , cf.  J tr. 61-65 
+ 
+ 05.001a  abhyupetya tu śuśrūṣāṃ yas tāṃ na pratipadyate | 
+ 05.001c  aśuśrūṣābhyupetyaitad vivādapadam ucyate || 1 || 
+ 
+ 
+ 05.002a  śuśrūṣakaḥ pañcavidhaḥ śāstre dṛṣṭo manīṣibhiḥ | 
+ 05.002c  caturvidhaḥ karmakaras teṣāṃ dāsās tripañcakāḥ || 2 || 
+ 
+ 
+ 05.003a  śiṣyāntevāsibhṛtakāś caturthas tv adhikarmakṛt | 
+ 05.003c  ete karmakarāḥ proktā dāsās tu gṛhajādayaḥ || 3 || 
+ 
+ 
+ 
+ 05.004a  sāmānyam asvatantratvam eṣām āhur manīṣiṇaḥ | 
+ 05.004c  jātikarmakṛtas tūkto viśeṣo vṛttir eva ca || 4 || 
+ 
+ 
+ 05.005a  karmāpi dvividhaṃ jñeyam aśubhaṃ śubham eva ca | 
+ 05.005c  aśubhaṃ dāsakarmoktaṃ śubhaṃ karmakṛtāṃ smṛtam || 5 || 
+ 
+ 
+ 05.006a  gṛhadvārāśucisthānarathyāvaskaraśodhanam | 
+ 05.006c  guhyāṅgasparśanocchiṣṭaviṇmūtragrahaṇojjhanam || 6 || 
+ 
+ 
+ 05.007a  iṣṭataḥ svāminaś cāṅgair upasthānam athāntataḥ | 
+ 05.007c  aśubhaṃ karma vijñeyaṃ śubham anyad ataḥ param || 7 || 
+ 
+ 
+ 05.008a  ā vidyāgrahaṇāc chiṣyaḥ śuśrūṣet prayato gurum | 
+ 05.008c  tadvṛttir gurudāreṣu guruputre tathaiva ca || 8 || 
+ 
+ 
+ 05.009a  brahmacārī cared bhaikṣam adhaḥśāyy analaṅkṛtaḥ | 
+ 05.009c  jaghanyaśāyī sarveṣāṃ pūrvotthāyī guror gṛhe || 9 || 
+ 
+ 
+ 
+ 05.010a  nāsandiṣṭaḥ pratiṣṭheta tiṣṭhed vāpi guruṃ kvacit | 
+ 05.010c  sandiṣṭaḥ karma kurvīta śaktaś ced avicārayan || 10 || 
+ 
+ 
+ 05.011a  yathākālam adhīyīta yāvan na vimanā guruḥ | 
+ 05.011c  āsīno 'dho guroḥ kūrce phalake vā samāhitaḥ || 11 || 
+ 
+ 
+ 05.012a  anuśāsyaś ca guruṇā na ced anuvidhīyate | 
+ 05.012c  avadhenāthavā hanyāt rajjvā veṇudalena vā || 12 || 
+ 
+ 
+ 05.013a  bhṛśaṃ na tāḍayed enaṃ nottamāṅge na vakṣasi | 
+ 05.013c  anuśāsyātha viśvāsyaḥ śāsyo rājñānyathā guruḥ || 13 || 
+ 
+ 
+ 
+ 05.014a  samāvṛttaś ca gurave pradāya gurudakṣiṇām | 
+ 05.014c  pratīyāt svagṛhān eṣā śiṣyavṛttir udāhṛtā || 14 || 
+ 
+ 
+ 05.015a  svaśilpam icchann āhartuṃ bāndhavānām anujñayā | 
+ 05.015c  ācāryasya vased ante kālaṃ kṛtvā suniścitam || 15 || 
+ 
+ 
+ 05.016a  ācāryaḥ śikṣayed enaṃ svagṛhād dattabhojanam | 
+ 05.016c  na cānyat kārayet karma putravac cainam ācaret || 16 || 
+ 
+ 
+ 05.017a  śikṣayantam aduṣṭaṃ ca yas tv ācāryaṃ parityajet | 
+ 05.017c  balād vāsayitavyaḥ syād vadhabandhau ca so 'rhati || 17 || 
+ 
+ 
+ 
+ 05.018a  śikṣito 'pi kṛtaṃ kālam antevāsī samāpnuyāt | 
+ 05.018c  tatra karma ca yat kuryād ācāryasyaiva tatphalam || 18 || 
+ 
+ 
+ 
+ 05.019a  gṛhītaśilpaḥ samaye kṛtvācāryaṃ pradakṣiṇam | 
+ 05.019c  śaktitaś cānumānyainam antevāsī nivartayet || 19 || 
+ 
+ 
+ 05.020a  bhṛtakas trividho jñeya uttamo madhyamo 'dhamaḥ | 
+ 05.020c  śaktibhaktyanurūpā syād eṣāṃ karmāśrayā bhṛtiḥ || 20 || 
+ 
+ 
+ 05.021a  uttamas tv āyudhīyo 'tra madhyamas tu kṛṣīvalaḥ | 
+ 05.021c  adhamo bhāravāhaḥ syād ity evaṃ trividho bhṛtaḥ || 21 || 
+ 
+ 
+ 05.022a  artheṣv adhikṛto yaḥ syāt kuṭumbasya tathopari | 
+ 05.022c  so 'dhikarmakaro jñeyaḥ sa ca kauṭumbikaḥ smṛtaḥ || 22 || 
+ 
+ 
+ 05.023a  śubhakarmakarās tv ete catvāraḥ samudāhṛtāḥ | 
+ 05.023c  jaghanyakarmabhājas tu śeṣā dāsās tripañcakāḥ || 23 || 
+ 
+ 
+ 
+ 05.024a  gṛhajātas tathā krīto labdho dāyād upāgataḥ | 
+ 05.024c  anākālabhṛtas tadvad ādhattaḥ svāminā ca yaḥ || 24 || 
+ 
+ 
+ 05.025a  mokṣito mahataś carṇāt prāpto yuddhāt paṇe jitaḥ | 
+ 05.025c  tavāham ity upagataḥ pravrajyāvasitaḥ kṛtaḥ || 25 || 
+ 
+ 
+ 05.026a  bhaktadāsaś ca vijñeyas tathaiva vaḍavābhṛtaḥ | 
+ 05.026c  vikretā cātmanaḥ śāstre dāsāḥ pañcadaśā smṛtāḥ || 26 || 
+ 
+ 
+ 05.027a  tatra pūrvaś caturvargo dāsatvān na vimucyate | 
+ 05.027c  prasādād svāmino 'nyatra dāsyam eṣāṃ kramāgatam || 27 || 
+ 
+ 
+ 05.028a  yaś caiṣāṃ svāminaṃ kaścin mokṣayet prāṇasaṃśayāt | 
+ 05.028c  dāsatvāt sa vimucyeta putrabhāgaṃ labheta ca || 28 || 
+ 
+ 
+ 05.029a  anākālabhṛto dāsyān mucyate goyugaṃ dadat | 
+ 05.029c  sambhakṣitaṃ yad durbhikṣe na tac chudhyeta karmaṇā || 29
+                            || 
+ 
+ 
+ 05.030a  ādhatto 'pi dhanaṃ dattvā svāmī yady enam uddharet | 
+ 05.030c  athopagamayed enaṃ sa vikrītād anantaraḥ || 30 || 
+ 
+ 
+ 05.031a  dattvā tu sodayam ṛṇaṃ ṛṇī dāsyāt pramucyate | 
+ 05.031c  kṛtakālābhyupagamāt kṛtako 'pi vimucyate || 31 || 
+ 
+ 
+ 
+ 05.032a  tavāham ity upagato yuddhaprāptaḥ paṇe jitaḥ | 
+ 05.032c  pratiśīrṣapradānena mucyate tulyakarmaṇā || 32 || 
+ 
+ 
+ 05.033a  rājña eva tu dāsaḥ syāt pravrajyāvasito naraḥ | 
+ 05.033c  na tasya pratimokṣo 'sti na viśuddhiḥ kathañcana || 33 || 
+ 
+ 
+ 05.034a  bhaktasyopekṣaṇāt sadyo bhaktadāsaḥ pramucyate | 
+ 05.034c  nigrahād vaḍavāyāś ca mucyate vaḍavābhṛtaḥ || 34 || 
+ 
+ 
+ 05.035a  vikrīṇīte ya ātmānaṃ svatantraḥ san narādhamaḥ | 
+ 05.035c  sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate || 35 || 
+ 
+ 
+ 05.036a  caurāpahṛtavikrītā ye ca dāsīkṛtā balāt | 
+ 05.036c  rājñā mokṣayitavyās te dāsatvaṃ teṣu neṣyate || 36 || 
+ 
+ 
+ 05.037a  varṇānāṃ prātilomyena dāsatvaṃ na vidhīyate | 
+ 05.037c  svadharmatyāgino 'nyatra dāravad dāsatā matā || 37 || 
+ 
+ 
+ 05.038a  tavāham iti cātmānaṃ yo 'svatantraḥ prayacchati | 
+ 05.038c  na sa taṃ prāpnuyāt kāmaṃ pūrvasvāmī labheta tam || 38 || 
+ 
+ 
+ 05.039a  adhanās traya evoktā bhāryā dāsas tathā sutaḥ | 
+ 05.039c  yat te samadhigacchanti yasya te tasya tad dhanam || 39 || 
+ 
+ 
+ 05.040a  svadāsam icched yaḥ kartum adāsaṃ prītamānasaḥ | 
+ 05.040c  skandhād ādāya tasyāpi bhindyāt kumbhaṃ sahāmbhasā || 40 || 
+ 
+ 
+ 
+ 05.041a  akṣatābhiḥ sapuṣpābhir mūrdhany enam avākiret | 
+ 05.041c  adāsa iti coktvā triḥ prāṅmukhaṃ tam athotsṛjet || 41 || 
+ 
+ 
+ 05.042a  tataḥprabhṛti vaktavyaḥ svāmyanugrahapālitaḥ | 
+ 05.042c  bhojyānnaḥ pratigṛhyaś ca bhavaty abhimataś ca saḥ || 42 || 
+ 
+ 
+ 
+ 
+                    Chapter 6
+Vetanasyānapākarma  (Nonpayment of Wages) 
+ L tr. 116-121 , cf.  J tr. 66-68 
+ 
+ 06.001a  bhṛtānāṃ vetanasyokto dānādānavidhikramaḥ | 
+ 06.001c  vetanasyānapākarma tad vivādapadaṃ smṛtam || 1 || 
+ 
+ 
+ 06.002a  bhṛtāya vetanaṃ dadyāt karmasvāmī yathākramam | 
+ 06.002c  ādau madhye 'vasāne vā karmaṇo yad viniścitam || 2 || 
+ 
+ 
+ 06.003a  bhṛtāvaniścitāyāṃ tu daśabhāgaṃ samāpnuyuḥ | 
+ 06.003c  lābhagobījasasyānāṃ vaṇiggopakṛṣībalāḥ || 3 || 
+ 
+ 
+ 06.004a  karmopakaraṇaṃ caiṣāṃ kriyāṃ prati yad āhṛtam | 
+ 06.004c  āptabhāvena kurvīta na jihmena samācaret || 4 || 
+ 
+ 
+ 06.005a  karmākurvan pratiśrutya kāryo dattvā bhṛtiṃ balāt | 
+ 06.005c  bhṛtiṃ gṛhītvākurvāṇo dviguṇāṃ bhṛtim āvahet || 5 || 
+ 
+ 
+ 06.006a  kāle 'pūrṇe tyajet karma bhṛtināśo 'sya cārhati | 
+ 06.006c  svāmidoṣād apākrāman yāvat kṛtam avāpnuyāt || 6 || 
+ 
+ 
+ 06.007a  bhṛtiṣaḍbhāgam ābhāṣya pathi yugyakṛtaṃ tyajan | 
+ 06.007c  adadat kārayitvā tu karmaivaṃ sodayāṃ bhṛtim || 7 || 
+ 
+ 
+ 
+ 06.008a  anayan bhāṭayitvā tu bhāṇḍavān yānavāhane | 
+ 06.008c  dāpyo bhṛticaturbhāgaṃ samam ardhapathe tyajan || 8 || 
+ 
+ 
+ 06.009a  anayan vāhako 'py evaṃ bhṛtihānim avāpnuyāt | 
+ 06.009c  dviguṇāṃ tu bhṛtiṃ dāpyaḥ prasthāne vighnam ācaran || 9 || 
+ 
+ 
+ 06.010a  bhāṇḍaṃ vyasanam āgacched yadi vāhakadoṣataḥ | 
+ 06.010c  dāpyo yat tatra naṣṭaṃ syād daivarājakṛtād ṛte || 10 || 
+ 
+ 
+ 06.011a  gavāṃ śatād vatsatarī dhenuḥ syād dviśatād bhṛtiḥ | 
+ 06.011c  prati samvatsaraṃ gope sadohaś cāṣṭame 'hani || 11 || 
+ 
+ 
+ 06.012a  upānayet gā gopāya pratyahaṃ rajanīkṣaye | 
+ 06.012c  cīṛṇāḥ pītāś ca tā gopaḥ sāyāhne pratyupānayet || 12 || 
+ 
+ 
+ 06.013a  syāc ced govyasanaṃ gopo vyāyacchet tatra śaktitaḥ | 
+ 06.013c  aśaktas tūrṇam āgamya svāmine tan nivedayet || 13 || 
+ 
+ 
+ 06.014a  avyāyac channavikrośan svāmine cānivedayan | 
+ 06.014c  voḍhum arhati gopas tāṃ vinayaṃ cāpi rājani || 14 || 
+ 
+ 
+ 06.015a  naṣṭavinaṣṭaṃ kṛmibhiḥ śvahataṃ viṣame mṛtam | 
+ 06.015c  hīnaṃ puruṣakāreṇa gopāyaiva nipātayet || 15 || 
+ 
+ 
+ 06.016a  ajāvike tathāruddhe vṛkaiḥ pāle tv anāyati | 
+ 06.016c  yat prasahya vṛko hanyāt pāle tatkilbiṣam bhavet || 16 || 
+ 
+ 
+ 
+ 06.017a  tāsāṃ caivāniruddhānāṃ carantīnāṃ mitho vane | 
+ 06.017c  yām utpatya vṛko hanyān na pālas tatra kilbiṣī || 17 || 
+ 
+ 
+ 06.018a  vighuṣya tu hṛtaṃ caurair na pālo dātum arhati | 
+ 06.018c  yadi deśe ca kāle ca svāminaḥ svasya śaṃsati || 18 || 
+ 
+ 
+ 06.019a  etena sarvapālānāṃ vivādaḥ samudāhṛtaḥ | 
+ 06.019c  mṛteṣu ca viśuddhiḥ syāt pālasyāṅkādidarśanāt || 19 || 
+ 
+ 
+ 06.020a  śulkaṃ gṛhītvā paṇyastrī necchantī dvis tad āvahet | 
+ 06.020c  aprayacchaṃs tadā śulkam anubhūya pumān striyam || 20 || 
+ 
+ 
+ 06.021a  ayonau kramate yas tu bahubhir vāpi vāsayet | 
+ 06.021c  śulkam aṣṭaguṇaṃ dāpyo vinayas tāvad eva ca || 21 || 
+ 
+ 
+ 06.022a  parājire gṛhaṃ kṛtvā stomaṃ dattvā vaset tu yaḥ | 
+ 06.022c  sa tad gṛhītvā nirgacchet tṛṇakāṣṭheṣṭakādikam || 22 || 
+ 
+ 
+ 06.023a  stomavāhīni bhāṇḍāni pūrṇakālāny upānayet | 
+ 06.023c  grahītur ābhaved bhagnaṃ naṣṭaṃ cānyatra samplavāt || 23 || 
+ 
+ 
+ 
+ 
+                    Chapter 7
+Asvāmivikrayaḥ  (Sale without Ownership) 
+ L tr. 122-123 , cf.  J tr. 69-70 
+ 
+ 07.001a  nikṣiptaṃ vā paradravyaṃ naṣṭaṃ labdhvāpahṛtya vā | 
+ 07.001c  vikrīyate 'samakṣaṃ yad vijñeyo 'svāmivikrayaḥ || 1 || 
+ 
+ 
+ 07.002a  dravyam asvāmivikrītaṃ prāpya svāmī samāpnuyāt | 
+ 07.002c  prakāśaṃ krayataḥ śuddhiḥ kretuḥ steyaṃ rahaḥ krayāt || 2
+                            || 
+ 
+ 
+ 07.003a  asvāmyanumatād dāsād asataś ca janād rahaḥ | 
+ 07.003c  hīnamūlyam avelāyāṃ krīṇaṃs taddoṣabhāg bhavet || 3 || 
+ 
+ 
+ 07.004a  na gūhetāgamaṃ kretā śuddhis tasya tadāgamāt | 
+ 07.004c  viparyaye tulyadoṣaḥ steyadaṇḍaṃ ca so 'rhati || 4 || 
+ 
+ 
+ 07.005a  vikretā svāmine 'rthaṃ ca kretur mūlyaṃ ca tatkṛtam | 
+ 07.005c  dadyād daṇḍaṃ tathā rājñe vidhir asvāmivikraye || 5 || 
+ 
+ 
+ 
+ 07.006a  pareṇa nihitaṃ labdhvā rājany upaharen nidhim | 
+ 07.006c  rājagāmī nidhiḥ sarvaḥ sarveṣāṃ brāhmaṇād ṛte || 6 || 
+ 
+ 
+ 07.007a  brāhmaṇo 'pi nidhiṃ labdhvā kṣipraṃ rājñe nivedayet | 
+ 07.007c  tena dattaṃ ca bhūñjīta stenaḥ syād anivedayan || 7 || 
+ 
+ 
+ 07.008a  svam apy arthaṃ tathā naṣṭaṃ labdhvā rājñe nivedayet | 
+ 07.008c  gṛhṇīyāt tatra taṃ śuddham aśuddhaṃ syāt tato 'nyathā || 8
+                            || 
+ 
+ 
+ 
+ 
+                    Chapter 8
+Krītānuśayaḥ  (Nondelivery of What Has Been Sold) 
+ L tr. 124-126 , cf.  J tr. 70-71 
+ 
+ 08.001a  vikrīya paṇyaṃ mūlyena kretur yan na pradīyate | 
+ 08.001c  vikrīyāsampradānaṃ tad vivādapadam ucyate || 1 || 
+ 
+ 
+ 08.002a  loke 'smin dvividhaṃ dravyaṃ jaṅgamaṃ sthāvaraṃ tathā | 
+ 08.002c  krayavikrayadharmeṣu sarvaṃ tat paṇyam ucyate || 2 || 
+ 
+ 
+ 08.003a  ṣaḍvidhas tasya tu budhair dānādānavidhiḥ smṛtaḥ | 
+ 08.003c  gaṇimaṃ tulimaṃ meyaṃ kriyayā rūpataḥ śriyā || 3 || 
+ 
+ 
+ 08.004a  vikrīya paṇyaṃ mūlyena kretur yo na prayacchati | 
+ 08.004c  sthāvarasya kṣayaṃ dāpyo jaṅgamasya kriyāphalam || 4 || 
+ 
+ 
+ 08.005a  arghaś ced apahīyeta sodayaṃ paṇyam āvahet | 
+ 08.005c  sthāyinām eṣa niyamo diglābho digvicāriṇām || 5 || 
+ 
+ 
+ 08.006a  upahanyeta vā paṇyaṃ dahyetāpahriyeta vā | 
+ 08.006c  vikretur eva so 'nartho vikrīyāsamprayacchataḥ || 6 || 
+ 
+ 
+ 
+ 08.007a  nirdoṣaṃ darśayitvā tu sadoṣaṃ yaḥ prayacchati | 
+ 08.007c  mūlyaṃ taddviguṇaṃ dāpyo vinayaṃ tāvad eva ca || 7 || 
+ 
+ 
+ 08.008a  tathānyahaste vikrīya yo 'nyasmai samprayacchati | 
+ 08.008c  so 'pi taddviguṇaṃ dāpyo vineyas tāvad eva ca || 8 || 
+ 
+ 
+ 08.009a  dīyamānaṃ na gṛhṇāti krītaṃ paṇyaṃ ca yaḥ krayī | 
+ 08.009c  vikrīṇānas tad anyatra vikretā nāparādhnuyāt || 9 || 
+ 
+ 
+ 08.010a  dattamūlyasya paṇyasya vidhir eṣa prakīrtitaḥ | 
+ 08.010c  adatte 'nyatra samayān na vikretur atikramaḥ || 10 || 
+ 
+ 
+ 08.011a  lābhārthe vaṇijāṃ sarvapaṇyeṣu krayavikrayaḥ | 
+ 08.011c  sa ca lābho 'rgham āsādya mahān bhavati vā na vā || 11 || 
+ 
+ 
+ 08.012a  tasmād deśe ca kāle ca vaṇig arghaṃ parākramet | 
+ 08.012c  na jihmena pravarteta śreyān evaṃ vaṇikpathaḥ || 12 || 
+ 
+ 
+ 
+ 
+                    Chapter 9
+Vikrīyāsampradānam  (Reneging on a Purchase) 
+ L tr. 127-129 , cf.  J tr. 72-74 
+ 
+ 09.001a  krītvā mūlyena yaḥ paṇyaṃ kretā na bahu manyate | 
+ 09.001c  krītvānuśaya ity etad vivādapadam ucyate || 1 || 
+ 
+ 
+ 09.002a  krītvā mūlyena yat paṇyaṃ duṣkrītaṃ manyate krayī | 
+ 09.002c  vikretuḥ pratideyaṃ tat tasminn evāhny avikṣatam || 2 || 
+ 
+ 
+ 09.003a  dvitīye 'hni dadat kretā mūlyāt triṃśāṃśam āvahet | 
+ 09.003c  dviguṇaṃ tat tṛtīye 'hni parataḥ kretur eva tat || 3 || 
+ 
+ 
+ 09.004a  kretā paṇyaṃ parīkṣeta prāk svayaṃ guṇadoṣataḥ | 
+ 09.004c  parīkṣyābhimataṃ krītaṃ vikretur na bhavet punaḥ || 4 || 
+ 
+ 
+ 09.005a  tryahād dohyaṃ parīkṣeta pañcāhād vāhyam eva tu | 
+ 09.005c  muktāvajrapravālānāṃ saptāhaṃ syāt parīkṣaṇam || 5 || 
+ 
+ 
+ 09.006a  dvipadām ardhamāsaṃ syāt puṃsāṃ taddviguṇaṃ striyāḥ | 
+ 09.006c  daśāhaṃ sarvabījānām ekāhaṃ lohavāsasām || 6 || 
+ 
+ 
+ 09.007a  paribhuktaṃ ca yad vāsaḥ kliṣṭarūpaṃ malīmasam | 
+ 09.007c  sadoṣam api vikrītaṃ vikretur na bhavet punaḥ || 7 || 
+ 
+ 
+ 
+ 09.008a  mūlyāṣṭabhāgo hīyeta sakṛd dhautasya vāsasaḥ | 
+ 09.008c  dviḥ pādas tris tribhāgas tu catuḥkṛtvo 'rdham eva ca || 8
+                            || 
+ 
+ 
+ 09.009a  ardhakṣayāt tu parataḥ pādāṃśāpacayaḥ kramāt | 
+ 09.009c  yāvat kṣīṇadaśaṃ jīrṇaṃ jīrṇasyāniyamaḥ kṣaye || 9 || 
+ 
+ 
+ 09.010a  lohānām api sarveṣāṃ hetur agnikriyāvidhau | 
+ 09.010c  kṣayaḥ saṃskriyamāṇānāṃ teṣāṃ dṛṣṭo 'gnisaṅgamāt || 10 || 
+ 
+ 
+ 09.011a  suvarṇasya kṣayo nāsti rajate dvipalaṃ śatam | 
+ 09.011c  śatam aṣṭapalaṃ jñeyaṃ kṣayas syāt trapusīsayoḥ || 11 || 
+ 
+ 
+ 09.012a  tāmre pañcapalaṃ vidyād vikārā ye ca tanmayāḥ | 
+ 09.012c  taddhātūnām anekatvād ayaso 'niyamaḥ kṣaye || 12 || 
+ 
+ 
+ 09.013a  tāntavasya ca saṃskāre kṣayavṛddhī udāhṛte | 
+ 09.013c  sūtrakārpāsikorṇānāṃ vṛddhir daśapalaṃ śatam || 13 || 
+ 
+ 
+ 09.014a  sthūlasūtravatāṃ teṣāṃ madhyānāṃ pañcakaṃ śatam | 
+ 09.014c  tripalaṃ tu susūkṣmāṇām antaḥkṣaya udāhṛtaḥ || 14 || 
+ 
+ 
+ 09.015a  triṃśāṃśo romaviddhasya kṣayaḥ karmakṛtasya tu | 
+ 09.015c  kauṣeyavalkalānāṃ tu naiva vṛddhir na ca kṣayaḥ || 15 || 
+ 
+ 
+ 
+ 09.016a  krītvā nānuśayaṃ kuryād vaṇik paṇyavicakṣaṇaḥ | 
+ 09.016c  vṛddhikṣayau tu jānīyāt paṇyānām āgamaṃ tathā || 16 || 
+ 
+ 
+ 
+ 
+                    Chapter 10
+Samayasyānapākarma  (Nonobservance of Conventions) 
+ L tr. 130-131 , cf.  J tr. 74-75 
+ 
+ 10.001a  pāṣaṇḍanaigamādīnāṃ sthitiḥ samaya ucyate | 
+ 10.001c  samayasyānapākarma tad vivādapadaṃ smṛtam || 1 || 
+ 
+ 
+ 10.002a  pāṣaṇḍanaigamaśreṇīpūgavrātagaṇādiṣu | 
+ 10.002c  saṃrakṣet samayaṃ rājā durge janapade tathā || 2 || 
+ 
+ 
+ 10.003a  yo dharmaḥ karma yac caiṣām upasthānavidhiś ca yaḥ | 
+ 10.003c  yac caiṣāṃ vṛttyupādānam anumanyeta tat tathā || 3 || 
+ 
+ 
+ 10.004a  pratikūlaṃ ca yad rājñaḥ prakṛtyavamataṃ ca yat | 
+ 10.004c  bādhakaṃ ca yad arthānāṃ tat tebhyo vinivartayet || 4 || 
+ 
+ 
+ 10.005a  mithaḥ saṅghātakaraṇam ahitaṃ śastradhāraṇam | 
+ 10.005c  parasparopaghātaṃ ca teṣāṃ rājā na marṣayet || 5 || 
+ 
+ 
+ 10.006a  pṛthag gaṇāṃś ca ye bhindyus te vineyā viśeṣataḥ | 
+ 10.006c  āvaheyur bhayaṃ ghoraṃ vyādhivat te hy upekṣitāḥ || 6 || 
+ 
+ 
+ 10.007a  doṣavat karaṇaṃ yat syād anāmnāyaprakalpitam | 
+ 10.007c  pravṛttam api tad rājā śreyaskāmo nivartayet || 7 || 
+ 
+ 
+ 
+ 
+                    Chapter 11
+Kṣetrajavivādaḥ  (Land Disputes) 
+ L tr. 132-140 , cf.  J tr. 75-80 
+ 
+ 11.001a  setukedāramaryādāvikṛṣṭākṛṣṭaniścayāḥ | 
+ 11.001c  kṣetrādhikārā yatra syur vivādaḥ kṣetrajas tu saḥ || 1 || 
+ 
+ 
+ 11.002a  kṣetrasīmāvirodheṣu sāmantebhyo viniścayaḥ | 
+ 11.002c  nagaragrāmagaṇino ye ca vṛddhatamā narāḥ || 2 || 
+ 
+ 
+ 11.003a  grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ | 
+ 11.003c  gopaśākunikavyādhā ye cānye vanagocarāḥ || 3 || 
+ 
+ 
+ 11.004a  samunnayeyus te sīmāṃ lakṣaṇair upalakṣitām | 
+ 11.004c  tuṣāṅgārakapālaiś ca kumbhair āyatanair drumaiḥ || 4 || 
+ 
+ 
+ 11.005a  abhijñātaiś ca valmīkasthalanimnonnatādibhiḥ | 
+ 11.005c  kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā || 5 || 
+ 
+ 
+ 11.006a  nimnagāpahṛtotsṛṣṭanaṣṭacihnāsu bhūmiṣu | 
+ 11.006c  tatpradeśānumānāc ca pramāṇair bhogadarśanaiḥ || 6 || 
+ 
+ 
+ 11.007a  atha ced anṛtaṃ brūyuḥ sāmantās tadviniścaye | 
+ 11.007c  sarve pṛthak pṛthag daṇḍyā rājñā madhyamasāhasam || 7 || 
+ 
+ 
+ 
+ 11.008a  gaṇavṛddhādayas tv anye daṇḍaṃ dāpyāḥ pṛthak pṛthak | 
+ 11.008c  vineyāḥ prathamena syuḥ sāhasenānṛte sthitāḥ || 8 || 
+ 
+ 
+ 11.009a  naikaḥ samunnayet sīmāṃ naraḥ pratyayavān api | 
+ 11.009c  gurutvād asya dharmasya kriyaiṣā bahuṣu sthitā || 9 || 
+ 
+ 
+ 11.010a  ekaś ced unnayet sīmāṃ sopavāsaḥ samāhitaḥ | 
+ 11.010c  raktamālyāmbaradharaḥ kṣitim āropya mūrdhani || 10 || 
+ 
+ 
+ 11.011a  yadā ca na syur jñātāraḥ sīmāyā na ca lakṣaṇam | 
+ 11.011c  tadā rājā dvayoḥ sīmām uddhared iṣṭataḥ svayam || 11 || 
+ 
+ 
+ 11.012a  etenaiva gṛhodyānanipānāyatanādiṣu | 
+ 11.012c  vivādavidhir ākhyātas tathā grāmāntareṣu ca || 12 || 
+ 
+ 
+ 11.013a  avaskarasthalaśvabhrabhramasyandanikādibhiḥ | 
+ 11.013c  catuṣpathasurasthānarathyāmārgān na rodhayet || 13 || 
+ 
+ 
+ 11.014a  parakṣetrasya madhye tu setur na pratiṣidhyate | 
+ 11.014c  mahāguṇo 'lpabādhaś ca vṛddhir iṣṭā kṣaye sati || 14 || 
+ 
+ 
+ 
+ 11.015a  setus tu dvididho jñeyaḥ kheyo bandhyas tathaiva ca | 
+ 11.015c  toyapravartanān kheyo bandhyaḥ syāt tannivartanāt || 15 || 
+ 
+ 
+ 11.016a  nāntareṇodakaṃ sasyaṃ naśyed abhyudakena tu | 
+ 11.016c  ya evānudake doṣaḥ sa evābhyudake smṛtaḥ || 16 || 
+ 
+ 
+ 11.017a  pūrvapravṛttam utsannam apṛṣṭvā svāminaṃ tu yaḥ | 
+ 11.017c  setuṃ pravartayet kaścin na sa tatphalabhāg bhavet || 17 || 
+ 
+ 
+ 11.018a  mṛte tu svāmini punas tadvaṃśye vāpi mānave | 
+ 11.018c  rājānam āmantrya tataḥ prakuryāt setukarma tat || 18 || 
+ 
+ 
+ 11.019a  ato 'nyathā kleśabhāk syān mṛgavyādhānudarśanāt | 
+ 11.019c  iṣavas tasya naśyanti yo viddham anuvidhyati || 19 || 
+ 
+ 
+ 11.020a  aśaktapretanaṣṭeṣu kṣetrikeṣv anivāritaḥ | 
+ 11.020c  kṣetraṃ ced vikṛṣet kaścid aśnuvīta sa tatphalam || 20 || 
+ 
+ 
+ 11.021a  vikṛṣyamāṇe kṣetre cet kṣetrikaḥ punar āvrajet | 
+ 11.021c  khilopacāraṃ tat sarvaṃ dattvā svakṣetram āpnuyāt || 21 || 
+ 
+ 
+ 11.022a  tadaṣṭabhāgāpacayād yāvat sapta gatāḥ samāḥ | 
+ 11.022c  samprāpte tv aṣṭame varṣe bhuktaṃ kṣetraṃ labheta saḥ || 22
+                            || 
+ 
+ 
+ 
+ 11.023a  saṃvatsareṇārdhakhilaṃ khilaṃ tad vatsarais tribhiḥ | 
+ 11.023c  pañcavarṣāvasannaṃ tu syāt kṣetram aṭavīsamam || 23 || 
+ 
+ 
+ 11.024a  kṣetraṃ tripuruṣaṃ yat syād gṛhaṃ vā syāt kramāgatam | 
+ 11.024c  rājaprasādād anyatra na tadbhogaḥ paraṃ nayet || 24 || 
+ 
+ 
+ 11.025a  utkramya tu vṛtiṃ yatra sasyaghāto gavādibhiḥ | 
+ 11.025c  pālaḥ śāsyo bhavet tatra na cec chaktyā nivārayet || 25 || 
+ 
+ 
+ 11.026a  samūlasasyanāśe tu tatsvāmī samam āpnuyāt | 
+ 11.026c  vadhena pālo mucyeta daṇḍaṃ svāmini pātayet || 26 || 
+ 
+ 
+ 11.027a  gauḥ prasūtā daśāhāt ca mahokṣājāvikuñjarāḥ | 
+ 11.027c  nivāryās tu prayatnena teṣāṃ svāmī na daṇḍabhāk || 27 || 
+ 
+ 
+ 11.028a  māṣaṃ gāṃ dāpayed daṇḍaṃ dvau māṣau mahiṣīṃ tathā | 
+ 11.028c  ajāvike savatse tu daṇḍaḥ syād ardhamāṣakaḥ || 28 || 
+ 
+ 
+ 11.029a  adaṇḍyā hastino 'śvāś ca prajāpālā hi te smṛtāḥ | 
+ 11.029c  adaṇḍyā garbhiṇī gauś ca sūtikā cābhisāriṇī || 29 || 
+ 
+ 
+ 
+ 11.030a  proktas tu dvir niṣaṇṇānāṃ vasantyāṃ tu caturguṇam | 
+ 11.030c  pratyakṣacārakāṇāṃ tu cauradaṇḍaḥ smṛṭas tathā || 30 || 
+ 
+ 
+ 11.031a  yā naṣṭāḥ pāladoṣeṇa gāvaḥ kṣetraṃ samāśritāḥ | 
+ 11.031c  na tatra gomino daṇḍaḥ pālas taṃ daṇḍam arhati || 31 || 
+ 
+ 
+ 11.032a  rājagrāhagṛhīto vā vajrāśanihato 'pi vā | 
+ 11.032c  atha sarpeṇa daṣṭo vā giry agrāt patito 'pi vā || 32 || 
+ 
+ 
+ 11.033a  siṃhavyāghrahato vāpi vyādhibhiḥ caiva pātitaḥ | 
+ 11.033c  na tatra doṣaḥ pālasya na ca doṣo 'sti gominām || 33 || 
+ 
+ 
+ 11.034a  gobhis tu bhakṣitaṃ dhānyaṃ yo naraḥ pratimārgati | 
+ 11.034c  sāmantasya śado deyo dhānyaṃ yat tatra vāpitam | 
+ 11.034e  gavatraṃ gomine deyaṃ dhānyaṃ tatkarṣikasya tu || 34 || 
+ 
+ 
+ 11.035a  grāmopānte ca yat kṣetraṃ vivītānte mahāpathe | 
+ 11.035c  anāvṛte cet tannāśe na pālasya vyatikramaḥ || 35 || 
+ 
+ 
+ 
+ 11.036a  pathi kṣetre vṛtiḥ kāryā yām uṣṭro nāvalokayet | 
+ 11.036c  na laṅghayet paśur nāśvo na bhidyād yāṃ ca sūkaraḥ || 36 || 
+ 
+ 
+ 11.037a  gṛhaṃ kṣetraṃ ca vijñeyaṃ vāsahetuḥ kuṭumbinām | 
+ 11.037c  tasmāt tan nākṣiped rājā tad dhi mūlaṃ kuṭumbinām || 37 || 
+ 
+ 
+ 11.038a  vṛddhe janapade rājño dharmaḥ kośaś ca vardhate | 
+ 11.038c  hīyate hīyamāne ca vṛddhihetum ataḥ śrayet || 38 || 
+ 
+ 
+ 
+ 
+                    Chapter 12
+Strīpuṃsayogaḥ  (Relations between Men and Women) 
+ L tr. 141-167 , cf.  J tr. 81-94 
+ 
+ 12.001a  vivāhādividhiḥ strīṇāṃ yatra puṃsāṃ ca kīrtyate | 
+ 12.001c  strīpuṃsayoganāmaitad vivādapadam ucyate || 1 || 
+ 
+ 
+ 12.002a  strīpuṃsayos tu sambandhād varaṇaṃ prāg vidhīyate | 
+ 12.002c  varaṇād grahaṇaṃ pāṇeḥ saṃskāro 'tha dvilakṣaṇaḥ || 2 || 
+ 
+ 
+ 12.003a  tayor aniyataṃ proktaṃ varaṇaṃ doṣadarśanāt | 
+ 12.003c  pāṇigrahaṇamantrābhyāṃ niyataṃ dāralakṣaṇam || 3 || 
+ 
+ 
+ 12.004a  brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parigrahe | 
+ 12.004c  svajātyā śreyasī bhāryā svajātyaś ca patiḥ striyāḥ || 4 || 
+ 
+ 
+ 12.005a  brāhmaṇasyānulomyena striyo 'nyās tisra eva tu | 
+ 12.005c  śūdrāyāḥ prātilomyena tathānye patayas trayaḥ || 5 || 
+ 
+ 
+ 12.006a  dve bhārye kṣatriyasyānye vaiśyasyaikā prakīrtitā | 
+ 12.006c  vaiśyāyā dvau patī jñeyāv eko 'nyaḥ kṣatriyāpatiḥ || 6 || 
+ 
+ 
+ 12.007a  ā saptamāt pañcamād vā bandhubhyaḥ pitṛmātṛtāḥ | 
+ 12.007c  avivāhyāḥ sagotrāḥ syuḥ samānapravarās tathā || 7 || 
+ 
+ 
+ 
+ 12.008a  parīkṣyaḥ puruṣaḥ puṃstve nijair evāṅgalakṣaṇaiḥ | 
+ 12.008c  pumāṃś ced avikalpena sa kanyāṃ labdhum arhati || 8 || 
+ 
+ 
+ 12.009a  subaddhajatrujānvasthiḥ subaddhāṃsaśirodharaḥ | 
+ 12.009c  sthūlaghāṭas tanūrutvag avilagnagatisvaraḥ || 9 || 
+ 
+ 
+ 12.010a  viṭ cāsya plavate nāpsu hlādi mūtraṃ ca phenilam | 
+ 12.010c  pumān syāṃl lakṣaṇair etair viparītais tu paṇḍakaḥ || 10 || 
+ 
+ 
+ 12.011a  caturdaśavidhaḥ śāstre sa tu dṛṣṭo manīṣibhiḥ | 
+ 12.011c  cikitsyaś cācikitsyaś ca teṣām ukto vidhiḥ kramāt || 11 || 
+ 
+ 
+ 12.012a  nisargapaṇḍo vadhriś ca pakṣapaṇḍas tathaiva ca | 
+ 12.012c  abhiśāpād guro rogād devakrodhāt tathaiva ca || 12 || 
+ 
+ 
+ 12.013a  īrṣyāpaṇḍaś ca sevyaś ca vātaretā mukhebhagaḥ | 
+ 12.013c  ākṣipto moghabījaś ca śālīno 'nyapatis tathā || 13 || 
+ 
+ 
+ 12.014a  tatrādyāv apratīkarau pakṣākhyo māsam ācaret | 
+ 12.014c  anukramāt trayasyāsya kālaḥ saṃvatsaraḥ smṛtaḥ || 14 || 
+ 
+ 
+ 
+ 12.015a  īrṣyāpaṇḍādayo ye 'nye catvāraḥ samudāhṛtāḥ | 
+ 12.015c  santyaktavyāḥ patitavat kṣatayonyā api striyāḥ || 15 || 
+ 
+ 
+ 12.016a  ākṣiptamoghabījābhyām patyāv apratikarmaṇi | 
+ 12.016c  patir anyaḥ smṛto nāryā vatsaraṃ sampratīkṣya tu || 16 || 
+ 
+ 
+ 12.017a  śālīnasyāpi dhṛṣṭastrīsaṃyogād bhajyate dhvajaḥ | 
+ 12.017c  taṃ hīnavegam anyastrībālādyābhir upakramet || 17 || 
+ 
+ 
+ 12.018a  anyasyām yo manuṣyaḥ syād amanuṣyaḥ svayoṣiti | 
+ 12.018c  labheta sānyaṃ bhartāram etat kāryaṃ prajāpateḥ || 18 || 
+ 
+ 
+ 12.019a  apatyārthaṃ striyaḥ sṛṣṭāḥ strī kṣetraṃ bījinaḥ prajāḥ | 
+ 12.019c  kṣetraṃ bījavate deyaṃ nābījī kṣetram arhati || 19 || 
+ 
+ 
+ 12.020a  pitā dadyāt svayaṃ kanyām bhrātā vānumate pituḥ | 
+ 12.020c  mātāmaho mātulaś ca sakulyā bāndhavās tathā || 20 || 
+ 
+ 
+ 12.021a  mātābhāve tu sarveṣāṃ prakṛtau yadi vartate | 
+ 12.021c  tasyām aprakṛtisthāyāṃ dadyuḥ kanyāṃ svajātayaḥ || 21 || 
+ 
+ 
+ 
+ 12.022a  yadā tu naiva kaścit syāt kanyā rājānam āvrajet | 
+ 12.022c  anujñayā tasya varaṃ pratītya varayet svayam || 22 || 
+ 
+ 
+ 12.023a  savarṇam anurūpaṃ ca kularūpavayaḥśrutaiḥ | 
+ 12.023c  saha dharmaṃ caret tena putrāṃś cotpādayet tataḥ || 23 || 
+ 
+ 
+ 12.024a  pratigṛhya ca yaḥ kanyāṃ naro deśāntaraṃ vrajet | 
+ 12.024c  trīn ṛtūn samatikramya kanyānyaṃ varayed varam || 24 || 
+ 
+ 
+ 12.025a  kanyā nartum upekṣeta bāndhavebhyo nivedayet | 
+ 12.025c  te cen na dadyus tāṃ bhartre te syur bhrūṇahabhiḥ samāḥ || 25
+                            || 
+ 
+ 
+ 12.026a  yāvantaś ca rtavas tasyāḥ samatītā patiṃ vinā | 
+ 12.026c  tāvatyo bhrūṇahatyāḥ syus tasya yo na dadāti tām || 26 || 
+ 
+ 
+ 12.027a  ato 'pravṛtte rajasi kanyāṃ dadyāt pitā sakṛt | 
+ 12.027c  mahad enaḥ spṛśed enam anyathaiṣa vidhiḥ satām || 27 || 
+ 
+ 
+ 12.028a  sakṛd aṃśo nipatati sakṛt kanyā pradīyate | 
+ 12.028c  sakṛd āha dadānīti trīṇy etāni sakṛt sakṛt || 28 || 
+ 
+ 
+ 12.029a  brāhmādiṣu vivāheṣu pañcasv eṣu vidhiḥ smṛtaḥ | 
+ 12.029c  guṇāpekṣaṃ bhaved dānam āsurādiṣu ca triṣu || 29 || 
+ 
+ 
+ 
+ 12.030a  kanyāyām prāptaśulkāyāṃ jyāyāṃś ced vara āvrajet | 
+ 12.030c  dharmārthakāmasaṃyuktaṃ vācyaṃ tatrānṛtaṃ bhavet || 30 || 
+ 
+ 
+ 12.031a  nāduṣṭāṃ dūṣayet kanyāṃ nāduṣṭaṃ dūṣayed varam | 
+ 12.031c  doṣe tu sati nāgaḥ syād anyonyaṃ tyajatos tayoḥ || 31 || 
+ 
+ 
+ 12.032a  dattvā nyāyena yaḥ kanyāṃ varāya na dadāti tām | 
+ 12.032c  aduṣṭaś ced varo rājñā sa daṇḍyas tatra coravat || 32 || 
+ 
+ 
+ 12.033a  yas tu doṣavatīṃ kanyām anākhyāya prayacchati | 
+ 12.033c  tasya kuryān nṛpo daṇḍaṃ pūrvasāhasacoditam || 33 || 
+ 
+ 
+ 12.034a  akanyeti tu yaḥ kanyāṃ brūyād dveṣeṇa mānavaḥ | 
+ 12.034c  sa śataṃ prāpnuyād daṇḍaṃ tasyā doṣam adarśayan || 34 || 
+ 
+ 
+ 12.035a  pratigṛhya tu yaḥ kanyām aduṣṭām utsṛjed varaḥ | 
+ 12.035c  vineyaḥ so 'py akāmo 'pi kanyāṃ tām eva codvahet || 35 || 
+ 
+ 
+ 12.036a  dīrghakutsitarogārtā vyaṅgā saṃsṛṣṭamaithunā | 
+ 12.036c  dhṛṣṭānyagatabhāvā ca kanyādoṣāḥ prakīrtitāḥ || 36 || 
+ 
+ 
+ 12.037a  unmattaḥ patitaḥ klībo durbhagas tyaktabāndhavaḥ | 
+ 12.037c  kanyādoṣau ca yau pūrvau eṣa doṣagaṇo vare || 37 || 
+ 
+ 
+ 12.038a  aṣṭau vivāhā varṇānāṃ saṃskārārthaṃ prakīrtitāḥ | 
+ 12.038c  brāhmas tu prathamas teṣāṃ prājāpatyas tathaiva ca || 38 || 
+ 
+ 
+ 
+ 12.039a  ārṣaś caivātha daivaś ca gāndharvaś cāsuras tathā | 
+ 12.039c  rākṣaso 'nantaras tasmāt paiśācas tv aṣṭamaḥ smṛtaḥ || 39
+                            || 
+ 
+ 
+ 12.040a  satkṛtyāhūya kanyāṃ tu brāhme dadyād tv alaṅkṛtām | 
+ 12.040c  saha dharmaṃ carety uktvā prājāpatyo vidhīyate || 40 || 
+ 
+ 
+ 12.041a  vastragomithune dattvā vivāhas tv ārṣa ucyate | 
+ 12.041c  antarvedyāṃ tu daivaḥ syād ṛtvije karma kurvate || 41 || 
+ 
+ 
+ 12.042a  icchantīm icchate prāhur gāndharvo nāma pañcamam | 
+ 12.042c  vivāhas tv āsuro jñeyaḥ śulkasaṃvyavahārataḥ || 42 || 
+ 
+ 
+ 12.043a  prasahya haraṇād ukto vivāho rākṣasas tathā | 
+ 12.043c  suptamattopagamanāt paiśācas tv aṣṭamo 'dhamaḥ || 43 || 
+ 
+ 
+ 12.044a  eṣāṃ tu dharmyās catvāro brāhmādyāḥ samudāhṛtāḥ | 
+ 12.044c  sādhāraṇaḥ syād gāndharvas trayo 'dharmyās tv ataḥ pare || 44
+                            || 
+ 
+ 
+ 12.045a  parapūrvāḥ striyas tv anyāḥ sapta proktā yathākramam | 
+ 12.045c  punarbhūs trividhā tāsāṃ svairiṇī tu caturvidhā || 45 || 
+ 
+ 
+ 12.046a  kanyaivākṣatayonir yā pāṇigrahaṇadūṣitā | 
+ 12.046c  punarbhūḥ prathamā soktā punaḥ saṃskāram arhati || 46 || 
+ 
+ 
+ 12.047a  kaumāraṃ patim utsṛjya yānyaṃ puruṣam āśritā | 
+ 12.047c  punaḥ patyur gṛham yāyāt sā dvitīyā prakīrtitā || 47 || 
+ 
+ 
+ 
+ 12.048a  asatsu devareṣu strī bāndhavair yā pradīyate | 
+ 12.048c  savarṇāyāsapiṇḍāya sā tṛtīyā prakīrtitā || 48 || 
+ 
+ 
+ 12.049a  strī prasūtāprasūtā vā patyāv eva tu jīvati | 
+ 12.049c  kāmāt samāśrayed anyaṃ prathamā svairiṇī tu sā || 49 || 
+ 
+ 
+ 12.050a  mṛte bhartari yā prāptān devarān apy apāsya tu | 
+ 12.050c  upagacchet paraṃ kāmāt sā dvitīyā prakīrtitā || 50 || 
+ 
+ 
+ 12.051a  prāptā deśād dhanakrītā kṣutpipāsāturā ca yā | 
+ 12.051c  tavāham ity upagatā sā tṛtīyā prakīrtitā || 51 || 
+ 
+ 
+ 12.052a  deśadharmān apekṣya strī gurubhir yā pradīyate | 
+ 12.052c  utpannasāhasānyasmai sāntyā vai svairiṇī smṛtā || 52 || 
+ 
+ 
+ 12.053a  punarbhuvāṃ eṣa vidhiḥ svairiṇīnāṃ ca kīrtitaḥ | 
+ 12.053c  pūrvā pūrvājaghanyāsāṃ śreyasī tūttarottarā || 53 || 
+ 
+ 
+ 12.054a  apatyam utpādayitus tāsāṃ yā śulkato hṛtā | 
+ 12.054c  aśulkopanatāyāṃ tu kṣetrikasyaiva tat phalam || 54 || 
+ 
+ 
+ 12.055a  kṣetrikasya yad ajñātaṃ kṣetre bījaṃ pradīyate | 
+ 12.055c  na tatra bījino bhāgaḥ kṣetrikasyaiva tad bhavet || 55 || 
+ 
+ 
+ 
+ 12.056a  oghavātāhṛtaṃ bījaṃ kṣetre yasya prarohati | 
+ 12.056c  phalabhug yasya tat kṣetraṃ na bījī phalabhāg bhavet || 56
+                            || 
+ 
+ 
+ 12.057a  mahokṣo janayed vatsān yasya goṣu vraje caran | 
+ 12.057c  tasya te yasya tā gāvo moghaṃ syanditam ārṣabham || 57 || 
+ 
+ 
+ 12.058a  kṣetrikānumataṃ bījaṃ yasya kṣetre pramucyate | 
+ 12.058c  tadapatyaṃ dvayor eva bījikṣetrikayor matam || 58 || 
+ 
+ 
+ 12.059a  narte kṣetraṃ bhavet sasyaṃ na ca bījaṃ vināsti tat | 
+ 12.059c  ato 'patyaṃ dvayor iṣṭaṃ pitur mātuś ca dharmataḥ || 59 || 
+ 
+ 
+ 12.060a  nāthavatyā paragṛhe saṃyuktasya striyā saha | 
+ 12.060c  dṛṣṭaṃ saṅgrahaṇaṃ tajjñair nāgatāyāḥ svayaṃ gṛhe || 60 || 
+ 
+ 
+ 12.061a  praduṣṭatyaktadārasya klībasya kṣamakasya ca | 
+ 12.061c  svecchayopeyuṣo dārān na doṣaḥ sāhaso bhavet || 61 || 
+ 
+ 
+ 12.062a  parastriyā sahākāle 'deśe vā bhavato mithaḥ | 
+ 12.062c  sthānasambhāṣaṇāmodās trayaḥ saṅgrahaṇakramāḥ || 62 || 
+ 
+ 
+ 
+ 12.063a  nadīnāṃ saṅgame tīrtheṣv ārāmeṣu vaneṣu ca | 
+ 12.063c  strī pumāṃś ca sameyātāṃ grāhyaṃ saṅgrahaṇaṃ bhavet || 63
+                            || 
+ 
+ 
+ 12.064a  dūtīprasthāpanaiś caiva lekhāsampreṣaṇair api | 
+ 12.064c  anyair api vyabhicāraiḥ sarvaṃ saṅgrahaṇaṃ smṛtam || 64 || 
+ 
+ 
+ 12.065a  striyaṃ spṛśed adeśe yaḥ spṛṣṭo vā marśayet tathā | 
+ 12.065c  parasparasyānumate tac ca saṅgrahaṇaṃ bhavet || 65 || 
+ 
+ 
+ 12.066a  bhakṣair vā yadi vā bhojyair vastrair mālyais tathaiva ca | 
+ 12.066c  sampreṣyamānair gandhaiś ca sarvaṃ saṅgrahaṇaṃ smṛtam || 66
+                            || 
+ 
+ 
+ 12.067a  darpād vā yadi vā mohāc chlāghayā vā svayaṃ vadet | 
+ 12.067c  mameyaṃ bhuktapūrveti sarvaṃ saṅgrahaṇaṃ smṛtam || 67 || 
+ 
+ 
+ 12.068a  pāṇau yaś ca nigṛhṇīyad veṇyāṃ vastrāntare 'pi vā | 
+ 12.068c  tiṣṭha tiṣṭheti vā bruyāt sarvaṃ saṅgrahaṇaṃ smṛtam || 68
+                            || 
+ 
+ 
+ 
+ 12.069a  svajātyatikrame puṃsāṃ uktam uttamasāhasam | 
+ 12.069c  viparyaye madhyamas tu prātilome pramāpaṇam || 69 || 
+ 
+ 
+ 12.070a  kanyāyām asakāmāyāṃ dvyāṅgulasyāvakartanam | 
+ 12.070c  uttamāyāṃ vadhas tv eva sarvasvaharaṇaṃ tathā || 70 || 
+ 
+ 
+ 12.071a  sakāmāyāṃ tu kanyāyāṃ savarṇe nāsty atikramaḥ | 
+ 12.071c  kintv alaṅkṛtya satkṛtya sa evaināṃ samudvahet || 71 || 
+ 
+ 
+ 12.072a  mātā mātṛṣvasā śvaśrūr mātulānī pitṛṣvasā | 
+ 12.072c  pitṛvyasakhiśiṣyastrī bhaginī tatsakhī snuṣā || 72 || 
+ 
+ 
+ 12.073a  duhitācāryabhāryā ca sagotrā śaraṇāgatā | 
+ 12.073c  rājñī pravrajitā dhātrī sādhvī varṇottamā ca yā || 73 || 
+ 
+ 
+ 12.074a  āsām anyatamāṃ gatvā gurutalpaga ucyate | 
+ 12.074c  śiśnasyotkartanaṃ daṇḍo nānyas tatra vidhīyate || 74 || 
+ 
+ 
+ 12.075a  paśuyonyām atikrāman vineyaḥ sa damaṃ śatam | 
+ 12.075c  madhyamaṃ sāhasaṃ goṣu tad evāntyāvasāyiṣu || 75 || 
+ 
+ 
+ 12.076a  agamyāgāminaḥ śāsti daṇḍo rājñā pracoditaḥ | 
+ 12.076c  prāyaścittavidhāv atra prāyaścittaṃ viśodhanam || 76 || 
+ 
+ 
+ 12.077a  svairiṇy abrāhmaṇī veśyā dāsī niṣkāsinī ca yā | 
+ 12.077c  gamyāḥ syur ānulomyena striyo na pratilomataḥ || 77 || 
+ 
+ 
+ 
+ 12.078a  āsv eva tu bhujiṣyāsu doṣaḥ syāt paradāravat | 
+ 12.078c  gamyā api hi nopeyās tāś ced anyaparigrahāḥ || 78 || 
+ 
+ 
+ 12.079a  anutpannaprajāyās tu patiḥ preyād yadi striyāḥ | 
+ 12.079c  niyuktā gurubhir gacched devaraṃ putrakāmyayā || 79 || 
+ 
+ 
+ 12.080a  sa ca tāṃ pratipadyeta tathaivā putrajanmataḥ | 
+ 12.080c  putre jāte nivarteta viplavaḥ syād ato 'nyathā || 80 || 
+ 
+ 
+ 12.081a  ghṛtenābhyajya gātrāṇi tailenāvikṛtena vā | 
+ 12.081c  mukhān mukhaṃ pariharan gātrair gātrāṇy asaṃspṛśan || 81 || 
+ 
+ 
+ 12.082a  striyaṃ putravatīṃ vandhyāṃ nīrajaskām anicchantīm | 
+ 12.082c  na gacched garbhiṇīṃ nindyām aniyuktāṃ ca bandhubhiḥ || 82
+                            || 
+ 
+ 
+ 12.083a  aniyuktā tu yā nārī devarāj janayet sutam | 
+ 12.083c  jārajātam arikthīyaṃ tam āhur dharmavādinaḥ || 83 || 
+ 
+ 
+ 12.084a  tathāniyukto bhāryāyāṃ yavīyāñ jyāyaso vrajet | 
+ 12.084c  yavīyaso vā yo jyāyān ubhau tau gurutalpagau || 84 || 
+ 
+ 
+ 12.085a  kule tadavaśeṣe tu santānārthaṃ na kāmataḥ | 
+ 12.085c  niyukto gurubhir gacched bhrātṛbhāryāṃ yavīyasaḥ || 85 || 
+ 
+ 
+ 
+ 12.086a  avidyamāne tu gurau rājño vācyaḥ kulakṣayaḥ | 
+ 12.086c  tatas tadvacanād gacched anuśiṣya striyā saha || 86 || 
+ 
+ 
+ 12.087a  pūrvoktenaiva vidhinā snātāṃ puṃsavane śuciḥ | 
+ 12.087c  sakṛd ā garbhādhānād vā kṛte garbhe snuṣaiva sā || 87 || 
+ 
+ 
+ 12.088a  ato 'nyathā vartamānaḥ pumān strī vāpi kāmataḥ | 
+ 12.088c  vineyau subhṛśaṃ rājñā kilbiṣī syād anigrahāt || 88 || 
+ 
+ 
+ 12.089a  īrṣyāsūyasamutthe tu saṃrambhe rāgahetuke | 
+ 12.089c  dampatī vivadeyātāṃ na jñātiṣu na rājani || 89 || 
+ 
+ 
+ 12.090a  anyonyaṃ tyajator nāgaḥ syād anyonyaviruddhayoḥ | 
+ 12.090c  strīpuṃsayor nigūḍhāyā vyabhicārād ṛte striyāḥ || 90 || 
+ 
+ 
+ 12.091a  vyabhicāre striyā mauṇḍyam adhaḥśayanam eva ca | 
+ 12.091c  kadannaṃ vā kuvāsaś ca karma cāvaskaroñjhanam || 91 || 
+ 
+ 
+ 12.092a  strīdhanabhraṣṭasarvasvāṃ garbhavisraṃsinīṃ tathā | 
+ 12.092c  bhartuś ca vadham icchantīṃ striyaṃ nirvāsayed gṛhāt || 92
+                            || 
+ 
+ 
+ 
+ 12.093a  anarthaśīlāṃ satataṃ tathaivāpriyavādinīm | 
+ 12.093c  pūrvāśinīṃ ca yā bhartuḥ striyaṃ nirvāsayed budhaḥ || 93 || 
+ 
+ 
+ 12.094a  vandhyāṃ strījananīṃ nindyāṃ pratikulāṃ ca sarvadā | 
+ 12.094c  kāmato nābhinandeta kurvann evaṃ sa doṣabhāk || 94 || 
+ 
+ 
+ 12.095a  anukūlām avāgduṣṭāṃ dakṣāṃ sādhvīṃ prajāvatīm | 
+ 12.095c  tyajan bhāryām avasthāpyo rājñā daṇḍena bhūyasā || 95 || 
+ 
+ 
+ 12.096a  ajñātadoṣeṇoḍhā yā nirgatā nānyam āśritā | 
+ 12.096c  bandhubhiḥ sā niyoktavyā nirbandhuḥ svayam āśrayet || 96 || 
+ 
+ 
+ 12.097a  naṣṭe mṛte pravrajite klībe ca patite patau | 
+ 12.097c  pañcasv āpatsu nārīṇāṃ patir anyo vidhīyate || 97 || 
+ 
+ 
+ 12.098a  aṣṭau varṣāṇy udīkṣeta brāhmaṇī proṣitaṃ patim | 
+ 12.098c  aprasūtā tu catvāri parato 'nyaṃ samāśrayet || 98 || 
+ 
+ 
+ 12.099a  kṣatriyā ṣaṭ samās tiṣṭhed aprasūtā samātrayam | 
+ 12.099c  vaiśyā prasūtā catvāri dve same tv itarā vaset || 99 || 
+ 
+ 
+ 12.100a  na śūdrāyāḥ smṛtaḥ kālo na ca dharmavyatikramaḥ | 
+ 12.100c  viśeṣato 'prasūtāyāḥ saṃvatsaraparā sthitiḥ || 100 || 
+ 
+ 
+ 12.101a  apravṛttau smṛtaḥ dharma eṣa proṣitayoṣitām | 
+ 12.101c  jīvati śrūyamāṇe tu syād eṣa dviguṇo vidhiḥ || 101 || 
+ 
+ 
+ 
+ 12.102a  prajāpravṛttau bhūtānāṃ sṛṣṭir eṣā prajāpateḥ | 
+ 12.102c  ato 'nyagamane strīṇām evaṃ doṣo na vidyate || 102 || 
+ 
+ 
+ 12.103a  ānulomyena varṇānāṃ yaj janma sa vidhiḥ smṛtaḥ | 
+ 12.103c  prātilomyena yaj janma sa jñeyo varṇasaṅkaraḥ || 103 || 
+ 
+ 
+ 12.104a  anantaraḥ smṛtaḥ putraḥ putra ekāntaras tathā | 
+ 12.104c  dvyantaraś cānulomyena tathaiva pratilomataḥ || 104 || 
+ 
+ 
+ 12.105a  ugraḥ pāraśavaś caiva niṣādaś cānulomataḥ | 
+ 12.105c  uttamebhyas trayas tribhyaḥ śūdrāputrāḥ prakīrtitāḥ || 105
+                            || 
+ 
+ 
+ 12.106a  brāhmaṇyā api cāṇḍālasūtavaidehakā api | 
+ 12.106c  aparebhyas trayas tribhyā vijñeyaḥ pratilomataḥ || 106 || 
+ 
+ 
+ 12.107a  ambaṣṭho māgadhaś caiva kṣattā ca kṣatriyāsutāḥ | 
+ 12.107c  ānulomyena tatraiko dvau jñeyau pratilomataḥ || 107 || 
+ 
+ 
+ 12.108a  vaiśyāputrās tu dauṣṣantayavanāyogavā api | 
+ 12.108c  prātilomyena yatraiko dvau jñeyau cānulomajau || 108 || 
+ 
+ 
+ 12.109a  sūtādyāḥ pratilomās tu ye jātipratilomajāḥ | 
+ 12.109c  te saṅkarāḥ śvapākādyās teṣāṃ triḥ saptako gaṇaḥ || 109 || 
+ 
+ 
+ 12.110a  savarṇo brāhmaṇīputraḥ kṣatriyāyām anantaraḥ | 
+ 12.110c  ambaṣṭhograu tathā putrāv evaṃ kṣatriyavaiśyayoḥ || 110 || 
+ 
+ 
+ 
+ 12.111a  ekāntaras tu dauṣṣanto vaiśyāyāṃ brāhmaṇāt sutaḥ | 
+ 12.111c  śūdrāyāṃ kṣatriyāt tadvan niṣādo nāma jāyate || 111 || 
+ 
+ 
+ 12.112a  śūdrā pāraśavaṃ sūte brāhmaṇād uttaraṃ sutam | 
+ 12.112c  ānulomyena varṇānāṃ putrā hy ete prakīrtitāḥ || 112 || 
+ 
+ 
+ 12.113a  sūtaś ca māgadhaś caiva putrāv āyogavas tathā | 
+ 12.113c  prātilomyena varṇānāṃ tadvad ete 'py anantarāḥ || 113 || 
+ 
+ 
+ 12.114a  anantaraḥ smṛtaḥ sūto brāhmaṇyāṃ kṣatriyāt sutaḥ | 
+ 12.114c  māgadhāyogavau tadvad dvī putrau vaiśyaśūdrayoḥ || 114 || 
+ 
+ 
+ 12.115a  brāhmaṇy ekāntaraṃ vaiśyāt sūte vaidehakaṃ sutam | 
+ 12.115c  kṣattāraṃ kṣatriyā śūdrāt putram ekāntaraṃ tathā || 115 || 
+ 
+ 
+ 12.116a  dvyantaraḥ prātilomyena pāpiṣṭhaḥ sati saṅkare | 
+ 12.116c  cāṇḍālo jāyate śūdrād brāhmaṇī yatra muhyati || 116 || 
+ 
+ 
+ 12.117a  rājñā parīkṣyaṃ na yathā jāyate varṇasaṅkaraḥ | 
+ 12.117c  tasmād rājñā viśeṣeṇa trayī rakṣyā tu saṅkarāt || 117 || 
+ 
+ 
+ 
+ 
+                    Chapter 13
+Dāyabhāgaḥ  (Partition of Inheritance) 
+ L tr. 168-180 , cf.  J tr. 94-101 
+ 
+ 13.001a  vibhāgo 'rthasya pitryasya putrair yatra prakalpyate | 
+ 13.001c  dāyabhāga iti proktaṃ tad vivādapadaṃ budhaiḥ || 1 || 
+ 
+ 
+ 13.002a  pitary ūrdhvaṃ mṛte putrā vibhajeyur dhanaṃ pituḥ | 
+ 13.002c  mātur duhitaro 'bhāve duhitÏṛṇāṃ tadanvayaḥ || 2 || 
+ 
+ 
+ 13.003a  mātur nivṛtte rajasi prattāsu bhaginīṣu ca | 
+ 13.003c  niraṣṭe vāpy amaraṇe pitary uparataspṛhe || 3 || 
+ 
+ 
+ 13.004a  pitaiva vā svayaṃ putrān vibhajed vayasi sthitaḥ | 
+ 13.004c  jyeṣṭhaṃ śreṣṭhavibhāgena yathā vāsya matir bhavet || 4 || 
+ 
+ 
+ 13.005a  bibhṛyād vecchataḥ sarvāñ jyeṣṭho bhrātā yathā pitā | 
+ 13.005c  bhrātā śaktaḥ kaniṣṭho vā śaktyapekṣaḥ kule kriyā || 5 || 
+ 
+ 
+ 13.006a  śauryabhāryādhane hitvā yac ca vidyādhanaṃ bhavet | 
+ 13.006c  trīṇy etāny avibhājyāni prasādo yaś ca paitṛkaḥ || 6 || 
+ 
+ 
+ 
+ 13.007a  mātrā ca svadhanaṃ dattaṃ yasmai syāt prītipūrvakam | 
+ 13.007c  tasyāpy eṣa vidhir dṛṣṭo mātāpīṣṭe yathā pitā || 7 || 
+ 
+ 
+ 13.008a  adhyagnyadhyāvahanikaṃ bhartṛdāyas tathaiva ca | 
+ 13.008c  bhrātṛmātṛpitṛbhyaś ca ṣaḍvidhaṃ strīdhanaṃ smṛtam || 8 || 
+ 
+ 
+ 13.009a  strīdhanaṃ tadapatyānāṃ bhartṛgāmy aprajāsu ca | 
+ 13.009c  brāhmādiṣu catuḥṣv āhuḥ pitṛgāmītareṣu tu || 9 || 
+ 
+ 
+ 13.010a  kuṭumbaṃ bibhṛyād bhrātur yo vidyām adhigacchataḥ | 
+ 13.010c  bhāgaṃ vidyādhanāt tasmāt sa labhetāśruto 'pi san || 10 || 
+ 
+ 
+ 13.011a  vaidyo 'vaidyāya nākāmo dadyād aṃśaṃ svato dhanāt | 
+ 13.011c  pitṛdravyaṃ tad āśritya na cet tena tad āhṛtam || 11 || 
+ 
+ 
+ 13.012a  dvāv āṃśau pratipadyeta vibhajann ātmanaḥ pitā | 
+ 13.012c  samāṃśabhāginī mātā putrāṇāṃ syān mṛte patau || 12 || 
+ 
+ 
+ 13.013a  jyeṣṭhāyāṃśo 'dhiko deyaḥ jyeṣṭhāya tu varaḥ smṛtaḥ | 
+ 13.013c  samāṃśabhājaḥ śeṣāḥ syur aprattā bhaginī tathā || 13 || 
+ 
+ 
+ 13.014a  kṣetrajeṣv api putreṣu tadvaj jāteṣu dharmataḥ | 
+ 13.014c  varṇāvareṣv aṃśahānir ūḍhājāteṣv anukramāt || 14 || 
+ 
+ 
+ 
+ 13.015a  pitraiva tu vibhaktā ye hīnādhikasamair dhanaiḥ | 
+ 13.015c  teṣāṃ sa eva dharmaḥ syāt sarvasya hi pitā prabhuḥ || 15 || 
+ 
+ 
+ 13.016a  kānīnaś ca sahoḍhaś ca gūḍhāyāṃ yaś ca jāyate | 
+ 13.016c  teṣāṃ voḍhāpitā jñeyas te ca bhāgaharāḥ smṛtāḥ || 16 || 
+ 
+ 
+ 13.017a  ajñātapitṛko yaś ca kānīno 'nūḍhamātṛkaḥ | 
+ 13.017c  mātāmahāya dadyāt sa piṇḍaṃ rikthaṃ hareta ca || 17 || 
+ 
+ 
+ 13.018a  jātā ye tv aniyuktāyām ekena bahubhis tathā | 
+ 13.018c  arikthabhājas te sarve bījinām eva te sutāḥ || 18 || 
+ 
+ 
+ 13.019a  dadyus te bījine piṇḍaṃ mātā cec chulkato hṛtā | 
+ 13.019c  aśulkopagatāyāṃ tu piṇḍadā voḍhur eva te || 19 || 
+ 
+ 
+ 13.020a  pitṛdviṭ patitaḥ paṇḍo yaś ca syād aupapātikaḥ | 
+ 13.020c  aurasā api naite 'ṃśaṃ labheran kṣetrajāḥ kutaḥ || 20 || 
+ 
+ 
+ 13.021a  dīrghatīvrāmayagrastā jaḍonmattāndhapaṅgavaḥ | 
+ 13.021c  bhartavyāḥ syuḥ kule caite tatputrās tv aṃśabhāginaḥ || 21
+                            || 
+ 
+ 
+ 13.022a  dvirāmuṣyāyaṇā dadyur dvābhyāṃ piṇḍodake pṛthak | 
+ 13.022c  rikthād ardhāṃśam ādadyur bījikṣetrikayos tathā || 22 || 
+ 
+ 
+ 
+ 13.023a  saṃsṛṣṭināṃ tu yo bhāgas teṣām eva sa iṣyate | 
+ 13.023c  ato 'nyathāṃśabhājo hi nirbījiṣv itarān iyāt || 23 || 
+ 
+ 
+ 13.024a  bhrātÏṛṇām aprajaḥ preyāt kaścic cet pravrajet tu vā | 
+ 13.024c  vibhajeyur dhanaṃ tasya śeṣās tu strīdhanaṃ vinā || 24 || 
+ 
+ 
+ 13.025a  bharaṇam cāsya kurvīran strīṇām ā jīvitakṣayāt | 
+ 13.025c  rakṣanti śayyāṃ bhartuś ced ācchindyur itarāsu tu || 25 || 
+ 
+ 
+ 13.026a  syād yasya duhitā tasyāḥ pitraṃśo bharaṇe mataḥ | 
+ 13.026c  ā saṃskārād bhajed enāṃ parato bibhṛyāt patiḥ || 26 || 
+ 
+ 
+ 13.027a  mṛte bhartary aputrāyāḥ patipakṣaḥ prabhuḥ striyāḥ | 
+ 13.027c  viniyogātmarakṣāsu bharaṇe ca sa īśvaraḥ || 27 || 
+ 
+ 
+ 13.028a  parikṣīṇe patikule nirmaṇuṣye nirāśraye | 
+ 13.028c  tatsapiṇḍeṣu vāsatsu pitṛpakṣaḥ prabhuḥ striyāḥ || 28 || 
+ 
+ 
+ 13.029a  pakṣadvayāvasāne tu rājā bhartā smṛtaḥ striyāḥ | 
+ 13.029c  sa tasyā bharaṇaṃ kuryān nigṛhṇīyāt pathaś cyutām || 29 || 
+ 
+ 
+ 13.030a  svātantryād vipraṇaśyanti kule jātā api striyaḥ | 
+ 13.030c  asvātantryam atas tāsāṃ prajāpatir akalpayat || 30 || 
+ 
+ 
+ 13.031a  pitā rakṣati kaumāre bhartā rakṣati yauvane | 
+ 13.031c  putrā rakṣanti vaidhavye na strī svātantryam arhati || 31
+                            || 
+ 
+ 
+ 
+ 13.032a  yac chiṣṭaṃ pitṛdāyebhyo dattva rṇaṃ paitṛkaṃ ca yat | 
+ 13.032c  bhrātṛbhis tad vibhaktavyam ṛṇī na syād yathā pitā || 32 || 
+ 
+ 
+ 13.033a  yeṣāṃ ca na kṛtāḥ pitrā saṃskāravidhayaḥ kramāt | 
+ 13.033c  kartavyā bhrātṛbhis teṣāṃ paitṛkād eva te dhanāt || 33 || 
+ 
+ 
+ 13.034a  avidyamāne pitrye 'rthe svāṃśād uddhṛtya vā punaḥ | 
+ 13.034c  avaśyakāryāḥ saṃskārā bhrātÏṛṇāṃ pūrvasaṃskṛtaiḥ || 34 || 
+ 
+ 
+ 13.035a  kuṭumbārtheṣu codyuktas tatkāryaṃ kurute ca yaḥ | 
+ 13.035c  sa bhrātṛbhir bṛṃhaṇīyo grāsāchādanavāhanaiḥ || 35 || 
+ 
+ 
+ 13.036a  vibhāgadharmasandehe dāyādānāṃ vinirṇaye | 
+ 13.036c  jñātibhir bhāgalekhyaiś ca pṛthakkāryapravartanāt || 36 || 
+ 
+ 
+ 13.037a  bhrātÏṛṇām avibhaktānām eko dharmaḥ pravartate | 
+ 13.037c  vibhāge sati dharmo 'pi bhaved eṣāṃ pṛthak pṛthak || 37 || 
+ 
+ 
+ 13.038a  dānagrahaṇapaśvannagṛhakṣetraparigrahāḥ | 
+ 13.038c  vibhaktānāṃ pṛthag jñeyāḥ pākadharmāgamavyayāḥ || 38 || 
+ 
+ 
+ 13.039a  sākṣitvaṃ prātibhāvyaṃ ca dānaṃ grahaṇam eva ca | 
+ 13.039c  vibhaktā bhrātaraḥ kūryur nāvibhaktā parasparam || 39 || 
+ 
+ 
+ 
+ 13.040a  yeṣām etāḥ kriyā loke pravartante svarikthinām | 
+ 13.040c  vibhaktān avagaccheyur lekhyam apy antareṇa tān || 40 || 
+ 
+ 
+ 13.041a  yady ekajātā bahavaḥ pṛthagdharmāḥ pṛthakkriyāḥ | 
+ 13.041c  pṛthakkarmaguṇopetā na te kṛtyeṣu sammatāḥ || 41 || 
+ 
+ 
+ 13.042a  svān bhāgān yadi dadyus te vikrīṇīrann athāpi vā | 
+ 13.042c  kuryur yatheṣṭaṃ tat sarvam īśante svadhanasya te || 42 || 
+ 
+ 
+ 13.043a  aurasaḥ kṣetrajaś caiva putrikāputra eva ca | 
+ 13.043c  kānīnaś ca sahoḍhaś ca gūḍhotpannas tathaiva ca || 43 || 
+ 
+ 
+ 13.044a  paunarbhavo 'paviddhaś ca labdhaḥ krītaḥ kṛtas tathā | 
+ 13.044c  svayaṃ copagataḥ putrā dvādaśaita udāhṛtāḥ || 44 || 
+ 
+ 
+ 13.045a  teṣāṃ ṣaḍ bandhudāyādāḥ ṣaḍ adāyādabāndhavāḥ | 
+ 13.045c  pūrvaḥ pūrvaḥ smṛtaḥ śreyāj jaghanyo yo ya uttaraḥ || 45 || 
+ 
+ 
+ 13.046a  kramād dhy ete prapadyeran mṛte pitari taddhanam | 
+ 13.046c  jyāyaso jyāyaso 'bhāve jaghanyas tad avāpnuyāt || 46 || 
+ 
+ 
+ 
+ 13.047a  putrābhāve tu duhitā tulyasantānadarśanāt | 
+ 13.047c  putraś ca duhitā coktau pituḥ santānakārakau || 47 || 
+ 
+ 
+ 13.048a  abhāve tu duhitṝṇāṃ sakulyā bāndhavās tataḥ | 
+ 13.048c  tataḥ sajātyāḥ sarveṣām abhāve rājagāmi tat || 48 || 
+ 
+ 
+ 13.049a  anyatra brāhmaṇāt kintu rājā dharmaparāyaṇaḥ | 
+ 13.049c  sa strīṇāṃ jīvanaṃ dadyād eṣa dāyavidhiḥ smṛtaḥ || 49 || 
+ 
+ 
+ 
+ 
+                    Chapter 14
+Sāhasam  (Violent Acts) 
+ L tr. 181-185 , cf.  J tr. 101-104 
+ 
+ 14.001a  sahasā kriyate karma yatkiñcid baladarpitaiḥ | 
+ 14.001c  tat sāhasam iti proktaṃ saho balam ihocyate || 1 || 
+ 
+ 
+ 14.002a  tat punas trividhaṃ jñeyaṃ prathamaṃ madhyamaṃ tathā | 
+ 14.002c  uttamaṃ ceti śāstreṣu tasyoktaṃ lakṣaṇaṃ pṛthak || 2 || 
+ 
+ 
+ 14.003a  phalamūlodakādīnāṃ kṣetropakaraṇasya ca | 
+ 14.003c  bhaṅgākṣepopamardādyaiḥ prathamaṃ sāhasaṃ smṛtam || 3 || 
+ 
+ 
+ 14.004a  vāsaḥpaśvannapānānām gṛhopakaraṇasya ca | 
+ 14.004c  etenaiva prakāreṇa madhyamaṃ sāhasaṃ smṛtam || 4 || 
+ 
+ 
+ 14.005a  vyāpādo viṣaśastrād yaiḥ paradārapradharṣaṇam | 
+ 14.005c  prāṇoparodhi yac cānyad uktam uttamasāhasam || 5 || 
+ 
+ 
+ 14.006a  tasya daṇḍaḥ kriyāpekṣaḥ prathamasya śatāvaraḥ | 
+ 14.006c  madhyamasya tu śāstrajñair jñeyaḥ pañcaśatāvaraḥ || 6 || 
+ 
+ 
+ 14.007a  vadhaḥ sarvasvaharaṇaṃ purān nirvāsanāṅkane | 
+ 14.007c  tadaṅgaccheda ity ukto daṇḍa uttamasāhase || 7 || 
+ 
+ 
+ 
+ 14.008a  aviśeṣeṇa sarveṣām eṣa daṇḍavidhiḥ smṛtaḥ | 
+ 14.008c  vadhād ṛte brāhmaṇasya na vadhaṃ brāhmaṇo 'rhati || 8 || 
+ 
+ 
+ 14.009a  śiraso muṇḍanaṃ daṇḍas tasya nirvāsanaṃ purāt | 
+ 14.009c  lalāṭe cābhiśastāṅkaḥ prayāṇaṃ gardabhena ca || 9 || 
+ 
+ 
+ 14.010a  syātāṃ saṃvyavahāryau tau dhṛtadaṇḍau tu pūrvayoḥ | 
+ 14.010c  dhṛtadaṇḍo 'py asambhojyo jñeya uttamasāhase || 10 || 
+ 
+ 
+ 14.011a  tasyaiva bhedaḥ steyaṃ syād viśeṣas tatra cocyate | 
+ 14.011c  atisāhasam ākramya steyam āhuś chalena tu || 11 || 
+ 
+ 
+ 14.012a  tad api trividhaṃ proktaṃ dravyāpekṣaṃ manīṣibhiḥ | 
+ 14.012c  kṣudramadhyottamānāṃ tu dravyāṇām apakarṣaṇāt || 12 || 
+ 
+ 
+ 14.013a  mṛdbhāṇḍāsanakhaṭvāsthidārucarmatṛṇādi yat | 
+ 14.013c  śamīdhānyamudgādīni kṣudradravyam udāhṛtam || 13 || 
+ 
+ 
+ 14.014a  vāsaḥ kauśeyavarjaṃ ca govarjaṃ paśavas tathā | 
+ 14.014c  hiraṇyavarjaṃ lohaṃ ca madhyaṃ vrīhiyavā api || 14 || 
+ 
+ 
+ 14.015a  hiraṇyaratnakauśeyastrīpuṅgogajavājinaḥ | 
+ 14.015c  devabrāhmaṇarājñāṃ ca dravyaṃ vijñeyam uttamam || 15 || 
+ 
+ 
+ 
+ 14.016a  upāyair vividhair eṣāṃ chalayitvāpakarṣaṇam | 
+ 14.016c  suptapramattamattebhyaḥ steyam āhur manīṣiṇaḥ || 16 || 
+ 
+ 
+ 14.017a  sahoḍhagrahaṇāt steyaṃ hoḍhe 'saty upabhogataḥ | 
+ 14.017c  śaṅkā tv asajjanaikārthyād anāyavyayatas tathā || 17 || 
+ 
+ 
+ 14.018a  bhaktāvakāśadātāraḥ stenānāṃ ye prasarpatām | 
+ 14.018c  śaktāś ca ya upekṣante te 'pi taddoṣabhāginaḥ || 18 || 
+ 
+ 
+ 14.019a  utkrośatāṃ janānāṃ ca hriyamāṇe dhane 'pi ca | 
+ 14.019c  śrutvā ye nābhidhāvanti te 'pi taddoṣabhāginaḥ || 19 || 
+ 
+ 
+ 14.020a  sāhaseṣu ya evoktas triṣu daṇḍo manīṣibhiḥ | 
+ 14.020c  sa eva daṇḍaḥ steye 'pi dravyeṣu triṣv anukramāt || 20 || 
+ 
+ 
+ 14.021a  gavādiṣu praṇaṣṭeṣu dravyeṣv apahṛteṣu vā | 
+ 14.021c  padenānveṣaṇaṃ kuryur ā mūlāt tadvido janāḥ || 21 || 
+ 
+ 
+ 14.022a  grāme vraje vivīte vā yatra sannipatet padam | 
+ 14.022c  voḍhavyaṃ tad bhavet tena na cet so 'nyatra tan nayet || 22
+                            || 
+ 
+ 
+ 14.023a  pade pramūḍhe bhagne vā viṣamatvāj janāntike | 
+ 14.023c  yas tv āsannataro grāmo vrajo vā tatra pātayet || 23 || 
+ 
+ 
+ 
+ 14.024a  same 'dhvani dvayor yatra tena prāyo 'śucir janaḥ | 
+ 14.024c  pūrvāpadānair dṛṣṭo vā saṃsṛṣṭo vā durātmabhiḥ || 24 || 
+ 
+ 
+ 14.025a  grāmeṣv anveṣaṇaṃ kuryuś caṇḍālavadhakādayaḥ | 
+ 14.025c  rātrisañcāriṇo ye ca bahiḥ kuryur bahiścarāḥ || 25 || 
+ 
+ 
+ 14.026a  steneṣv alabhyamāneṣu rājā dadyāt svakād dhanāt | 
+ 14.026c  upekṣamāṇo hy enasvī dharmād arthāc ca hīyate || 26 || 
+ 
+ 
+ 
+ 
+                    Chapter 15-16
+		    Vāgdaṇḍapāruṣye  (Verbal and Physical Assault) 
+ L tr. 186-192 , cf.  J tr. 105-108 
+ 
+ 15-16.001a  deśajātikulādīnām ākrośanyaṅgasaṃhitam | 
+ 15-16.001c  yad vacaḥ pratikūlārthaṃ vākpāruṣyaṃ tad ucyate || 1 || 
+ 
+ 
+ 15-16.002a  niṣṭhurāślīlatīvratvāt tad api trividhaṃ smṛtam | 
+ 15-16.002c  gauravānukramād asya daṇḍo 'py atra kramād guruḥ || 2 || 
+ 
+ 
+ 15-16.003a  sākṣepaṃ niṣṭhuraṃ jñeyam aślīlaṃ nyaṅgasaṃyutam | 
+ 15-16.003c  pātanīyair upakrośais tīvram āhur manīṣiṇaḥ || 3 || 
+ 
+ 
+ 15-16.004a  paragātreṣv abhidroho hastapādāyudhādibhiḥ | 
+ 15-16.004c  bhasmādibhiś copaghāto daṇḍapāruṣyam ucyate || 4 || 
+ 
+ 
+ 15-16.005a  tasyāpi dṛṣṭaṃ traividhyaṃ mṛdumadhyottamaṃ kramāt | 
+ 15-16.005c  avagūraṇaniḥsaṅgapātanakṣatadarśanaiḥ || 5 || 
+ 
+ 
+ 15-16.006a  hīnamadhyottamānāṃ tu dravyāṇām samatikramāt | 
+ 15-16.006c  trīṇy eva sāhasāny āhus tatra kaṇṭakaśodhanam || 6 || 
+ 
+ 
+ 15-16.007a  vidhiḥ pañcavidhas tūkta etayor ubhayor api | 
+ 15-16.007c  viśuddhir daṇḍabhāktvaṃ ca tatra sambadhyate yathā || 7
+                            || 
+ 
+ 
+ 
+ 15-16.008a  pāruṣye sati saṃrambhād utpanne kṣubdhayor dvayoḥ | 
+ 15-16.008c  sa manyate yaḥ kṣamate daṇḍabhāg yo 'tivartate || 8 || 
+ 
+ 
+ 15-16.009a  pāruṣyadoṣāvṛtayor yugapat sampravṛttayoḥ | 
+ 15-16.009c  viśeṣaś cen na dṛśyeta vinayaḥ syāt samas tayoḥ || 9 || 
+ 
+ 
+ 15-16.010a  pūrvam ākṣārayed yas tu niyataṃ syāt sa doṣabhāk | 
+ 15-16.010c  paścād yaḥ so 'py asatkārī pūrve tu vinayo guruḥ || 10
+                            || 
+ 
+ 
+ 15-16.011a  dvayor āpannayos tulyam anubadhnāti yaḥ punaḥ | 
+ 15-16.011c  sa tayor daṇḍam āpnoti pūrvo vā yadi vetaraḥ || 11 || 
+ 
+ 
+ 15-16.012a  śvapākapaṇḍacaṇḍālavyaṅgeṣu vadhavṛttiṣu | 
+ 15-16.012c  hastipavrātyadāreṣu gurvācāryāṅganāsu ca || 12 || 
+ 
+ 
+ 15-16.013a  maryādātikrame sadyo ghāta evānuśāsanam | 
+ 15-16.013c  na ca taddaṇḍapāruṣye doṣam āhur manīṣiṇaḥ || 13 || 
+ 
+ 
+ 15-16.014a  yam eva hy ativarterann ete santaṃ janaṃ nṛṣu | 
+ 15-16.014c  sa eva vinayaṃ kuryān na tadvinayabhāṅ nṛpaḥ || 14 || 
+ 
+ 
+ 15-16.015a  malā hy ete manuṣyeṣu dhanam eṣāṃ malātmakam | 
+ 15-16.015c  api tān ghātayed rājā nārthadaṇḍena daṇḍayet || 15 || 
+ 
+ 
+ 
+ 15-16.016a  śataṃ brāhmaṇam ākruśya kṣatriyo daṇḍam arhati | 
+ 15-16.016c  vaiśyo 'dhyardhaṃ śataṃ dve vā śūdras tu vadham arhati || 16
+                            || 
+ 
+ 
+ 15-16.017a  vipraḥ pañcāśataṃ daṇḍyaḥ kṣatriyasyābhiśaṃsane | 
+ 15-16.017c  vaiśye syād ardhapañcāśac chūdre dvādaśako damaḥ || 17
+                            || 
+ 
+ 
+ 15-16.018a  samavarṇadvijātīnāṃ dvādaśaiva vyatikrame | 
+ 15-16.018c  vādeṣv avacanīyeṣu tad eva dviguṇaṃ bhavet || 18 || 
+ 
+ 
+ 15-16.019a  kāṇam apy athavā khañjam anyaṃ vāpi tathāvidham | 
+ 15-16.019c  tathyenāpi bruvan dāpyo rājñā kārṣāpaṇāvaram || 19 || 
+ 
+ 
+ 15-16.020a  na kilbiṣeṇāpavadec chāstrataḥ kṛtapāvanam | 
+ 15-16.020c  na rājñā dhṛtadaṇḍaṃ ca daṇḍabhāk tadvyatikramāt || 20
+                            || 
+ 
+ 
+ 15-16.021a  loke 'smin dvāv avaktavyāv adaṇḍyau ca prakīrtitau | 
+ 15-16.021c  brāhmaṇaś caiva rājā ca tau hīdaṃ bibhṛto jagat || 21 || 
+ 
+ 
+ 15-16.022a  patitaṃ patitety uktvā cauraṃ caureti vā punaḥ | 
+ 15-16.022c  vacanāt tulyadoṣaḥ syān mithyā dvir doṣatāṃ vrajet || 22
+                            || 
+ 
+ 
+ 15-16.023a  nāmajātigrahaṃ teṣām abhidroheṇa kurvataḥ | 
+ 15-16.023c  nikheyo 'yomayaḥ śaṅkuḥ śūdrasyāṣṭādaśāṅgulaḥ || 23 || 
+ 
+ 
+ 15-16.024a  dharmāpadeśaṃ darpeṇa dvijānām asya kurvataḥ | 
+ 15-16.024c  taptam āsecayet tailaṃ vaktre śrotre ca pārthivaḥ || 24
+                            || 
+ 
+ 
+ 
+ 15-16.025a  yenāṅgenāvaro varṇo brāhmaṇasyāparādhnuyāt | 
+ 15-16.025c  tad aṅgaṃ tasya chettavyam evaṃ śuddhim avāpnuyāt || 25
+                            || 
+ 
+ 
+ 15-16.026a  sahāsanam abhiprepsur utkṛṣṭasyāvakṛṣṭajaḥ | 
+ 15-16.026c  kaṭyāṃ kṛṭāṅko nirvāsyaḥ sphigdeśaṃ vāsya kartayet || 26
+                            || 
+ 
+ 
+ 15-16.027a  avaniṣṭhīvato darpād dvāv oṣṭhau chedayen nṛpaḥ | 
+ 15-16.027c  avamūtrayataḥ śiśnam avaśardhayato gudam || 27 || 
+ 
+ 
+ 15-16.028a  keśeṣu gṛhṇato hastau chedayed avicārayan | 
+ 15-16.028c  pādayor nāsikāyāṃ ca grīvāyāṃ vṛṣaṇeṣu ca || 28 || 
+ 
+ 
+ 15-16.029a  upakruśya tu rājānaṃ vartmani sve vyavasthitam | 
+ 15-16.029c  jihvāchedād bhavec chuddhiḥ sarvasvaharaṇena vā || 29 || 
+ 
+ 
+ 15-16.030a  rājani prahared yas tu kṛtāgasy api durmatiḥ | 
+ 15-16.030c  śūle tam agnau vipaced brahmahatyāśatādhikam || 30 || 
+ 
+ 
+ 15-16.031a  putrāparādhe na pitā na śvavāñ śuni daṇḍabhāk | 
+ 15-16.031c  na markaṭe ca tatsvāmī tair eva prahito na cet || 31 || 
+ 
+ 
+ 
+ 
+                    Chapter 17
+Dyūtasamāhvayam  (Gambling and Contests) 
+ L tr. 193-194 , cf.  J tr. 109-110 
+ 
+ 17.001a  akṣavardhraśalākādyair devanaṃ jihmakāritam | 
+ 17.001c  paṇakrīḍā vayobhiś ca padaṃ dyūtasamāhvayam || 1 || 
+ 
+ 
+ 17.002a  sabhikaḥ kārayed dyūtaṃ deyaṃ dadyāc ca tatkṛtam | 
+ 17.002c  daśakaṃ tu śataṃ vṛddhis tasya syād dyūtakāritā || 2 || 
+ 
+ 
+ 17.003a  dvirabhyastāḥ patanty akṣā glahe yasyākṣadevinaḥ | 
+ 17.003c  jayaṃ tasyāparasyāhuḥ kitavasya parājayam || 3 || 
+ 
+ 
+ 17.004a  kitaveṣv eva tiṣṭheyuḥ kitavāḥ saṃśayaṃ prati | 
+ 17.004c  ta eva tasya draṣṭāraḥ syus ta eva ca sākṣiṇaḥ || 4 || 
+ 
+ 
+ 17.005a  aśuddhaḥ kitavo nānyad āśrayed dyūtamaṇḍalam | 
+ 17.005c  pratihanyān na sabhikaṃ dāpayet tat svam iṣṭataḥ || 5 || 
+ 
+ 
+ 
+ 17.006a  kūṭākṣadevinaḥ pāpān nirbhajed dyūtamaṇḍalāt | 
+ 17.006c  kaṇṭhe 'kṣamālām āsajya sa hy eṣāṃ vinayaḥ smṛtaḥ || 6 || 
+ 
+ 
+ 
+ 
+                    Chapter 18
+Prakīrṇakam  (Miscellaneous) 
+ L tr. 195-203 , cf.  J tr. 110-116 
+ 
+ 18.001a  prakīrṇake punar jñeyā vyavahārā nṛpāśrayāḥ | 
+ 18.001c  rājñām ājñāpratīghātas tatkarmakaraṇaṃ tathā || 1 || 
+ 
+ 
+ 18.002a  purapradānaṃ sambhedaḥ prakṛtīnāṃ tathaiva ca | 
+ 18.002c  pāṣaṇḍanaigamaśreṇīgaṇadharmaviparyayāḥ || 2 || 
+ 
+ 
+ 18.003a  pitṛputravivādaś ca prāyaścittavyatikramaḥ | 
+ 18.003c  pratigrahavilopaś ca kopa āśramiṇām api || 3 || 
+ 
+ 
+ 18.004a  varṇasaṅkaradoṣaś ca tadvṛttiniyamas tathā | 
+ 18.004c  na dṛṣṭaṃ yac ca pūrveṣu tat sarvaṃ syāt prakīrṇake || 4 || 
+ 
+ 
+ 18.005a  rājā tv avahitaḥ sarvān āśramān paripālayet | 
+ 18.005c  upāyaiḥ śāstravihitaiś caturbhiḥ prakṛtais tathā || 5 || 
+ 
+ 
+ 18.006a  yo yo varṇo 'vahīyeta yo vodrekam anuvrajet | 
+ 18.006c  taṃ taṃ dṛṣṭvā svato mārgāt pracyutaṃ sthāpayet pathi || 6
+                            || 
+ 
+ 
+ 18.007a  aśāstrokteṣu cānyeṣu pāpayukteṣu karmasu | 
+ 18.007c  prasamīkṣyātmano rājā daṇḍaṃ daṇḍyeṣu pātayet || 7 || 
+ 
+ 
+ 
+ 18.008a  śrutismṛtiviruddhaṃ ca janānām ahitaṃ ca yat | 
+ 18.008c  na tat pravartayed rājā pravṛttaṃ ca nivartayet || 8 || 
+ 
+ 
+ 18.009a  nyāyāpetaṃ yad anyena rājñājñānakṛtaṃ ca yat | 
+ 18.009c  tad apy anyāyavihitaṃ punar nyāye niveśayet || 9 || 
+ 
+ 
+ 18.010a  rājñā pravartitān dharmānyo naro nānupālayet | 
+ 18.010c  daṇḍyaḥ sa pāpo vadhyaś ca lopayan rājaśāsanam || 10 || 
+ 
+ 
+ 18.011a  āyudhāny āyudhīyānāṃ vāhyādīn vāhyajīvinām | 
+ 18.011c  veśyāstrīṇām alaṅkāraṃ vādyātodyāni tadvidām || 11 || 
+ 
+ 
+ 18.012a  yac ca yasyopakaraṇaṃ yena jīvanti kārukāḥ | 
+ 18.012c  sarvasvaharaṇe 'py etān na rājā hartum arhati || 12 || 
+ 
+ 
+ 18.013a  anādiś cāpy anantaś ca dvipadāṃ pṛthivīpatiḥ | 
+ 18.013c  dīptimatvāc chucitvāc ca yadi na syāt pathaś cyutaḥ || 13
+                            || 
+ 
+ 
+ 18.014a  yadi rājā na sarveṣāṃ varṇānāṃ daṇḍadhāraṇam | 
+ 18.014c  kuryāt patho vyapetānāṃ vinaśyeyur imāḥ prajāḥ || 14 || 
+ 
+ 
+ 18.015a  brāhmaṇyaṃ brāhmaṇo jahyāt kṣatriyaḥ kṣātram utsṛjet | 
+ 18.015c  svakarma jahyād vaiśyas tu śūdraḥ sarvān viśeṣayet || 15 || 
+ 
+ 
+ 
+ 18.016a  rājānaś cen nābhaviṣyan pṛthivyāṃ daṇḍadhāraṇam | 
+ 18.016c  śūle matsyān ivāpakṣyan durbalān balavattarāḥ || 16 || 
+ 
+ 
+ 18.017a  satām anugraho nityam asatāṃ nigrahas tathā | 
+ 18.017c  eṣa dharmaḥ smṛto rājñām arthaś cāmitrapīḍanāt || 17 || 
+ 
+ 
+ 18.018a  na lipyate yathā vahnir dahañ chaśvad imāḥ prajāḥ | 
+ 18.018c  na lipyate tathā rājā daṇḍaṃ daṇḍyeṣu pātayan || 18 || 
+ 
+ 
+ 18.019a  ājñā tejaḥ pārthivānāṃ sā ca vāci pratiṣṭhitā | 
+ 18.019c  te yad brūyur asat sad vā sa dharmo vyavahāriṇām || 19 || 
+ 
+ 
+ 18.020a  rājā nāma caraty eṣa bhūmau sākṣāt sahasradṛk | 
+ 18.020c  na tasyājñām atikramya santiṣṭheran prajāḥ kvacit || 20 || 
+ 
+ 
+ 18.021a  rakṣādhikārād īśatvād bhūtānugrahadarśanāt | 
+ 18.021c  yad eva rājā kurute tat pramāṇam iti sthitiḥ || 21 || 
+ 
+ 
+ 18.022a  nirguṇo 'pi yathā strīṇāṃ pūjya eva patiḥ sadā | 
+ 18.022c  prajānāṃ viguṇo 'py evaṃ pūjya eva narādhipaḥ || 22 || 
+ 
+ 
+ 
+ 18.023a  tapaḥkrītāḥ prajā rājñā prabhur āsāṃ tato nṛpaḥ | 
+ 18.023c  tatas tadvacasi stheyaṃ vārtā cāsāṃ tadāśrayā || 23 || 
+ 
+ 
+ 18.024a  pañca rūpāṇi rājāno dhārayanty amitaujasaḥ | 
+ 18.024c  agner indrasya somasya yamasya dhanadasya ca || 24 || 
+ 
+ 
+ 18.025a  kāraṇād animittaṃ vā yadā krodhavaśaṃ gataḥ | 
+ 18.025c  prajā dahati bhūpālas tadāgnir abhidhīyate || 25 || 
+ 
+ 
+ 18.026a  yadā tejaḥ samālambya vijigīṣur udāyudhaḥ | 
+ 18.026c  abhiyāti parān rājā tadendraḥ sa udāhṛtaḥ || 26 || 
+ 
+ 
+ 18.027a  vigatakrodhasantāpo hṛṣṭarūpo yadā nṛpaḥ | 
+ 18.027c  prajānāṃ darśanaṃ yāti soma ity ucyate tadā || 27 || 
+ 
+ 
+ 18.028a  dharmāsanagataḥ śrīmān daṇḍaṃ dhatte yadā nṛpaḥ | 
+ 18.028c  samaḥ sarveṣu bhūteṣu tadā vaivasvataḥ yamaḥ || 28 || 
+ 
+ 
+ 18.029a  yadā tv arthiguruprājñabhṛtyādīn avanīpatiḥ | 
+ 18.029c  anugṛhṇāti dānena tadā sa dhanadaḥ smṛtaḥ || 29 || 
+ 
+ 
+ 18.030a  tasmāt taṃ nāvajānīyān nākrośen na viśeṣayet | 
+ 18.030c  ājñāyāṃ cāsya tiṣṭheta mṛtyuḥ syāt tadvyatikramāt || 30 || 
+ 
+ 
+ 18.031a  tasya vṛttiḥ prajārakṣā vṛddhaprājñopasevanam | 
+ 18.031c  darśanaṃ vyavahārāṇām ātmanaś cābhirakṣaṇam || 31 || 
+ 
+ 
+ 
+ 18.032a  brāhmaṇān upaseveta nityaṃ rājā samāhitaḥ | 
+ 18.032c  saṃyuktaṃ brāhmaṇaiḥ kṣatraṃ mūlaṃ lokābhirakṣaṇe || 32 || 
+ 
+ 
+ 18.033a  brāhmaṇasyāparīhāro rājanyāsanam agrataḥ | 
+ 18.033c  prathamaṃ darśanaṃ prātaḥ sarvebhyaś cābhivādanam || 33 || 
+ 
+ 
+ 18.034a  agraṃ navebhyaḥ sasyebhyo mārgadānaṃ ca gacchataḥ | 
+ 18.034c  bhaikṣahetoḥ parāgāre praveśas tv anivāritaḥ || 34 || 
+ 
+ 
+ 18.035a  samitpuṣpodakādāneṣv asteyaṃ saparigrahāt | 
+ 18.035c  anākṣepaḥ parebhyaś ca sambhāṣaś ca parastriyā || 35 || 
+ 
+ 
+ 18.036a  nadīṣv avetanas tāraḥ pūrvam uttaraṇaṃ tathā | 
+ 18.036c  tareṣv aśulkadānaṃ ca na ced vāṇijyam asya tat || 36 || 
+ 
+ 
+ 18.037a  vartamāno 'dhvani śrānto gṛhṇann anivasan svayam | 
+ 18.037c  brāhmaṇo nāparādhnoti dvāv ikṣū pañca mūlakān || 37 || 
+ 
+ 
+ 18.038a  nābhiśastān na patitān na dviṣo na ca nāstikāt | 
+ 18.038c  na sopadhān nānimittaṃ na dātāraṃ prapīḍya ca || 38 || 
+ 
+ 
+ 
+ 18.039a  arthānāṃ bhūribhāvāc ca deyatvāc ca mahātmanām | 
+ 18.039c  śreyān pratigraho rājñāṃ anyeṣāṃ brāhmaṇād ṛte || 39 || 
+ 
+ 
+ 18.040a  brāhmaṇaś caiva rājā ca dvāv apy etau dhṛtavratau | 
+ 18.040c  naitayor antaraṃ kiñcit prajādharmābhirakṣaṇāt || 40 || 
+ 
+ 
+ 18.041a  dharmajñasya kṛtajñasya rakṣārthaṃ śāsato 'śucīn | 
+ 18.041c  medhyam eva dhanaṃ prāhus tīkṣṇasyāpi mahīpateḥ || 41 || 
+ 
+ 
+ 18.042a  śucīnām aśucīnāṃ ca sannipāto yathāmbhasām | 
+ 18.042c  samudre samatāṃ yāti tadvad rājño dhanāgamaḥ || 42 || 
+ 
+ 
+ 18.043a  yathā cāgnau sthitaṃ dīpte śuddhim āyāti kāñcanam | 
+ 18.043c  evam evāgamā sarve śuddhim āyānti rājasu || 43 || 
+ 
+ 
+ 18.044a  ya eva kaścit svadravyaṃ brāhmaṇebhyaḥ prayacchati | 
+ 18.044c  tad rājñāpy anumantavyam eṣa dharmaḥ sanātanaḥ || 44 || 
+ 
+ 
+ 
+ 18.045a  anyaprakārād ucitād bhūmeḥ ṣaḍbhāgasañjñitāt | 
+ 18.045c  baliḥ sa tasya vihitaḥ prajāpālanavetanam || 45 || 
+ 
+ 
+ 18.046a  śakyaṃ tat punar ādātuṃ yad abrāhmaṇasātkṛtam | 
+ 18.046c  brāhmaṇāya tu yad dattaṃ na tasya haraṇaṃ punaḥ || 46 || 
+ 
+ 
+ 18.047a  dānam adhyayanaṃ yajñas tasya karma trilakṣaṇam | 
+ 18.047c  yājanādhyāpane vṛttis tṛtīyas tu pratigrahaḥ || 47 || 
+ 
+ 
+ 18.048a  svakarmaṇi dvijas tiṣṭhed vṛttim āhārayet kṛtām | 
+ 18.048c  nāsadbhyaḥ pratigṛhṇīyād varṇebhyo niyame 'sati || 48 || 
+ 
+ 
+ 18.049a  aśucir vacanād yasya śucir bhavati puruṣaḥ | 
+ 18.049c  śuciś caivāśuciḥ sadyaḥ kathaṃ rājā na daivatam || 49 || 
+ 
+ 
+ 18.050a  vidur ya eva devatvaṃ rājño hy amitatejasaḥ | 
+ 18.050c  tasya te pratigṛhṇanto na lipyante dvijātayaḥ || 50 || 
+ 
+ 
+ 18.051a  loke 'smin maṅgalāny aṣṭau brāhmaṇo gaur hutāśanaḥ | 
+ 18.051c  hiraṇyaṃ sarpir āditya āpo rājā tathāṣṭamaḥ || 51 || 
+ 
+ 
+ 
+ 18.052a  etāni satataṃ paśyen namasyed arcayec ca tān | 
+ 18.052c  pradakṣiṇaṃ ca kurvīta tathā hy āyur na hīyate || 52 || 
+ 
+ 
+ 
+ 
+ 
+                Part 3
+Pariśiṣṭam  (Addenda) 
+ L tr. 204-228 , cf.  J tr. 45-54  (part) 
+ 
+                    Chapter 19
+Steyam  (Theft) 
+ L tr. 204-219 , J tr. n/a 
+ 
+ 19.001a  dvividhās taskarā jñeyāḥ paradravyāpahāriṇaḥ | 
+ 19.001c  prakāśāś cāprakāśāś ca tān vidyād ātmavān nṛpaḥ || 1 || 
+ 
+ 
+ 19.002a  prakāśavañcakās tatra kūṭamānatulāśritāḥ | 
+ 19.002c  utkoṭakāḥ sāhasikāḥ kitavāḥ paṇyayoṣitaḥ || 2 || 
+ 
+ 
+ 19.003a  pratirūpakarāś caiva maṅgaloddeśavṛttayaḥ | 
+ 19.003c  ity evamādayo jñeyāḥ prakāśalokavañcakāḥ || 3 || 
+ 
+ 
+ 19.004a  aprakāśāś ca vijñeyā bahirabhyantarāśritāḥ | 
+ 19.004c  suptān pramattāṃś ca narā muṣṇanty ākramya caiva te || 4 || 
+ 
+ 
+ 19.005a  deśagrāmagṛhaghnāś ca pathighnā granthimocakāḥ | 
+ 19.005c  ity evamādayo jñeyā aprakāśāś ca taskarāḥ || 5 || 
+ 
+ 
+ 
+ 19.006a  tān viditvā sukuśalaiś cārais tatkarmakāribhiḥ | 
+ 19.006c  anusṛtya gṛhītavyā gūḍhapraṇihitair naraiḥ || 6 || 
+ 
+ 
+ 19.007a  sabhāprapāpūpaśālāveśamadyānnavikrayāḥ | 
+ 19.007c  catuṣpathāś caityavṛkṣāḥ samājāḥ prekṣaṇāni ca || 7 || 
+ 
+ 
+ 19.008a  śūnyāgārāṇy araṇyāni devatāyatanāni ca | 
+ 19.008c  cārair vineyāny etāni cauragrahaṇatatparaiḥ || 8 || 
+ 
+ 
+ 19.009a  tathaivānye praṇihitāḥ śraddheyāś citravādinaḥ | 
+ 19.009c  carā hy utsāhayeyus tāṃs taskarān pūrvataskarāḥ || 9 || 
+ 
+ 
+ 19.010a  annapānasamādānaiḥ samājotsavadarśanaiḥ | 
+ 19.010c  tathā cauryāpadeśaiś ca kuryus teṣāṃ samāgamam || 10 || 
+ 
+ 
+ 19.011a  ye tatra nopasarpanti sṛtāḥ praṇihitā api | 
+ 19.011c  te 'bhisārya gṛhītavyāḥ saputrapaśubāndhavāḥ || 11 || 
+ 
+ 
+ 
+ 19.012a  yāṃs tatra caurān gṛhṇīyāt tān vitāḍya viḍambya ca | 
+ 19.012c  avaghuṣya ca sarvatra vadhyāś citravadhena te || 12 || 
+ 
+ 
+ 19.013a  na tv ahoḍhānvitāś caurā rājñā vadhyā hy anāgamāḥ | 
+ 19.013c  sahoḍhān sopakaraṇān kṣipraṃ caurān praśāsayet || 13 || 
+ 
+ 
+ 19.014a  svadeśaghātino ye syus tathā panthāvarodhinaḥ | 
+ 19.014c  teṣāṃ sarvasvam ādāya bhūyo nindāṃ prakalpayet || 14 || 
+ 
+ 
+ 19.015a  ahoḍhān vimṛśec caurān gṛhītān pariśaṅkayā | 
+ 19.015c  bhayopadhābhiś citrābhir brūyus tathā yathākṛtam || 15 || 
+ 
+ 
+ 19.016a  deśaṃ kālaṃ diśaṃ jātiṃ nāma vā sampratiśrayam | 
+ 19.016c  kṛtyaṃ karmakarā vā syuḥ praṣṭavyās te vinigrahe || 16 || 
+ 
+ 
+ 19.017a  varṇasvarākārabhedāt sasandigdhanivedanāt | 
+ 19.017c  adeśakāladṛṣṭatvād vāsasyāpy aviśodhanāt || 17 || 
+ 
+ 
+ 
+ 19.018a  asadvyayāt pūrvacauryād asatsaṃsargakāraṇāt | 
+ 19.018c  leśair apy avagantavyā na hoḍhenaiva kevalam || 18 || 
+ 
+ 
+ 19.019a  dasyuvṛtte yadi nare śaṅkā syāt taskare 'pi vā | 
+ 19.019c  yadi spṛśyeta leśena kāryaḥ syāc chapathaḥ tataḥ || 19 || 
+ 
+ 
+ 19.020a  caurāṇāṃ bhaktadā ye syus tathāgnyudakadāyakāḥ | 
+ 19.020c  āvāsadā deśikadās tathaivottaradāyakāḥ || 20 || 
+ 
+ 
+ 19.021a  kretāraś caiva bhāṇḍānāṃ pratigrāhiṇa eva ca | 
+ 19.021c  samadaṇḍāḥ smṛtā hy ete ye ca pracchādayanti tān || 21 || 
+ 
+ 
+ 19.022a  rāṣṭreṣu rāṣṭrādhikṛtāḥ sāmantāś caiva coditāḥ | 
+ 19.022c  abhyāghāteṣu madhyasthā yathā caurās tathaiva te || 22 || 
+ 
+ 
+ 19.023a  gocare yasya muṣyeta tena caurāḥ prayatnataḥ | 
+ 19.023c  mṛgyā dāpyo 'nyathā moṣaṃ padaṃ yadi na nirgatam || 23 || 
+ 
+ 
+ 
+ 19.024a  nirgate tu pade tasmin naṣṭe 'nyatra nipātite | 
+ 19.024c  sāmantān mārgapālāṃś ca dikpālāṃś caiva dāpayet || 24 || 
+ 
+ 
+ 19.025a  gṛhe vai muṣite rājā cauragrāhāṃs tu dāpayet | 
+ 19.025c  ārakṣakān rāṣṭrikāṃś ca yadi cauro na labhyate || 25 || 
+ 
+ 
+ 19.026a  yadi vā dāpyamānānāṃ tasmin moṣe tu saṃśayaḥ | 
+ 19.026c  muṣitaḥ śapathaṃ śāpyo moṣe vaiśodhyakāraṇāt || 26 || 
+ 
+ 
+ 19.027a  acaure dāpite moṣaṃ cauryavaiśodhyakāraṇāt | 
+ 19.027c  caure labdhe labheyus te dviguṇaṃ pratipāditāḥ || 27 || 
+ 
+ 
+ 19.028a  caurahṛtaṃ prayatnena sarūpaṃ pratipādayet | 
+ 19.028c  tadabhāve tu mūlyaṃ syād daṇḍaṃ dāpyaś ca tatsamam || 28 || 
+ 
+ 
+ 19.029a  kāṣṭhakāṇḍatṛṇādīnāṃ mṛnmayānāṃ tathaiva ca | 
+ 19.029c  veṇuvaiṇavabhāṇḍānāṃ vetrasnāyvasthicarmaṇām || 29 || 
+ 
+ 
+ 
+ 19.030a  śākaharitamūlānāṃ haraṇe phalapuṣpayoḥ | 
+ 19.030c  gorasekṣuvikārāṇāṃ tathā lavaṇatailayoḥ || 30 || 
+ 
+ 
+ 19.031a  pakvānnānāṃ kṛtānnānāṃ madyānām āmiṣasya ca | 
+ 19.031c  sarveṣām alpamūlyānāṃ mūlyāt pañcaguṇo damaḥ || 31 || 
+ 
+ 
+ 19.032a  tulādharimameyānāṃ gaṇimānāṃ ca sarvaśaḥ | 
+ 19.032c  ebhyas tūtkṛṣṭamūlyānāṃ mūlyād daśaguṇo damaḥ || 32 || 
+ 
+ 
+ 19.033a  dhānyaṃ daśabhyaḥ kumbhebhyo harato 'bhyadhikaṃ vadhaḥ | 
+ 19.033c  nyūnaṃ tv ekādaśaguṇaṃ daṇḍaṃ dāpyo 'bravīn manuḥ || 33 || 
+ 
+ 
+ 19.034a  suvarṇarajatādīnām uttamānāṃ ca vāsasām | 
+ 19.034c  ratnānāṃ caiva mukhyānāṃ śatād abhyadhikaṃ vadhaḥ || 34 || 
+ 
+ 
+ 19.035a  puruṣaṃ harataḥ pātyo daṇḍa uttamasāhasaḥ | 
+ 19.035c  sarvasvaṃ strīṃ tu harataḥ kanyāṃ tu harato vadhaḥ || 35 || 
+ 
+ 
+ 
+ 19.036a  mahāpaśūn stenayato daṇḍa uttamasāhasaḥ | 
+ 19.036c  madhyamo madhyamapaśuṃ pūrvaḥ kṣudrapaśuṃ haran || 36 || 
+ 
+ 
+ 19.037a  caturviṃśāvaraḥ pūrvaḥ paraḥ ṣaṇṇavatir bhavet | 
+ 19.037c  śatāni pañca tu paro madhyamo dviśatāvaraḥ || 37 || 
+ 
+ 
+ 19.038a  sahasraṃ tūttamo jñeyaḥ paraḥ pañcaśatāvaraḥ | 
+ 19.038c  trividhaḥ sāhaseṣv eva daṇḍaḥ proktaḥ svayambhuvā || 38 || 
+ 
+ 
+ 19.039a  prathame granthibhedānām aṅgulyaṅguṣṭhayor vadhaḥ | 
+ 19.039c  dvitīye caiva taccheṣaṃ daṇḍaḥ pūrvaś ca sāhasaḥ || 39 || 
+ 
+ 
+ 19.040a  goṣu brāhmaṇasaṃsthāsu sthūrāyāś chedanaṃ bhavet | 
+ 19.040c  dāsīṃ tu harato nityam ardhapādavikartanam || 40 || 
+ 
+ 
+ 19.041a  yena yena viśeṣeṇa stenāṅgena viceṣṭate | 
+ 19.041c  tat tad evāsya chettavyaṃ tan manor anuśāsanam || 41 || 
+ 
+ 
+ 19.042a  garīyasi garīyāṃsam agarīyasi vā punaḥ | 
+ 19.042c  stene nipātayed daṇḍaṃ na yathā prathame tathā || 42 || 
+ 
+ 
+ 
+ 19.043a  daśa sthānāni daṇḍasya manuḥ svāyambhuvo 'bravīt | 
+ 19.043c  triṣu varṇeṣu yāni syur brāhmaṇo rakṣitaḥ sadā || 43 || 
+ 
+ 
+ 19.044a  upastham udaraṃ jihvā hastau pādau ca pañcamam | 
+ 19.044c  cakṣur nāsā ca karṇau ca dhanaṃ dehas tathaiva ca || 44 || 
+ 
+ 
+ 19.045a  aparādhaṃ parijñāya deśakālau ca tattvataḥ | 
+ 19.045c  sārānubandhāv ālokya daṇḍān etān prakalpayet || 45 || 
+ 
+ 
+ 19.046a  na mitrakāraṇād rājñā vipulād vā dhanāgamāt | 
+ 19.046c  utsraṣṭavyaḥ sāhasikas tyaktātmā manur abravīt || 46 || 
+ 
+ 
+ 19.047a  yāvān avadhyasya vadhe tāvān vadhyasya mokṣaṇe | 
+ 19.047c  bhavaty adharmo nṛpater dharmas tu viniyacchataḥ || 47 || 
+ 
+ 
+ 19.048a  na jātu brāhmaṇaṃ hanyāt sarvapāpeṣv api sthitam | 
+ 19.048c  nirvāsaṃ kārayet kāmam iti dharmo vyavasthitaḥ || 48 || 
+ 
+ 
+ 19.049a  sarvasvaṃ vā hared rājā caturthaṃ vāvaśeṣayet | 
+ 19.049c  bhṛtyebhyo 'nusmaran dharmaṃ prājāpatyam iti sthitiḥ || 49
+                            || 
+ 
+ 
+ 
+ 19.050a  brāhmaṇasyāparādhe tu catuḥsv aṅko vidhīyate | 
+ 19.050c  gurutalpe surāpāne steye brāhmaṇahiṃsane || 50 || 
+ 
+ 
+ 19.051a  gurutalpe bhagaḥ kāryaḥ surāpāne dhvajaḥ smṛtaḥ | 
+ 19.051c  steye tu śvapadaṃ kṛtvā śikhipittena kūṭayet || 51 || 
+ 
+ 
+ 19.052a  viśirāḥ puruṣaḥ kāryo lalāṭe bhrūṇaghātinaḥ | 
+ 19.052c  asambhāṣyaś ca kartavyas tan manor anuśāsanam || 52 || 
+ 
+ 
+ 19.053a  rājā stenena gantavyo muktakeśena dhāvatā | 
+ 19.053c  ācakṣāṇena tatsteyam evaṃ kartāsmi śādhi mām || 53 || 
+ 
+ 
+ 19.054a  anenā bhavati stenaḥ svakarmapratipādanāt | 
+ 19.054c  rājānaṃ tat spṛśed ena utsṛjantaṃ sakilbiṣam || 54 || 
+ 
+ 
+ 19.055a  rājabhir dhṛtadaṇḍās tu kṛtvā pāpāni mānavāḥ | 
+ 19.055c  nirmalāḥ svargam āyānti santaḥ sukṛtino yathā || 55 || 
+ 
+ 
+ 
+ 19.056a  śāsanād vā vimokṣād vā steno mucyate kilbiṣāt | 
+ 19.056c  aśāsanāt tu tad rājā stenasyāpnoti kilbiṣam || 56 || 
+ 
+ 
+ 19.057a  gurur ātmavatāṃ śāstā śāstā rājā durātmanām | 
+ 19.057c  atha pracchannapāpānāṃ śāstā vaivasvato yamaḥ || 57 || 
+ 
+ 
+ 19.058a  aṣṭāpādyaṃ tu śūdrasya steye bhavati kilbiṣam | 
+ 19.058c  dvir aṣṭāpādyaṃ vaiśyasya dvātriṃśat kṣatriyasya tu || 58
+                            || 
+ 
+ 
+ 19.059a  brāhmaṇasya catuḥṣaṣṭīty evaṃ svāyambhuvo 'bravīt | 
+ 19.059c  tatrāpi ca viśeṣeṇa vidvatsv abhyadhikaṃ bhavet || 59 || 
+ 
+ 
+ 19.060a  śārīraś cārthadaṇḍaś ca daṇḍas tu dvividhaḥ smṛtaḥ | 
+ 19.060c  śārīrā daśadhā proktā arthadaṇḍās tv anekadhā || 60 || 
+ 
+ 
+ 
+ 19.061a  kākaṇyādis tv arthadaṇḍaḥ sarvasvāntas tathaiva ca | 
+ 19.061c  śārīras tv avarodhādir jīvitāntas tathaiva ca || 61 || 
+ 
+ 
+ 19.062a  kākaṇyādis tu yo daṇḍaḥ sa tu māṣāparaḥ smṛtaḥ | 
+ 19.062c  māṣāvarādyo yaḥ proktaḥ kārṣāpaṇaparas tu saḥ || 62 || 
+ 
+ 
+ 19.063a  kārṣāpaṇāparādyas tu catuḥkārṣāpaṇaḥ paraḥ | 
+ 19.063c  dvyavaro 'ṣṭāparaś cānyas tryavaro dvādaśottaraḥ || 63 || 
+ 
+ 
+ 19.064a  kārṣāpaṇādyā ye proktāḥ sarve te syuś caturguṇāḥ | 
+ 19.064c  evam anye tu vijñeyāḥ prāk ca te pūrvasāhasāt || 64 || 
+ 
+ 
+ 19.065a  kārṣāpaṇo dakṣiṇasyāṃ diśi raupyaḥ pravartate | 
+ 19.065c  paṇair nibaddhaḥ pūrvasyāṃ ṣoḍaśaiva paṇāḥ sa tu || 65 || 
+ 
+ 
+ 19.066a  māṣo viṃśatibhāgas tu jñeyaḥ kārṣāpaṇasya tu | 
+ 19.066c  kākaṇī tu caturbhāgo māṣasya ca paṇasya ca || 66 || 
+ 
+ 
+ 
+ 19.067a  pāñcanadyāḥ pradeśe tu sañjñā yā vyāvahārikī | 
+ 19.067c  kārṣāpaṇapramāṇaṃ tu nibaddham iha vai tayā || 67 || 
+ 
+ 
+ 19.068a  kārṣāpaṇo 'ṇḍikā jñeyāś catasras tās tu dhānakaḥ | 
+ 19.068c  taddvādaśa suvarṇasya dīnāraś citrakaḥ smṛtaḥ || 68 || 
+ 
+ 
+ 19.069a  vārttāṃ trayīṃ cāpy atha daṇḍanītim   rājānuvartet
+                            santatāpramattaḥ | 
+ 19.069c  hanyād upāyair nipuṇair gṛhītān   pure ca rāṣṭre nigṛhṇīyāt
+                            pāpān || 69 || 
+ 
+ 
+ 
+ 
+                    Chapter 20
+Divyāni  (Ordeals) 
+ L tr. 220-228 , cf.  J tr. 45-54 
+ 
+ 20.001a  yadā sākṣī na vidyate vivāde vadatāṃ nṛṇām | 
+ 20.001c  tadā divyaiḥ parīkṣeta śapathaiś ca pṛthagvidhaiḥ || 1 || 
+ 
+ 
+ 20.002a  satyaṃ vāhanaśastrāṇi gobījarajatāni ca | 
+ 20.002c  devatāpitṛpādāś ca dattāni sukṛtāni ca || 2 || 
+ 
+ 
+ 20.003a  mahāparādhe divyāni dāpayet tu mahīpatiḥ | 
+ 20.003c  alpeṣu ca naraḥ śreṣṭhaḥ śapathaiḥ śāpayen naram || 3 || 
+ 
+ 
+ 20.004a  ete hi śapathāḥ proktāḥ sukarās svalpasaṃśaye | 
+ 20.004c  sāhaseṣv abhiśāpe ca vidhir divyaḥ prakīrtitaḥ || 4 || 
+ 
+ 
+ 20.005a  sandigdhe 'rthe 'bhiyuktānāṃ pracchanneṣu viśeṣataḥ | 
+ 20.005c  divyaḥ pañcavidho jñeya ity āha bhagavān manuḥ || 5 || 
+ 
+ 
+ 20.006a  dhaṭo 'gnir udakaṃ caiva viṣaṃ kośaś ca pañcamaḥ | 
+ 20.006c  uktāny etāni divyāni dūṣitānāṃ viśodhane || 6 || 
+ 
+ 
+ 20.007a  sandigdheṣv abhiyuktānāṃ viśuddhyarthaṃ mahātmanā | 
+ 20.007c  nāradena punaḥ proktāḥ satyānṛtavibhāvanāḥ | 
+ 20.007e  vādino 'numatenainaṃ kārayen nānyathā budhaḥ || 7 || 
+ 
+ 
+ 
+                        Section 1
+Dhaṭaḥ  (The Balance) 
+ L tr. 221-222 , cf.  J tr. 46-48 
+ 
+ 20.008a  caturhastau tulāpādāv ucchrayeṇa prakīrtitau | 
+ 20.008c  ṣaḍḍhastaṃ tu tayor dṛṣṭaṃ pramāṇaṃ parimāṇataḥ || 8 || 
+ 
+ 
+ 20.009a  pādayor antaraṃ hastaṃ bhaved adhyardham eva ca | 
+ 20.009c  śikyadvayaṃ samāsajya dhaṭe karkaṭake dṛḍhe || 9 || 
+ 
+ 
+ 20.010a  tulayitvā naraṃ pūrvaṃ cihnaṃ kuryād dhaṭasya tu | 
+ 20.010c  kakṣāsthānena taṃ tulyam avatārya tato dhaṭāt || 10 || 
+ 
+ 
+ 20.011a  samayaiḥ parigṛhyainaṃ punar āropayen naraḥ | 
+ 20.011c  tasminn evaṃ kṛte sā cet kakṣe sthāpya suniścalā || 11
+                                || 
+ 
+ 
+ 20.012a  tulito yadi vardheta śuddhaḥ syān nātre saṃśayaḥ | 
+ 20.012c  samo vā hīyamāno vā na viśuddho bhaven naraḥ || 12 || 
+ 
+ 
+ 
+ 20.013a  dharmaparyāyavacanair dhaṭa ity abhidhīyase | 
+ 20.013c  tvaṃ vetsi sarvabhūtānāṃ pāpāni sukṛtāni ca | 
+ 20.013e  tvam eva dhaṭa jānīṣe na vidur yāni mānuṣāḥ || 13 || 
+ 
+ 
+ 20.014a  vyavahārābhiśasto 'yaṃ mānuṣas tulyate tathā | 
+ 20.014c  tad eva saṃśayāpannaṃ dharmatas trātum arhasi || 14 || 
+ 
+ 
+ 
+                        Section 2
+Agniḥ  (The Fire) 
+ L tr. 222-223 , cf.  J tr. 48-50 
+ 
+ 20.015a  ata ūrdhvaṃ pravakṣyāmi lohasya vidhim uttamam | 
+ 20.015c  dvātriṃśadaṅgulāni tu maṇḍalān maṇḍalāntaram || 15 || 
+ 
+ 
+ 20.016a  aṣṭābhir maṇḍalair evam aṅgulānāṃ śatadvayam | 
+ 20.016c  caturviṃśat samākhyātaṃ saṅkhyātattvārthadarśibhiḥ || 16
+                                || 
+ 
+ 
+ 20.017a  kalpitair maṇḍalair evam uṣitasya śucer api | 
+ 20.017c  saptāśvatthasya pattrāṇi sūtreṇāveṣṭya hastayoḥ || 17
+                                || 
+ 
+ 
+ 20.018a  vidadhyāt taptalohasya pañcāśatpalam sammitam | 
+ 20.018c  hastābhyāṃ piṇḍam ādāya śanaiḥ saptapadaṃ vrajet || 18
+                                || 
+ 
+ 
+ 
+ 20.019a  na maṇḍalam atikrāmen nāpy arvāk pādayet padam | 
+ 20.019c  na ca pātayetāprāptaḥ yāvadbhūmir prakalpitā || 19 || 
+ 
+ 
+ 20.020a  tīrtvānena vidhānena maṇḍalāni samāhitaḥ | 
+ 20.020c  adagdhaḥ sarvato yas tu sa viśuddho bhaven naraḥ || 20
+                                || 
+ 
+ 
+ 20.021a  bhayād vā pātayate yas tv adagdho yo vibhāvyate | 
+ 20.021c  punas taṃ hārayel lohaṃ sthitir eṣā purātanī | 
+ 20.021e  anena vidhinā kāryo hutāśasamayaḥ smṛtaḥ || 21 || 
+ 
+ 
+ 20.022a  tvam agne sarvabhūtānām antaścarasi sākṣivat | 
+ 20.022c  sukṛtaṃ duḥkṛtaṃ lokenājñātaṃ vidyate tvayā || 22 || 
+ 
+ 
+ 20.023a  pracchannāni manuṣyāṇāṃ pāpāni sukṛtāni ca | 
+ 20.023c  yathāvad eva jānīṣe na vidur yāni mānuṣāḥ || 23 || 
+ 
+ 
+ 20.024a  vyavahārābhiśasto 'yaṃ puruṣaḥ śuddhim icchati | 
+ 20.024c  tad enaṃ saṃśayāpannaṃ dharmatas trātum arhasi || 24 || 
+ 
+ 
+ 
+                        Section 3
+Jalam  (The Water) 
+ L tr. 224-225 , cf.  J tr. 50-51 
+ 
+ 20.025a  ataḥ paraṃ pravakṣyāmi toyasya vidhim uttamam | 
+ 20.025c  nātikrūreṇa dhanuṣā prerayet sāyakatrayam || 25 || 
+ 
+ 
+ 
+ 20.026a  madhyamas tu śaro grāhyaḥ puruṣeṇa yavīyasā | 
+ 20.026c  pratyānītasya tasyātha sa viśuddho bhaven naraḥ || 26
+                                || 
+ 
+ 
+ 20.027a  anyathā na viśuddhaḥ syād ekāṅgam api darśayet | 
+ 20.027c  sthānād anyatra vā gacched yasmin pūrvaṃ niveṣitaḥ || 27
+                                || 
+ 
+ 
+ 20.028a  striyas tu na balāt kāryā na pumān api durbalaḥ | 
+ 20.028c  bhīrutvād yoṣito mṛtyuḥ kṛśasyāpi balāt kuryāt | 
+ 20.028e  sahasā prāpnuyāt sarvāṃs tasmād etān na majjayet || 28
+                                || 
+ 
+ 
+ 20.029  toyamadhye manuṣyasya gṛhītvorū susaṃyataḥ || 29 
+ 
+ 
+ 20.030a  satyānṛtavibhāgasya toyāgnī spaṣṭakṛttamau | 
+ 20.030c  yataś cāgnir abhūd asmāt tatas toyaṃ viśiṣyate || 30 || 
+ 
+ 
+ 20.031a  kriyate dharmatattvajñair dūṣitānāṃ viśodhanam | 
+ 20.031c  tasmāt satyena bhagavañ jaleśa trātum arhasi || 31 || 
+ 
+ 
+ 
+                        Section 4
+Viṣam  (The Poison) 
+ L tr. 225-226 , cf.  J tr. 52-53 
+ 
+ 20.032a  ataḥ paraṃ pravakṣyāmi viṣasya vidhim uttamam | 
+ 20.032c  tulayitvā viṣaṃ pūrvaṃ deyam etad dhimāgame || 32 || 
+ 
+ 
+ 
+ 20.033a  na pūrvāhṇe na madhyāhne na sandhyāyāṃ tu dharmavit | 
+ 20.033c  śaradgrīṣmavasanteṣu varṣāsu ca na dāpayet || 33 || 
+ 
+ 
+ 20.034a  bhagnaṃ ca dāritaṃ caiva dhūpitaṃ miśritaṃ tathā | 
+ 20.034c  kālakūṭam alambuṃ ca viṣaṃ yatnena varjayet || 34 || 
+ 
+ 
+ 20.035a  śārṅgahaimavataṃ śastaṃ gandhavarṇarasānvitam | 
+ 20.035c  mahādoṣavate deyaṃ rājñā tattvabubhutsayā || 35 || 
+ 
+ 
+ 20.036a  na bālāturavṛddheṣu naiva svalpāparādhiṣu | 
+ 20.036c  viṣasya tu yavān sapta dadyāc chodye ghṛtaplutān || 36
+                                || 
+ 
+ 
+ 20.037a  viṣasya palaṣaḍbhāgād bhāgo viṃśatimas tu yaḥ | 
+ 20.037c  tam aṣṭabhāgahīnaṃ tu śodhye dadyād ghṛtaplutam || 37
+                                || 
+ 
+ 
+ 20.038a  yathoktena vidhānena viprān sprṣṭvānumoditaḥ | 
+ 20.038c  sopavāsaś ca khādeta devabrāhmaṇasannidhau || 38 || 
+ 
+ 
+ 20.039a  viṣaṃ vegaklamāpetaṃ sukhena yadi jīryate | 
+ 20.039c  viśuddham iti taṃ jñātvā rājā satkṛtya mokṣayet || 39
+                                || 
+ 
+ 
+ 20.040a  tvaṃ viṣa brahmaṇaḥ putraḥ satyadharmaratau sthitaḥ | 
+ 20.040c  śodhayainaṃ naraṃ pāpāt satyenāsyāmṛtībhava || 40 || 
+ 
+ 
+ 
+                        Section 5
+Kośaḥ  (The Holy Water) 
+ L tr. 226-228 , cf.  J tr. 53-54 
+ 
+ 20.041  ataḥ paraṃ pravakṣyāmi kośasya vidhim uttamam || 41 || 
+ 
+ 
+ 20.042a  pūrvāhṇe sopavāsasya snātasyārdrapaṭasya ca | 
+ 20.042c  saśūkasyāvyasaninaḥ kośapānaṃ vidhīyate || 42 || 
+ 
+ 
+ 
+ 20.043a  yadbhaktaḥ so 'bhiyuktaḥ syāt taddaivatyaṃ tu pāyayet | 
+ 20.043c  saptāhād yasya dṛśyate dvisaptāhena vā punaḥ | 
+ 20.043e  pratyātmikaṃ tu yatkiñcit saiva tasya vibhāvanā || 43
+                                || 
+ 
+ 
+ 20.044a  dvisaptāhāt paraṃ yasya mahad vā vaikṛtaṃ bhavet | 
+ 20.044c  nābhiyojyaḥ sa viduṣāṃ kṛtakālavyatikramāt || 44 || 
+ 
+ 
+ 20.045a  mahāparādhe nirdharme kṛtaghne klībakutsite | 
+ 20.045c  nāstikavrātyadāseṣu kośapānaṃ vivarjayet || 45 || 
+ 
+ 
+ 20.046a  yathoktena prakāreṇa pañca divyāni dharmavit | 
+ 20.046c  dadyād rājābhiyuktānāṃ pretya ceha ca nandati || 46 || 
+ 
+ 
+ 20.047a  na viṣaṃ brāhmaṇe dadyān na lohaṃ kṣatriyo haret | 
+ 20.047c  na nimajjyāpsu vaiśyaś ca śūdraḥ kośaṃ na pāyayet || 47
+                                || 
+ 
+ 
+ 
+ 20.048a  varṣāsu na viṣaṃ dadyāt hemante nāpsu majjayet | 
+ 20.048c  na lohaṃ hārayed grīṣme na kośaṃ pāyayen niśi || 48 || 
+ 
+ nāradīyadharmaśāstraḥ samāptaḥ 
+ 
+ 
+ 
+ 
+ 
+                Appendix A: Bibliographic Notes
+                 
+ 
+ Author: 
+ Nārada 
+ 
+ 
+ Editor: 
+ Yasuke Ikari ; Richard Mahoney 
+ 
+ 
+ Title: 
+ The Nāradasmṛti - SARIT transcript 
+ 
+ 
+ Place: 
+ London 
+ 
+ 
+ Publisher: 
+ SARIT: Search and Retrieval of Indic Texts 
+ 
+ 
+ Year: 
+ 2009 
+ 
+ 
+ Version: 
+ 0.1_002 
+ 
+ 
+ Subject: 
+ Hindu law -- Sources 
+ 
+ 
+ Language: 
+ Sanskrit ; English 
+ 
+ 
+ Citation: 
+ The Nāradasmṛti - SARIT transcript, Ikari, Yasuke, compilation, data
+                            entry, proof correction, Mahoney, Richard, editing and conversion to TEI
+                            markup, (London: SARIT: Search and Retrieval of Indic Texts, 2009), Id.
+                            No. 0001-00000004. 
+ 
+ 
+ Description: 
+ UTF-8 encoded XML file ; approx. 260000 bytes 
+ 
+ 
+ Identifier: 
+ 0001-00000004 
+ 
+ 
+ Remarks: 
+ The base e-text was: Ikari, Yasuke, editor, Nāradasmṛti - Kyoto
+                            Digital Version, (Kyoto: Kyoto University, 1992), ASCII text file;
+                            approx. 119400 bytes. The source edition for the base e-text
+                            was: Lariviere, R.W., editor, The Nāradasmṛti: Part One, Text,
+                            (Philadelphia: Department of South Asia Regional Studies, University of
+                            Pennsylvania, 1989). The SARIT transcript of the base e-text
+                            was correlated with: 1.) Lariviere, R.W., trans., The Nāradasmṛti: Part
+                            Two, Translation, (Philadelphia: Department of South Asia Regional
+                            Studies, University of Pennsylvania, 1989); and 2.) Jolly, J., trans.,
+                            Náradíya dharmasástra or the institutes of Nárada / translated for the
+                            first time from the unpublished Sanskrit original by Julius Jolly ; with
+                            a preface notes chiefly critical an index of quotations from Nárada in
+                            the principal Indian digests and a general index, (London: Trübner,
+                            1876). 
+ 
+ 
+ Funder: 
+ The British Association for South Asian Studies ; The British
+                            Academy 
+ 
+ 
+ Rights: 
+ Copyright (C) 1992 Yasuke Ikari. All rights reserved. ; Copyright (C)
+                            2009 Dominik Wujastyk. All rights reserved. For more complete details
+                            please refer to the Availability Section of the Text Encoding Initiative
+                            (TEI) Header. 
+ 
+ 
+ 
+ 
+                Appendix B: Text Input System
+                 
+ (1) 
+ Sanskrit diacritics are entered using the Unicode Standard Encoding
+                            (utf-8): 
+ vowels and diphthongs: 
+ a, ā, i, ī, u, ū, ṛ, ṝ, ḷ, e, ai, o, au 
+ gutturals: 
+ k, kh, g, gh, ṅ 
+ palatals: 
+ c, ch, j, jh, ñ 
+ cerebrals: 
+ ṭ, ṭh, ḍ, ḍh, ṇ 
+ dentals: 
+ t, th, d, dh, n 
+ labials: 
+ p, ph, b, bh, m 
+ semivowels: 
+ y, r, l, v 
+ sibilants: 
+ ś, ṣ, s 
+ aspirate: 
+ h 
+ anusvāra: 
+ ṃ 
+ visarga: 
+ ḥ 
+ avagraha: 
+ ' 
+ 
+ 
+ (2) 
+ Anusvāra is transliterated by: 
+ ṅ 
+ before gutturals 
+ ñ 
+ before palatals 
+ ṇ 
+ before cerebrals 
+ n 
+ before dentals 
+ m 
+ before labials 
+ 
+ (3) 
+ Members of a compound are sometimes separated by periods. 
+ (4) 
+ External sandhi is decomposed with -. 
+ (5) 
+ Mūla Text rearranged from Prof. Lariviere's critical edition of the text.
+                        For the details of the text of critical edition, see Prof. Lariviere's
+                        introduction. Mūla text copied from Prof. Lariviere's file for the edition
+                        of text with commentary. Critical apparatus is omitted in this version (mūla
+                        text with apparatus is also available from Yasuke Ikari). 
+ 
+ 
+ 
+                Appendix C: References Declaration
+                 
+ (1) 
+ The  xml:id  attributes of the  l  elements correspond to  Lariviere's edition of the Nāradasmṛti .
+		     
+ A  l  with  xml:id  set to  nāsm.01.009a  corresponds to Chapter 1, Verse 9, Line 1; 
+ A  l  with  xml:id  set to  nāsm-m.01.009c  corresponds to Mātṛkā 1, Verse 9, Line 2. 
+ 
+ (2) 
+ Mātṛkā and chapter headings are from: Lariviere, R.W., op. cit.. 
+ (3) 
+ Page references to Lariviere's edition of the Sanskrit text have been
+                        placed in the body of the text: e.g., -- 49 -- refers to Lariviere's
+                        edition, page 49 - Lariviere, R.W., op. cit.. 
+ (4) 
+ Page references to Lariviere's and Jolly's English translations have been
+                        placed below and to the right of the section headings: e.g., [ L tr.
+                        96-99, cf. J tr. 55-56 refers to Lariviere's translation, pages 96 to 99,
+                        and Jolly's translation, pages 55 to 56 - Lariviere, R.W. and Jolly, J., op.
+                        cit.. 
+ (5) 
+ "J edn Mā" refers to the Prolegomena in: Jolly, J., editor,
+                        Nāradasmṛtiḥ, (Calcutta: Asiatic Society of Bengal, 1885-86) Bibliotheca
+                        Indica: a collection of oriental works, new series, nos 542, 566,
+                        595. 
+ 
+ 
+ 
